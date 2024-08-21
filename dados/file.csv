@@ -1,0 +1,1026 @@
+pokemon_id,url_page,pokemon_name,peso,altura,tipo 1,tipo 2,abilities
+0001,https://pokemondb.net/pokedex/bulbasaur,Bulbasaur,6.9 kg (15.2 lbs),0.7 m (2′04″),Grass,Poison,Overgrow|Chlorophyll|
+0020,https://pokemondb.net/pokedex/raticate,Raticate,18.5 kg (40.8 lbs),0.7 m (2′04″),Normal,Normal,Run Away|Guts|Hustle|Gluttony|Hustle|Thick Fat|
+0025,https://pokemondb.net/pokedex/pikachu,Pikachu,6.0 kg (13.2 lbs),0.4 m (1′04″),Electric,,Static|Lightning Rod|
+0024,https://pokemondb.net/pokedex/arbok,Arbok,65.0 kg (143.3 lbs),3.5 m (11′06″),Poison,,Intimidate|Shed Skin|Unnerve|
+0023,https://pokemondb.net/pokedex/ekans,Ekans,6.9 kg (15.2 lbs),2.0 m (6′07″),Poison,,Intimidate|Shed Skin|Unnerve|
+0026,https://pokemondb.net/pokedex/raichu,Raichu,30.0 kg (66.1 lbs),0.8 m (2′07″),Electric,Psychic,Static|Lightning Rod|Surge Surfer|
+0021,https://pokemondb.net/pokedex/spearow,Spearow,2.0 kg (4.4 lbs),0.3 m (1′00″),Normal,Flying,Keen Eye|Sniper|
+0022,https://pokemondb.net/pokedex/fearow,Fearow,38.0 kg (83.8 lbs),1.2 m (3′11″),Normal,Flying,Keen Eye|Sniper|
+0027,https://pokemondb.net/pokedex/sandshrew,Sandshrew,12.0 kg (26.5 lbs),0.6 m (2′00″),Ground,Steel,Sand Veil|Sand Rush|Snow Cloak|Slush Rush|
+0018,https://pokemondb.net/pokedex/pidgeot,Pidgeot,39.5 kg (87.1 lbs),1.5 m (4′11″),Normal,Flying,Keen Eye|Tangled Feet|Big Pecks|No Guard|
+0019,https://pokemondb.net/pokedex/rattata,Rattata,3.5 kg (7.7 lbs),0.3 m (1′00″),Normal,Normal,Run Away|Guts|Hustle|Gluttony|Hustle|Thick Fat|
+0017,https://pokemondb.net/pokedex/pidgeotto,Pidgeotto,30.0 kg (66.1 lbs),1.1 m (3′07″),Normal,Flying,Keen Eye|Tangled Feet|Big Pecks|
+0014,https://pokemondb.net/pokedex/kakuna,Kakuna,10.0 kg (22.0 lbs),0.6 m (2′00″),Bug,Poison,Shed Skin|
+0016,https://pokemondb.net/pokedex/pidgey,Pidgey,1.8 kg (4.0 lbs),0.3 m (1′00″),Normal,Flying,Keen Eye|Tangled Feet|Big Pecks|
+0013,https://pokemondb.net/pokedex/weedle,Weedle,3.2 kg (7.1 lbs),0.3 m (1′00″),Bug,Poison,Shield Dust|Run Away|
+0335,https://pokemondb.net/pokedex/zangoose,Zangoose,40.3 kg (88.8 lbs),1.3 m (4′03″),Normal,,Immunity|Toxic Boost|
+0336,https://pokemondb.net/pokedex/seviper,Seviper,52.5 kg (115.7 lbs),2.7 m (8′10″),Poison,,Shed Skin|Infiltrator|
+0206,https://pokemondb.net/pokedex/dunsparce,Dunsparce,14.0 kg (30.9 lbs),1.5 m (4′11″),Normal,,Serene Grace|Run Away|Rattled|
+0360,https://pokemondb.net/pokedex/wynaut,Wynaut,14.0 kg (30.9 lbs),0.6 m (2′00″),Psychic,,Shadow Tag|Telepathy|
+0386,https://pokemondb.net/pokedex/deoxys,Deoxys,60.8 kg (134.0 lbs),1.7 m (5′07″),Psychic,,Pressure|Pressure|Pressure|Pressure|
+0361,https://pokemondb.net/pokedex/snorunt,Snorunt,16.8 kg (37.0 lbs),0.7 m (2′04″),Ice,,Inner Focus|Ice Body|Moody|
+0412,https://pokemondb.net/pokedex/burmy,Burmy,3.4 kg (7.5 lbs),0.2 m (0′08″),Bug,,Shed Skin|Overcoat|Shed Skin|Overcoat|Shed Skin|Overcoat|
+0359,https://pokemondb.net/pokedex/absol,Absol,47.0 kg (103.6 lbs),1.2 m (3′11″),Dark,,Pressure|Super Luck|Justified|Magic Bounce|
+0363,https://pokemondb.net/pokedex/spheal,Spheal,39.5 kg (87.1 lbs),0.8 m (2′07″),Ice,Water,Thick Fat|Ice Body|Oblivious|
+0362,https://pokemondb.net/pokedex/glalie,Glalie,256.5 kg (565.5 lbs),1.5 m (4′11″),Ice,,Inner Focus|Ice Body|Moody|Refrigerate|
+0015,https://pokemondb.net/pokedex/beedrill,Beedrill,29.5 kg (65.0 lbs),1.0 m (3′03″),Bug,Poison,Swarm|Sniper|Adaptability|
+0442,https://pokemondb.net/pokedex/spiritomb,Spiritomb,108.0 kg (238.1 lbs),1.0 m (3′03″),Ghost,Dark,Pressure|Infiltrator|
+0411,https://pokemondb.net/pokedex/bastiodon,Bastiodon,149.5 kg (329.6 lbs),1.3 m (4′03″),Rock,Steel,Sturdy|Soundproof|
+0472,https://pokemondb.net/pokedex/gliscor,Gliscor,42.5 kg (93.7 lbs),2.0 m (6′07″),Ground,Flying,Hyper Cutter|Sand Veil|Poison Heal|
+0470,https://pokemondb.net/pokedex/leafeon,Leafeon,25.5 kg (56.2 lbs),1.0 m (3′03″),Grass,,Leaf Guard|Chlorophyll|
+0441,https://pokemondb.net/pokedex/chatot,Chatot,1.9 kg (4.2 lbs),0.5 m (1′08″),Normal,Flying,Keen Eye|Tangled Feet|Big Pecks|
+0440,https://pokemondb.net/pokedex/happiny,Happiny,24.4 kg (53.8 lbs),0.6 m (2′00″),Normal,,Natural Cure|Serene Grace|Friend Guard|
+0469,https://pokemondb.net/pokedex/yanmega,Yanmega,51.5 kg (113.5 lbs),1.9 m (6′03″),Bug,Flying,Speed Boost|Tinted Lens|Frisk|
+0471,https://pokemondb.net/pokedex/glaceon,Glaceon,25.9 kg (57.1 lbs),0.8 m (2′07″),Ice,,Snow Cloak|Ice Body|
+0554,https://pokemondb.net/pokedex/darumaka,Darumaka,37.5 kg (82.7 lbs),0.6 m (2′00″),Fire,,Hustle|Inner Focus|Hustle|Inner Focus|
+0553,https://pokemondb.net/pokedex/krookodile,Krookodile,96.3 kg (212.3 lbs),1.5 m (4′11″),Ground,Dark,Intimidate|Moxie|Anger Point|
+0549,https://pokemondb.net/pokedex/lilligant,Lilligant,16.3 kg (35.9 lbs),1.1 m (3′07″),Grass,Fighting,Chlorophyll|Own Tempo|Leaf Guard|Chlorophyll|Hustle|Leaf Guard|
+0548,https://pokemondb.net/pokedex/petilil,Petilil,6.6 kg (14.6 lbs),0.5 m (1′08″),Grass,Lostlorn Forest,Chlorophyll|Own Tempo|Leaf Guard|
+0552,https://pokemondb.net/pokedex/krokorok,Krokorok,33.4 kg (73.6 lbs),1.0 m (3′03″),Ground,Dark,Intimidate|Moxie|Anger Point|
+0547,https://pokemondb.net/pokedex/whimsicott,Whimsicott,6.6 kg (14.6 lbs),0.7 m (2′04″),Grass,Fairy,Prankster|Infiltrator|Chlorophyll|
+0551,https://pokemondb.net/pokedex/sandile,Sandile,15.2 kg (33.5 lbs),0.7 m (2′04″),Ground,Dark,Intimidate|Moxie|Anger Point|
+0550,https://pokemondb.net/pokedex/basculin,Basculin,18.0 kg (39.7 lbs),1.0 m (3′03″),Water,3,Reckless|Adaptability|Mold Breaker|Rock Head|Adaptability|Mold Breaker|Rattled|Adaptability|Mold Breaker|
+0612,https://pokemondb.net/pokedex/haxorus,Haxorus,105.5 kg (232.6 lbs),1.8 m (5′11″),Dragon,,Rivalry|Mold Breaker|Unnerve|
+0611,https://pokemondb.net/pokedex/fraxure,Fraxure,36.0 kg (79.4 lbs),1.0 m (3′03″),Dragon,Nature Preserve,Rivalry|Mold Breaker|Unnerve|
+0641,https://pokemondb.net/pokedex/tornadus,Tornadus,63.0 kg (138.9 lbs),1.5 m (4′11″),Flying,,Prankster|Defiant|Regenerator|
+0606,https://pokemondb.net/pokedex/beheeyem,Beheeyem,34.5 kg (76.1 lbs),1.0 m (3′03″),Psychic,,Telepathy|Synchronize|Analytic|
+0609,https://pokemondb.net/pokedex/chandelure,Chandelure,34.3 kg (75.6 lbs),1.0 m (3′03″),Ghost,Fire,Flash Fire|Flame Body|Infiltrator|
+0610,https://pokemondb.net/pokedex/axew,Axew,18.0 kg (39.7 lbs),0.6 m (2′00″),Dragon,,Rivalry|Mold Breaker|Unnerve|
+0608,https://pokemondb.net/pokedex/lampent,Lampent,13.0 kg (28.7 lbs),0.6 m (2′00″),Ghost,Fire,Flash Fire|Flame Body|Infiltrator|
+0607,https://pokemondb.net/pokedex/litwick,Litwick,3.1 kg (6.8 lbs),0.3 m (1′00″),Ghost,Fire,Flash Fire|Flame Body|Infiltrator|
+0698,https://pokemondb.net/pokedex/amaura,Amaura,25.2 kg (55.6 lbs),1.3 m (4′03″),Rock,Ice,Refrigerate|Snow Warning|
+0694,https://pokemondb.net/pokedex/helioptile,Helioptile,6.0 kg (13.2 lbs),0.5 m (1′08″),Electric,Normal,Dry Skin|Sand Veil|Solar Power|
+0699,https://pokemondb.net/pokedex/aurorus,Aurorus,225.0 kg (496.0 lbs),2.7 m (8′10″),Rock,Ice,Refrigerate|Snow Warning|
+0693,https://pokemondb.net/pokedex/clawitzer,Clawitzer,35.3 kg (77.8 lbs),1.3 m (4′03″),Water,,Mega Launcher|
+0692,https://pokemondb.net/pokedex/clauncher,Clauncher,8.3 kg (18.3 lbs),0.5 m (1′08″),Water,,Mega Launcher|
+0697,https://pokemondb.net/pokedex/tyrantrum,Tyrantrum,270.0 kg (595.2 lbs),2.5 m (8′02″),Rock,Dragon,Strong Jaw|Rock Head|
+0696,https://pokemondb.net/pokedex/tyrunt,Tyrunt,26.0 kg (57.3 lbs),0.8 m (2′07″),Rock,Dragon,Strong Jaw|Sturdy|
+0695,https://pokemondb.net/pokedex/heliolisk,Heliolisk,21.0 kg (46.3 lbs),1.0 m (3′03″),Electric,Normal,Dry Skin|Sand Veil|Solar Power|
+0810,https://pokemondb.net/pokedex/grookey,Grookey,5.0 kg (11.0 lbs),0.3 m (1′00″),Grass,,Overgrow|Grassy Surge|
+0812,https://pokemondb.net/pokedex/rillaboom,Rillaboom,90.0 kg (198.4 lbs),2.1 m (6′11″),Grass,,Overgrow|Grassy Surge|
+0809,https://pokemondb.net/pokedex/melmetal,Melmetal,800.0 kg (1763.7 lbs),2.5 m (8′02″),Steel,,Iron Fist|
+0808,https://pokemondb.net/pokedex/meltan,Meltan,8.0 kg (17.6 lbs),0.2 m (0′08″),Steel,,Magnet Pull|
+0807,https://pokemondb.net/pokedex/zeraora,Zeraora,44.5 kg (98.1 lbs),1.5 m (4′11″),Electric,,Volt Absorb|
+0811,https://pokemondb.net/pokedex/thwackey,Thwackey,14.0 kg (30.9 lbs),0.7 m (2′04″),Grass,,Overgrow|Grassy Surge|
+0904,https://pokemondb.net/pokedex/overqwil,Overqwil,60.5 kg (133.4 lbs),2.5 m (8′02″),Dark,Poison,Poison Point|Swift Swim|Intimidate|
+0903,https://pokemondb.net/pokedex/sneasler,Sneasler,43.0 kg (94.8 lbs),1.3 m (4′03″),Fighting,Poison,Pressure|Unburden|Poison Touch|
+0931,https://pokemondb.net/pokedex/squawkabilly,Squawkabilly,2.4 kg (5.3 lbs),0.6 m (2′00″),Normal,Flying,Intimidate|Hustle|Guts|Intimidate|Hustle|Guts|Intimidate|Hustle|Sheer Force|Intimidate|Hustle|Sheer Force|
+0930,https://pokemondb.net/pokedex/arboliva,Arboliva,48.2 kg (106.3 lbs),1.4 m (4′07″),Grass,Normal,Seed Sower|Harvest|
+0846,https://pokemondb.net/pokedex/arrokuda,Arrokuda,1.0 kg (2.2 lbs),0.5 m (1′08″),Water,,Swift Swim|Propeller Tail|
+0928,https://pokemondb.net/pokedex/smoliv,Smoliv,6.5 kg (14.3 lbs),0.3 m (1′00″),Grass,Normal,Early Bird|Harvest|
+0929,https://pokemondb.net/pokedex/dolliv,Dolliv,11.9 kg (26.2 lbs),0.6 m (2′00″),Grass,Normal,Early Bird|Harvest|
+0927,https://pokemondb.net/pokedex/dachsbun,Dachsbun,14.9 kg (32.8 lbs),0.5 m (1′08″),Fairy,,Well-Baked Body|Aroma Veil|
+0926,https://pokemondb.net/pokedex/fidough,Fidough,10.9 kg (24.0 lbs),0.3 m (1′00″),Fairy,,Own Tempo|Klutz|
+1024,https://pokemondb.net/pokedex/terapagos,Terapagos,6.5 kg (14.3 lbs),0.2 m (0′08″),Normal,,Tera Shift|Tera Shell|Teraform Zero|
+1022,https://pokemondb.net/pokedex/iron-boulder,Iron Boulder,162.5 kg (358.3 lbs),1.5 m (4′11″),Rock,Psychic,Quark Drive|
+1021,https://pokemondb.net/pokedex/raging-bolt,Raging Bolt,480.0 kg (1058.2 lbs),5.2 m (17′01″),Electric,Dragon,Protosynthesis|
+1023,https://pokemondb.net/pokedex/iron-crown,Iron Crown,156.0 kg (343.9 lbs),1.6 m (5′03″),Steel,Psychic,Quark Drive|
+1020,https://pokemondb.net/pokedex/gouging-fire,Gouging Fire,590.0 kg (1300.7 lbs),3.5 m (11′06″),Fire,Dragon,Protosynthesis|
+1019,https://pokemondb.net/pokedex/hydrapple,Hydrapple,93.0 kg (205.0 lbs),1.8 m (5′11″),Grass,Dragon,Supersweet Syrup|Regenerator|Sticky Hold|
+1025,https://pokemondb.net/pokedex/pecharunt,Pecharunt,0.3 kg (0.7 lbs),0.3 m (1′00″),Poison,Ghost,Poison Puppeteer|
+1018,https://pokemondb.net/pokedex/archaludon,Archaludon,60.0 kg (132.3 lbs),2.0 m (6′07″),Steel,Dragon,Stamina|Sturdy|Stalwart|
+1015,https://pokemondb.net/pokedex/munkidori,Munkidori,12.2 kg (26.9 lbs),1.0 m (3′03″),Poison,Psychic,Toxic Chain|Frisk|
+1014,https://pokemondb.net/pokedex/okidogi,Okidogi,92.0 kg (202.8 lbs),1.8 m (5′11″),Poison,Fighting,Toxic Chain|Guard Dog|
+1017,https://pokemondb.net/pokedex/ogerpon,Ogerpon,39.8 kg (87.7 lbs),1.2 m (3′11″),Grass,Water,Defiant|Embody Aspect|Water Absorb|Embody Aspect|Mold Breaker|Embody Aspect|Sturdy|Embody Aspect|
+1016,https://pokemondb.net/pokedex/fezandipiti,Fezandipiti,30.1 kg (66.4 lbs),1.4 m (4′07″),Poison,Fairy,Toxic Chain|Technician|
+0847,https://pokemondb.net/pokedex/barraskewda,Barraskewda,30.0 kg (66.1 lbs),1.3 m (4′03″),Water,,Swift Swim|Propeller Tail|
+1013,https://pokemondb.net/pokedex/sinistcha,Sinistcha,2.2 kg (4.9 lbs),0.2 m (0′08″),Grass,Ghost,Hospitality|Heatproof|
+1012,https://pokemondb.net/pokedex/poltchageist,Poltchageist,1.1 kg (2.4 lbs),0.1 m (0′04″),Grass,Ghost,Hospitality|Heatproof|
+1011,https://pokemondb.net/pokedex/dipplin,Dipplin,4.4 kg (9.7 lbs),0.4 m (1′04″),Grass,Dragon,Supersweet Syrup|Gluttony|Sticky Hold|
+1010,https://pokemondb.net/pokedex/iron-leaves,Iron Leaves,125.0 kg (275.6 lbs),1.5 m (4′11″),Grass,Psychic,Quark Drive|
+1009,https://pokemondb.net/pokedex/walking-wake,Walking Wake,280.0 kg (617.3 lbs),3.5 m (11′06″),Water,Dragon,Protosynthesis|
+1008,https://pokemondb.net/pokedex/miraidon,Miraidon,240.0 kg (529.1 lbs),3.5 m (11′06″),Electric,Dragon,Hadron Engine|
+1007,https://pokemondb.net/pokedex/koraidon,Koraidon,303.0 kg (668.0 lbs),2.5 m (8′02″),Fighting,Dragon,Orichalcum Pulse|
+1006,https://pokemondb.net/pokedex/iron-valiant,Iron Valiant,35.0 kg (77.2 lbs),1.4 m (4′07″),Fairy,Fighting,Quark Drive|
+1005,https://pokemondb.net/pokedex/roaring-moon,Roaring Moon,380.0 kg (837.8 lbs),2.0 m (6′07″),Dragon,Dark,Protosynthesis|
+1004,https://pokemondb.net/pokedex/chi-yu,Chi-Yu,4.9 kg (10.8 lbs),0.4 m (1′04″),Dark,Fire,Beads of Ruin|
+1001,https://pokemondb.net/pokedex/wo-chien,Wo-Chien,74.2 kg (163.6 lbs),1.5 m (4′11″),Dark,Grass,Tablets of Ruin|
+1003,https://pokemondb.net/pokedex/ting-lu,Ting-Lu,699.7 kg (1542.6 lbs),2.7 m (8′10″),Dark,Ground,Vessel of Ruin|
+1002,https://pokemondb.net/pokedex/chien-pao,Chien-Pao,152.2 kg (335.5 lbs),1.9 m (6′03″),Dark,Ice,Sword of Ruin|
+1000,https://pokemondb.net/pokedex/gholdengo,Gholdengo,30.0 kg (66.1 lbs),1.2 m (3′11″),Steel,Ghost,Good as Gold|
+0999,https://pokemondb.net/pokedex/gimmighoul,Gimmighoul,5.0 kg (11.0 lbs),0.3 m (1′00″),Ghost,,Rattled|Run Away|
+0998,https://pokemondb.net/pokedex/baxcalibur,Baxcalibur,210.0 kg (463.0 lbs),2.1 m (6′11″),Dragon,Ice,Thermal Exchange|Ice Body|
+0997,https://pokemondb.net/pokedex/arctibax,Arctibax,30.0 kg (66.1 lbs),0.8 m (2′07″),Dragon,Ice,Thermal Exchange|Ice Body|
+0996,https://pokemondb.net/pokedex/frigibax,Frigibax,17.0 kg (37.5 lbs),0.5 m (1′08″),Dragon,Ice,Thermal Exchange|Ice Body|
+0995,https://pokemondb.net/pokedex/iron-thorns,Iron Thorns,303.0 kg (668.0 lbs),1.6 m (5′03″),Rock,Electric,Quark Drive|
+0994,https://pokemondb.net/pokedex/iron-moth,Iron Moth,36.0 kg (79.4 lbs),1.2 m (3′11″),Fire,Poison,Quark Drive|
+0993,https://pokemondb.net/pokedex/iron-jugulis,Iron Jugulis,111.0 kg (244.7 lbs),1.3 m (4′03″),Dark,Flying,Quark Drive|
+0990,https://pokemondb.net/pokedex/iron-treads,Iron Treads,240.0 kg (529.1 lbs),0.9 m (2′11″),Ground,Steel,Quark Drive|
+0992,https://pokemondb.net/pokedex/iron-hands,Iron Hands,380.7 kg (839.3 lbs),1.8 m (5′11″),Fighting,Electric,Quark Drive|
+0991,https://pokemondb.net/pokedex/iron-bundle,Iron Bundle,11.0 kg (24.3 lbs),0.6 m (2′00″),Ice,Water,Quark Drive|
+0989,https://pokemondb.net/pokedex/sandy-shocks,Sandy Shocks,60.0 kg (132.3 lbs),2.3 m (7′07″),Electric,Ground,Protosynthesis|
+0988,https://pokemondb.net/pokedex/slither-wing,Slither Wing,92.0 kg (202.8 lbs),3.2 m (10′06″),Bug,Fighting,Protosynthesis|
+0987,https://pokemondb.net/pokedex/flutter-mane,Flutter Mane,4.0 kg (8.8 lbs),1.4 m (4′07″),Ghost,Fairy,Protosynthesis|
+0986,https://pokemondb.net/pokedex/brute-bonnet,Brute Bonnet,21.0 kg (46.3 lbs),1.2 m (3′11″),Grass,Dark,Protosynthesis|
+0985,https://pokemondb.net/pokedex/scream-tail,Scream Tail,8.0 kg (17.6 lbs),1.2 m (3′11″),Fairy,Psychic,Protosynthesis|
+0984,https://pokemondb.net/pokedex/great-tusk,Great Tusk,320.0 kg (705.5 lbs),2.2 m (7′03″),Ground,Fighting,Protosynthesis|
+0983,https://pokemondb.net/pokedex/kingambit,Kingambit,120.0 kg (264.6 lbs),2.0 m (6′07″),Dark,Steel,Defiant|Supreme Overlord|Pressure|
+0982,https://pokemondb.net/pokedex/dudunsparce,Dudunsparce,39.2 kg (86.4 lbs),3.6 m (11′10″),Normal,,Serene Grace|Run Away|Rattled|Serene Grace|Run Away|Rattled|
+0981,https://pokemondb.net/pokedex/farigiraf,Farigiraf,160.0 kg (352.7 lbs),3.2 m (10′06″),Normal,Psychic,Cud Chew|Armor Tail|Sap Sipper|
+0980,https://pokemondb.net/pokedex/clodsire,Clodsire,223.0 kg (491.6 lbs),1.8 m (5′11″),Poison,Ground,Poison Point|Water Absorb|Unaware|
+0975,https://pokemondb.net/pokedex/cetitan,Cetitan,700.0 kg (1543.2 lbs),4.5 m (14′09″),Ice,,Thick Fat|Slush Rush|Sheer Force|
+0977,https://pokemondb.net/pokedex/dondozo,Dondozo,220.0 kg (485.0 lbs),12.0 m (39′04″),Water,,Unaware|Oblivious|Water Veil|
+0976,https://pokemondb.net/pokedex/veluza,Veluza,90.0 kg (198.4 lbs),2.5 m (8′02″),Water,Psychic,Mold Breaker|Sharpness|
+0979,https://pokemondb.net/pokedex/annihilape,Annihilape,56.0 kg (123.5 lbs),1.2 m (3′11″),Fighting,Ghost,Vital Spirit|Inner Focus|Defiant|
+0978,https://pokemondb.net/pokedex/tatsugiri,Tatsugiri,8.0 kg (17.6 lbs),0.3 m (1′00″),Dragon,Water,Commander|Storm Drain|
+0973,https://pokemondb.net/pokedex/flamigo,Flamigo,37.0 kg (81.6 lbs),1.6 m (5′03″),Flying,Fighting,Scrappy|Tangled Feet|Costar|
+0972,https://pokemondb.net/pokedex/houndstone,Houndstone,15.0 kg (33.1 lbs),2.0 m (6′07″),Ghost,,Sand Rush|Fluffy|
+0971,https://pokemondb.net/pokedex/greavard,Greavard,35.0 kg (77.2 lbs),0.6 m (2′00″),Ghost,,Pickup|Fluffy|
+0970,https://pokemondb.net/pokedex/glimmora,Glimmora,45.0 kg (99.2 lbs),1.5 m (4′11″),Rock,Poison,Toxic Debris|Corrosion|
+0969,https://pokemondb.net/pokedex/glimmet,Glimmet,8.0 kg (17.6 lbs),0.7 m (2′04″),Rock,Poison,Toxic Debris|Corrosion|
+0968,https://pokemondb.net/pokedex/orthworm,Orthworm,310.0 kg (683.4 lbs),2.5 m (8′02″),Steel,,Earth Eater|Sand Veil|
+0967,https://pokemondb.net/pokedex/cyclizar,Cyclizar,63.0 kg (138.9 lbs),1.6 m (5′03″),Dragon,Normal,Shed Skin|Regenerator|
+0974,https://pokemondb.net/pokedex/cetoddle,Cetoddle,45.0 kg (99.2 lbs),1.2 m (3′11″),Ice,,Thick Fat|Snow Cloak|Sheer Force|
+0966,https://pokemondb.net/pokedex/revavroom,Revavroom,120.0 kg (264.6 lbs),1.8 m (5′11″),Steel,Poison,Overcoat|Filter|
+0965,https://pokemondb.net/pokedex/varoom,Varoom,35.0 kg (77.2 lbs),1.0 m (3′03″),Steel,Poison,Overcoat|Slow Start|
+0962,https://pokemondb.net/pokedex/bombirdier,Bombirdier,42.9 kg (94.6 lbs),1.5 m (4′11″),Flying,Dark,Big Pecks|Keen Eye|Rocky Payload|
+0964,https://pokemondb.net/pokedex/palafin,Palafin,60.2 kg (132.7 lbs),1.3 m (4′03″),Water,,Zero to Hero|Zero to Hero|
+0963,https://pokemondb.net/pokedex/finizen,Finizen,60.2 kg (132.7 lbs),1.3 m (4′03″),Water,,Water Veil|
+0961,https://pokemondb.net/pokedex/wugtrio,Wugtrio,5.4 kg (11.9 lbs),1.2 m (3′11″),Water,,Gooey|Rattled|Sand Veil|
+0960,https://pokemondb.net/pokedex/wiglett,Wiglett,1.8 kg (4.0 lbs),1.2 m (3′11″),Water,,Gooey|Rattled|Sand Veil|
+0958,https://pokemondb.net/pokedex/tinkatuff,Tinkatuff,59.1 kg (130.3 lbs),0.7 m (2′04″),Fairy,Steel,Mold Breaker|Own Tempo|Pickpocket|
+0957,https://pokemondb.net/pokedex/tinkatink,Tinkatink,8.9 kg (19.6 lbs),0.4 m (1′04″),Fairy,Steel,Mold Breaker|Own Tempo|Pickpocket|
+0953,https://pokemondb.net/pokedex/rellor,Rellor,1.0 kg (2.2 lbs),0.2 m (0′08″),Bug,,Compound Eyes|Shed Skin|
+0952,https://pokemondb.net/pokedex/scovillain,Scovillain,15.0 kg (33.1 lbs),0.9 m (2′11″),Grass,Fire,Chlorophyll|Insomnia|Moody|
+0956,https://pokemondb.net/pokedex/espathra,Espathra,90.0 kg (198.4 lbs),1.9 m (6′03″),Psychic,,Opportunist|Frisk|Speed Boost|
+0955,https://pokemondb.net/pokedex/flittle,Flittle,1.5 kg (3.3 lbs),0.2 m (0′08″),Psychic,,Anticipation|Frisk|Speed Boost|
+0959,https://pokemondb.net/pokedex/tinkaton,Tinkaton,112.8 kg (248.7 lbs),0.7 m (2′04″),Fairy,Steel,Mold Breaker|Own Tempo|Pickpocket|
+0954,https://pokemondb.net/pokedex/rabsca,Rabsca,3.5 kg (7.7 lbs),0.3 m (1′00″),Bug,Psychic,Synchronize|Telepathy|
+0951,https://pokemondb.net/pokedex/capsakid,Capsakid,3.0 kg (6.6 lbs),0.3 m (1′00″),Grass,,Chlorophyll|Insomnia|Klutz|
+0950,https://pokemondb.net/pokedex/klawf,Klawf,79.0 kg (174.2 lbs),1.3 m (4′03″),Rock,,Anger Shell|Shell Armor|Regenerator|
+0947,https://pokemondb.net/pokedex/brambleghast,Brambleghast,6.0 kg (13.2 lbs),1.2 m (3′11″),Grass,Ghost,Wind Rider|Infiltrator|
+0946,https://pokemondb.net/pokedex/bramblin,Bramblin,0.6 kg (1.3 lbs),0.6 m (2′00″),Grass,Ghost,Wind Rider|Infiltrator|
+0945,https://pokemondb.net/pokedex/grafaiai,Grafaiai,27.2 kg (60.0 lbs),0.7 m (2′04″),Poison,Normal,Unburden|Poison Touch|Prankster|
+0949,https://pokemondb.net/pokedex/toedscruel,Toedscruel,58.0 kg (127.9 lbs),1.9 m (6′03″),Ground,Grass,Mycelium Might|
+0948,https://pokemondb.net/pokedex/toedscool,Toedscool,33.0 kg (72.8 lbs),0.9 m (2′11″),Ground,Grass,Mycelium Might|
+0943,https://pokemondb.net/pokedex/mabosstiff,Mabosstiff,61.0 kg (134.5 lbs),1.1 m (3′07″),Dark,,Intimidate|Guard Dog|Stakeout|
+0942,https://pokemondb.net/pokedex/maschiff,Maschiff,16.0 kg (35.3 lbs),0.5 m (1′08″),Dark,,Intimidate|Run Away|Stakeout|
+0937,https://pokemondb.net/pokedex/ceruledge,Ceruledge,62.0 kg (136.7 lbs),1.6 m (5′03″),Fire,Ghost,Flash Fire|Weak Armor|
+0941,https://pokemondb.net/pokedex/kilowattrel,Kilowattrel,38.6 kg (85.1 lbs),1.4 m (4′07″),Electric,Flying,Wind Power|Volt Absorb|Competitive|
+0938,https://pokemondb.net/pokedex/tadbulb,Tadbulb,0.4 kg (0.9 lbs),0.3 m (1′00″),Electric,,Own Tempo|Static|Damp|
+0940,https://pokemondb.net/pokedex/wattrel,Wattrel,3.6 kg (7.9 lbs),0.4 m (1′04″),Electric,Flying,Wind Power|Volt Absorb|Competitive|
+0939,https://pokemondb.net/pokedex/bellibolt,Bellibolt,113.0 kg (249.1 lbs),1.2 m (3′11″),Electric,,Electromorphosis|Static|Damp|
+0944,https://pokemondb.net/pokedex/shroodle,Shroodle,0.7 kg (1.5 lbs),0.2 m (0′08″),Poison,Normal,Unburden|Pickpocket|Prankster|
+0936,https://pokemondb.net/pokedex/armarouge,Armarouge,85.0 kg (187.4 lbs),1.5 m (4′11″),Fire,Psychic,Flash Fire|Weak Armor|
+0935,https://pokemondb.net/pokedex/charcadet,Charcadet,10.5 kg (23.1 lbs),0.6 m (2′00″),Fire,,Flash Fire|Flame Body|
+0934,https://pokemondb.net/pokedex/garganacl,Garganacl,240.0 kg (529.1 lbs),2.3 m (7′07″),Rock,,Purifying Salt|Sturdy|Clear Body|
+0933,https://pokemondb.net/pokedex/naclstack,Naclstack,105.0 kg (231.5 lbs),0.6 m (2′00″),Rock,,Purifying Salt|Sturdy|Clear Body|
+0932,https://pokemondb.net/pokedex/nacli,Nacli,16.0 kg (35.3 lbs),0.4 m (1′04″),Rock,,Purifying Salt|Sturdy|Clear Body|
+0925,https://pokemondb.net/pokedex/maushold,Maushold,2.8 kg (6.2 lbs),0.3 m (1′00″),Normal,,Friend Guard|Cheek Pouch|Technician|Friend Guard|Cheek Pouch|Technician|
+0924,https://pokemondb.net/pokedex/tandemaus,Tandemaus,1.8 kg (4.0 lbs),0.3 m (1′00″),Normal,,Run Away|Pickup|Own Tempo|
+0923,https://pokemondb.net/pokedex/pawmot,Pawmot,41.0 kg (90.4 lbs),0.9 m (2′11″),Electric,Fighting,Volt Absorb|Natural Cure|Iron Fist|
+0919,https://pokemondb.net/pokedex/nymble,Nymble,1.0 kg (2.2 lbs),0.2 m (0′08″),Bug,,Swarm|Tinted Lens|
+0921,https://pokemondb.net/pokedex/pawmi,Pawmi,2.5 kg (5.5 lbs),0.3 m (1′00″),Electric,,Static|Natural Cure|Iron Fist|
+0920,https://pokemondb.net/pokedex/lokix,Lokix,17.5 kg (38.6 lbs),1.0 m (3′03″),Bug,Dark,Swarm|Tinted Lens|
+0917,https://pokemondb.net/pokedex/tarountula,Tarountula,4.0 kg (8.8 lbs),0.3 m (1′00″),Bug,,Insomnia|Stakeout|
+0922,https://pokemondb.net/pokedex/pawmo,Pawmo,6.5 kg (14.3 lbs),0.4 m (1′04″),Electric,Fighting,Volt Absorb|Natural Cure|Iron Fist|
+0916,https://pokemondb.net/pokedex/oinkologne,Oinkologne,120.0 kg (264.6 lbs),1.0 m (3′03″),Normal,,Lingering Aroma|Gluttony|Thick Fat|Aroma Veil|Gluttony|Thick Fat|
+0918,https://pokemondb.net/pokedex/spidops,Spidops,16.5 kg (36.4 lbs),1.0 m (3′03″),Bug,,Insomnia|Stakeout|
+0912,https://pokemondb.net/pokedex/quaxly,Quaxly,6.1 kg (13.4 lbs),0.5 m (1′08″),Water,,Torrent|Moxie|
+0915,https://pokemondb.net/pokedex/lechonk,Lechonk,10.2 kg (22.5 lbs),0.5 m (1′08″),Normal,,Aroma Veil|Gluttony|Thick Fat|
+0908,https://pokemondb.net/pokedex/meowscarada,Meowscarada,31.2 kg (68.8 lbs),1.5 m (4′11″),Grass,Dark,Overgrow|Protean|
+0913,https://pokemondb.net/pokedex/quaxwell,Quaxwell,21.5 kg (47.4 lbs),1.2 m (3′11″),Water,,Torrent|Moxie|
+0909,https://pokemondb.net/pokedex/fuecoco,Fuecoco,9.8 kg (21.6 lbs),0.4 m (1′04″),Fire,,Blaze|Unaware|
+0911,https://pokemondb.net/pokedex/skeledirge,Skeledirge,326.5 kg (719.8 lbs),1.6 m (5′03″),Fire,Ghost,Blaze|Unaware|
+0914,https://pokemondb.net/pokedex/quaquaval,Quaquaval,61.9 kg (136.5 lbs),1.8 m (5′11″),Water,Fighting,Torrent|Moxie|
+0906,https://pokemondb.net/pokedex/sprigatito,Sprigatito,4.1 kg (9.0 lbs),0.4 m (1′04″),Grass,,Overgrow|Protean|
+0907,https://pokemondb.net/pokedex/floragato,Floragato,12.2 kg (26.9 lbs),0.9 m (2′11″),Grass,,Overgrow|Protean|
+0910,https://pokemondb.net/pokedex/crocalor,Crocalor,30.7 kg (67.7 lbs),1.0 m (3′03″),Fire,,Blaze|Unaware|
+0905,https://pokemondb.net/pokedex/enamorus,Enamorus,48.0 kg (105.8 lbs),1.6 m (5′03″),Fairy,Flying,Cute Charm|Contrary|Overcoat|
+0899,https://pokemondb.net/pokedex/wyrdeer,Wyrdeer,95.1 kg (209.7 lbs),1.8 m (5′11″),Normal,Psychic,Intimidate|Frisk|Sap Sipper|
+0902,https://pokemondb.net/pokedex/basculegion,Basculegion,110.0 kg (242.5 lbs),3.0 m (9′10″),Water,Ghost,Swift Swim|Adaptability|Mold Breaker|Swift Swim|Adaptability|Mold Breaker|
+0901,https://pokemondb.net/pokedex/ursaluna,Ursaluna,290.0 kg (639.3 lbs),2.4 m (7′10″),Ground,Normal,Guts|Bulletproof|Unnerve|Mind's Eye|
+0900,https://pokemondb.net/pokedex/kleavor,Kleavor,89.0 kg (196.2 lbs),1.8 m (5′11″),Bug,Rock,Swarm|Sheer Force|Sharpness|
+0898,https://pokemondb.net/pokedex/calyrex,Calyrex,7.7 kg (17.0 lbs),1.1 m (3′07″),Psychic,Grass,Unnerve|As One|As One|
+0896,https://pokemondb.net/pokedex/glastrier,Glastrier,800.0 kg (1763.7 lbs),2.2 m (7′03″),Ice,,Chilling Neigh|
+0895,https://pokemondb.net/pokedex/regidrago,Regidrago,200.0 kg (440.9 lbs),2.1 m (6′11″),Dragon,,Dragon's Maw|
+0897,https://pokemondb.net/pokedex/spectrier,Spectrier,44.5 kg (98.1 lbs),2.0 m (6′07″),Ghost,,Grim Neigh|
+0890,https://pokemondb.net/pokedex/eternatus,Eternatus,950.0 kg (2094.4 lbs),20.0 m (65′07″),Poison,Dragon,Pressure|
+0894,https://pokemondb.net/pokedex/regieleki,Regieleki,145.0 kg (319.7 lbs),1.2 m (3′11″),Electric,,Transistor|
+0893,https://pokemondb.net/pokedex/zarude,Zarude,70.0 kg (154.3 lbs),1.8 m (5′11″),Dark,Grass,Leaf Guard|
+0892,https://pokemondb.net/pokedex/urshifu,Urshifu,105.0 kg (231.5 lbs),1.9 m (6′03″),Fighting,Dark,Unseen Fist|Unseen Fist|
+0891,https://pokemondb.net/pokedex/kubfu,Kubfu,12.0 kg (26.5 lbs),0.6 m (2′00″),Fighting,,Inner Focus|
+0889,https://pokemondb.net/pokedex/zamazenta,Zamazenta,210.0 kg (463.0 lbs),2.9 m (9′06″),Fighting,Steel,Dauntless Shield|Dauntless Shield|
+0888,https://pokemondb.net/pokedex/zacian,Zacian,110.0 kg (242.5 lbs),2.8 m (9′02″),Fairy,Steel,Intrepid Sword|Intrepid Sword|
+0887,https://pokemondb.net/pokedex/dragapult,Dragapult,50.0 kg (110.2 lbs),3.0 m (9′10″),Dragon,Ghost,Clear Body|Infiltrator|Cursed Body|
+0886,https://pokemondb.net/pokedex/drakloak,Drakloak,11.0 kg (24.3 lbs),1.4 m (4′07″),Dragon,Ghost,Clear Body|Infiltrator|Cursed Body|
+0885,https://pokemondb.net/pokedex/dreepy,Dreepy,2.0 kg (4.4 lbs),0.5 m (1′08″),Dragon,Ghost,Clear Body|Infiltrator|Cursed Body|
+0884,https://pokemondb.net/pokedex/duraludon,Duraludon,40.0 kg (88.2 lbs),1.8 m (5′11″),Steel,Dragon,Light Metal|Heavy Metal|Stalwart|
+0883,https://pokemondb.net/pokedex/arctovish,Arctovish,175.0 kg (385.8 lbs),2.0 m (6′07″),Water,Ice,Water Absorb|Ice Body|Slush Rush|
+0882,https://pokemondb.net/pokedex/dracovish,Dracovish,215.0 kg (474.0 lbs),2.3 m (7′07″),Water,Dragon,Water Absorb|Strong Jaw|Sand Rush|
+0880,https://pokemondb.net/pokedex/dracozolt,Dracozolt,190.0 kg (418.9 lbs),1.8 m (5′11″),Electric,Dragon,Volt Absorb|Hustle|Sand Rush|
+0881,https://pokemondb.net/pokedex/arctozolt,Arctozolt,150.0 kg (330.7 lbs),2.3 m (7′07″),Electric,Ice,Volt Absorb|Static|Slush Rush|
+0876,https://pokemondb.net/pokedex/indeedee,Indeedee,28.0 kg (61.7 lbs),0.9 m (2′11″),Psychic,Normal,Inner Focus|Synchronize|Psychic Surge|Own Tempo|Synchronize|Psychic Surge|
+0877,https://pokemondb.net/pokedex/morpeko,Morpeko,3.0 kg (6.6 lbs),0.3 m (1′00″),Electric,Dark,Hunger Switch|Hunger Switch|
+0875,https://pokemondb.net/pokedex/eiscue,Eiscue,89.0 kg (196.2 lbs),1.4 m (4′07″),Ice,Lake of Outrage,Ice Face|Ice Face|
+0879,https://pokemondb.net/pokedex/copperajah,Copperajah,650.0 kg (1433.0 lbs),3.0 m (9′10″),Steel,,Sheer Force|Heavy Metal|
+0878,https://pokemondb.net/pokedex/cufant,Cufant,100.0 kg (220.5 lbs),1.2 m (3′11″),Steel,,Sheer Force|Heavy Metal|
+0874,https://pokemondb.net/pokedex/stonjourner,Stonjourner,520.0 kg (1146.4 lbs),2.5 m (8′02″),Rock,,Power Spot|
+0873,https://pokemondb.net/pokedex/frosmoth,Frosmoth,42.0 kg (92.6 lbs),1.3 m (4′03″),Ice,Bug,Shield Dust|Ice Scales|
+0872,https://pokemondb.net/pokedex/snom,Snom,3.8 kg (8.4 lbs),0.3 m (1′00″),Ice,Bug,Shield Dust|Ice Scales|
+0868,https://pokemondb.net/pokedex/milcery,Milcery,0.3 kg (0.7 lbs),0.2 m (0′08″),Fairy,,Sweet Veil|Aroma Veil|
+0867,https://pokemondb.net/pokedex/runerigus,Runerigus,66.6 kg (146.8 lbs),1.6 m (5′03″),Ground,Ghost,Wandering Spirit|
+0871,https://pokemondb.net/pokedex/pincurchin,Pincurchin,1.0 kg (2.2 lbs),0.3 m (1′00″),Electric,,Lightning Rod|Electric Surge|
+0870,https://pokemondb.net/pokedex/falinks,Falinks,62.0 kg (136.7 lbs),3.0 m (9′10″),Fighting,,Battle Armor|Defiant|
+0869,https://pokemondb.net/pokedex/alcremie,Alcremie,0.5 kg (1.1 lbs),0.3 m (1′00″),Fairy,,Sweet Veil|Aroma Veil|
+0866,https://pokemondb.net/pokedex/mr-rime,Mr. Rime,58.2 kg (128.3 lbs),1.5 m (4′11″),Ice,Psychic,Tangled Feet|Screen Cleaner|Ice Body|
+0864,https://pokemondb.net/pokedex/cursola,Cursola,0.4 kg (0.9 lbs),1.0 m (3′03″),Ghost,,Weak Armor|Perish Body|
+0859,https://pokemondb.net/pokedex/impidimp,Impidimp,5.5 kg (12.1 lbs),0.4 m (1′04″),Dark,Fairy,Prankster|Frisk|Pickpocket|
+0865,https://pokemondb.net/pokedex/sirfetchd,Sirfetch'd,117.0 kg (257.9 lbs),0.8 m (2′07″),Fighting,,Steadfast|Scrappy|
+0863,https://pokemondb.net/pokedex/perrserker,Perrserker,28.0 kg (61.7 lbs),0.8 m (2′07″),Steel,,Battle Armor|Tough Claws|Steely Spirit|
+0860,https://pokemondb.net/pokedex/morgrem,Morgrem,12.5 kg (27.6 lbs),0.8 m (2′07″),Dark,Fairy,Prankster|Frisk|Pickpocket|
+0858,https://pokemondb.net/pokedex/hatterene,Hatterene,5.1 kg (11.2 lbs),2.1 m (6′11″),Psychic,Fairy,Healer|Anticipation|Magic Bounce|
+0862,https://pokemondb.net/pokedex/obstagoon,Obstagoon,46.0 kg (101.4 lbs),1.6 m (5′03″),Dark,Normal,Reckless|Guts|Defiant|
+0861,https://pokemondb.net/pokedex/grimmsnarl,Grimmsnarl,61.0 kg (134.5 lbs),1.5 m (4′11″),Dark,Fairy,Prankster|Frisk|Pickpocket|
+0855,https://pokemondb.net/pokedex/polteageist,Polteageist,0.4 kg (0.9 lbs),0.2 m (0′08″),Ghost,,Weak Armor|Cursed Body|
+0857,https://pokemondb.net/pokedex/hattrem,Hattrem,4.8 kg (10.6 lbs),0.6 m (2′00″),Psychic,,Healer|Anticipation|Magic Bounce|
+0854,https://pokemondb.net/pokedex/sinistea,Sinistea,0.2 kg (0.4 lbs),0.1 m (0′04″),Ghost,,Weak Armor|Cursed Body|
+0851,https://pokemondb.net/pokedex/centiskorch,Centiskorch,120.0 kg (264.6 lbs),3.0 m (9′10″),Fire,Bug,Flash Fire|White Smoke|Flame Body|
+0850,https://pokemondb.net/pokedex/sizzlipede,Sizzlipede,1.0 kg (2.2 lbs),0.7 m (2′04″),Fire,Bug,Flash Fire|White Smoke|Flame Body|
+0853,https://pokemondb.net/pokedex/grapploct,Grapploct,39.0 kg (86.0 lbs),1.6 m (5′03″),Fighting,,Limber|Technician|
+0856,https://pokemondb.net/pokedex/hatenna,Hatenna,3.4 kg (7.5 lbs),0.4 m (1′04″),Psychic,,Healer|Anticipation|Magic Bounce|
+0852,https://pokemondb.net/pokedex/clobbopus,Clobbopus,4.0 kg (8.8 lbs),0.6 m (2′00″),Fighting,,Limber|Technician|
+0849,https://pokemondb.net/pokedex/toxtricity,Toxtricity,40.0 kg (88.2 lbs),1.6 m (5′03″),Electric,Poison,Punk Rock|Plus|Technician|Punk Rock|Minus|Technician|
+0848,https://pokemondb.net/pokedex/toxel,Toxel,11.0 kg (24.3 lbs),0.4 m (1′04″),Electric,Poison,Rattled|Static|Klutz|
+0843,https://pokemondb.net/pokedex/silicobra,Silicobra,7.6 kg (16.8 lbs),2.2 m (7′03″),Ground,,Sand Spit|Shed Skin|Sand Veil|
+0842,https://pokemondb.net/pokedex/appletun,Appletun,13.0 kg (28.7 lbs),0.4 m (1′04″),Grass,Dragon,Ripen|Gluttony|Thick Fat|
+0845,https://pokemondb.net/pokedex/cramorant,Cramorant,18.0 kg (39.7 lbs),0.8 m (2′07″),Flying,Water,Gulp Missile|
+0844,https://pokemondb.net/pokedex/sandaconda,Sandaconda,65.5 kg (144.4 lbs),3.8 m (12′06″),Ground,,Sand Spit|Shed Skin|Sand Veil|
+0841,https://pokemondb.net/pokedex/flapple,Flapple,1.0 kg (2.2 lbs),0.3 m (1′00″),Grass,Dragon,Ripen|Gluttony|Hustle|
+0840,https://pokemondb.net/pokedex/applin,Applin,0.5 kg (1.1 lbs),0.2 m (0′08″),Grass,Dragon,Ripen|Gluttony|Bulletproof|
+0839,https://pokemondb.net/pokedex/coalossal,Coalossal,310.5 kg (684.5 lbs),2.8 m (9′02″),Rock,Fire,Steam Engine|Flame Body|Flash Fire|
+0838,https://pokemondb.net/pokedex/carkol,Carkol,78.0 kg (172.0 lbs),1.1 m (3′07″),Rock,Fire,Steam Engine|Flame Body|Flash Fire|
+0837,https://pokemondb.net/pokedex/rolycoly,Rolycoly,12.0 kg (26.5 lbs),0.3 m (1′00″),Rock,,Steam Engine|Heatproof|Flash Fire|
+0836,https://pokemondb.net/pokedex/boltund,Boltund,34.0 kg (75.0 lbs),1.0 m (3′03″),Electric,,Strong Jaw|Competitive|
+0835,https://pokemondb.net/pokedex/yamper,Yamper,13.5 kg (29.8 lbs),0.3 m (1′00″),Electric,,Ball Fetch|Rattled|
+0834,https://pokemondb.net/pokedex/drednaw,Drednaw,115.5 kg (254.6 lbs),1.0 m (3′03″),Water,Rock,Strong Jaw|Shell Armor|Swift Swim|
+0833,https://pokemondb.net/pokedex/chewtle,Chewtle,8.5 kg (18.7 lbs),0.3 m (1′00″),Water,,Strong Jaw|Shell Armor|Swift Swim|
+0832,https://pokemondb.net/pokedex/dubwool,Dubwool,43.0 kg (94.8 lbs),1.3 m (4′03″),Normal,,Fluffy|Steadfast|Bulletproof|
+0831,https://pokemondb.net/pokedex/wooloo,Wooloo,6.0 kg (13.2 lbs),0.6 m (2′00″),Normal,,Fluffy|Run Away|Bulletproof|
+0830,https://pokemondb.net/pokedex/eldegoss,Eldegoss,2.5 kg (5.5 lbs),0.5 m (1′08″),Grass,,Cotton Down|Regenerator|Effect Spore|
+0829,https://pokemondb.net/pokedex/gossifleur,Gossifleur,2.2 kg (4.9 lbs),0.4 m (1′04″),Grass,,Cotton Down|Regenerator|Effect Spore|
+0828,https://pokemondb.net/pokedex/thievul,Thievul,19.9 kg (43.9 lbs),1.2 m (3′11″),Dark,,Run Away|Unburden|Stakeout|
+0827,https://pokemondb.net/pokedex/nickit,Nickit,8.9 kg (19.6 lbs),0.6 m (2′00″),Dark,,Run Away|Unburden|Stakeout|
+0826,https://pokemondb.net/pokedex/orbeetle,Orbeetle,40.8 kg (89.9 lbs),0.4 m (1′04″),Bug,Psychic,Swarm|Frisk|Telepathy|
+0825,https://pokemondb.net/pokedex/dottler,Dottler,19.5 kg (43.0 lbs),0.4 m (1′04″),Bug,Psychic,Swarm|Compound Eyes|Telepathy|
+0824,https://pokemondb.net/pokedex/blipbug,Blipbug,8.0 kg (17.6 lbs),0.4 m (1′04″),Bug,,Swarm|Compound Eyes|Telepathy|
+0823,https://pokemondb.net/pokedex/corviknight,Corviknight,75.0 kg (165.3 lbs),2.2 m (7′03″),Flying,Steel,Pressure|Unnerve|Mirror Armor|
+0822,https://pokemondb.net/pokedex/corvisquire,Corvisquire,16.0 kg (35.3 lbs),0.8 m (2′07″),Flying,,Keen Eye|Unnerve|Big Pecks|
+0821,https://pokemondb.net/pokedex/rookidee,Rookidee,1.8 kg (4.0 lbs),0.2 m (0′08″),Flying,,Keen Eye|Unnerve|Big Pecks|
+0820,https://pokemondb.net/pokedex/greedent,Greedent,6.0 kg (13.2 lbs),0.6 m (2′00″),Normal,,Cheek Pouch|Gluttony|
+0819,https://pokemondb.net/pokedex/skwovet,Skwovet,2.5 kg (5.5 lbs),0.3 m (1′00″),Normal,,Cheek Pouch|Gluttony|
+0818,https://pokemondb.net/pokedex/inteleon,Inteleon,45.2 kg (99.6 lbs),1.9 m (6′03″),Water,,Torrent|Sniper|
+0816,https://pokemondb.net/pokedex/sobble,Sobble,4.0 kg (8.8 lbs),0.3 m (1′00″),Water,,Torrent|Sniper|
+0817,https://pokemondb.net/pokedex/drizzile,Drizzile,11.5 kg (25.4 lbs),0.7 m (2′04″),Water,,Torrent|Sniper|
+0815,https://pokemondb.net/pokedex/cinderace,Cinderace,33.0 kg (72.8 lbs),1.4 m (4′07″),Fire,,Blaze|Libero|
+0814,https://pokemondb.net/pokedex/raboot,Raboot,9.0 kg (19.8 lbs),0.6 m (2′00″),Fire,,Blaze|Libero|
+0805,https://pokemondb.net/pokedex/stakataka,Stakataka,820.0 kg (1807.8 lbs),5.5 m (18′01″),Rock,Steel,Beast Boost|
+0813,https://pokemondb.net/pokedex/scorbunny,Scorbunny,4.5 kg (9.9 lbs),0.3 m (1′00″),Fire,,Blaze|Libero|
+0806,https://pokemondb.net/pokedex/blacephalon,Blacephalon,13.0 kg (28.7 lbs),1.8 m (5′11″),Fire,Ghost,Beast Boost|
+0804,https://pokemondb.net/pokedex/naganadel,Naganadel,150.0 kg (330.7 lbs),3.6 m (11′10″),Poison,Dragon,Beast Boost|
+0803,https://pokemondb.net/pokedex/poipole,Poipole,1.8 kg (4.0 lbs),0.6 m (2′00″),Poison,,Beast Boost|
+0802,https://pokemondb.net/pokedex/marshadow,Marshadow,22.2 kg (48.9 lbs),0.7 m (2′04″),Fighting,Ghost,Technician|
+0801,https://pokemondb.net/pokedex/magearna,Magearna,80.5 kg (177.5 lbs),1.0 m (3′03″),Steel,Fairy,Soul-Heart|
+0800,https://pokemondb.net/pokedex/necrozma,Necrozma,230.0 kg (507.1 lbs),2.4 m (7′10″),Psychic,Steel,Prism Armor|Prism Armor|Prism Armor|Neuroforce|
+0799,https://pokemondb.net/pokedex/guzzlord,Guzzlord,888.0 kg (1957.7 lbs),5.5 m (18′01″),Dark,Dragon,Beast Boost|
+0798,https://pokemondb.net/pokedex/kartana,Kartana,0.1 kg (0.2 lbs),0.3 m (1′00″),Grass,Steel,Beast Boost|
+0797,https://pokemondb.net/pokedex/celesteela,Celesteela,999.9 kg (2204.4 lbs),9.2 m (30′02″),Steel,Flying,Beast Boost|
+0794,https://pokemondb.net/pokedex/buzzwole,Buzzwole,333.6 kg (735.5 lbs),2.4 m (7′10″),Bug,Fighting,Beast Boost|
+0796,https://pokemondb.net/pokedex/xurkitree,Xurkitree,100.0 kg (220.5 lbs),3.8 m (12′06″),Electric,,Beast Boost|
+0795,https://pokemondb.net/pokedex/pheromosa,Pheromosa,25.0 kg (55.1 lbs),1.8 m (5′11″),Bug,Fighting,Beast Boost|
+0793,https://pokemondb.net/pokedex/nihilego,Nihilego,55.5 kg (122.4 lbs),1.2 m (3′11″),Rock,Poison,Beast Boost|
+0792,https://pokemondb.net/pokedex/lunala,Lunala,120.0 kg (264.6 lbs),4.0 m (13′01″),Psychic,Ghost,Shadow Shield|
+0791,https://pokemondb.net/pokedex/solgaleo,Solgaleo,230.0 kg (507.1 lbs),3.4 m (11′02″),Psychic,Steel,Full Metal Body|
+0790,https://pokemondb.net/pokedex/cosmoem,Cosmoem,999.9 kg (2204.4 lbs),0.1 m (0′04″),Psychic,,Sturdy|
+0789,https://pokemondb.net/pokedex/cosmog,Cosmog,0.1 kg (0.2 lbs),0.2 m (0′08″),Psychic,,Unaware|
+0788,https://pokemondb.net/pokedex/tapu-fini,Tapu Fini,21.2 kg (46.7 lbs),1.3 m (4′03″),Water,Fairy,Misty Surge|Telepathy|
+0787,https://pokemondb.net/pokedex/tapu-bulu,Tapu Bulu,45.5 kg (100.3 lbs),1.9 m (6′03″),Grass,Fairy,Grassy Surge|Telepathy|
+0786,https://pokemondb.net/pokedex/tapu-lele,Tapu Lele,18.6 kg (41.0 lbs),1.2 m (3′11″),Psychic,Fairy,Psychic Surge|Telepathy|
+0781,https://pokemondb.net/pokedex/dhelmise,Dhelmise,210.0 kg (463.0 lbs),3.9 m (12′10″),Ghost,Grass,Steelworker|
+0782,https://pokemondb.net/pokedex/jangmo-o,Jangmo-o,29.7 kg (65.5 lbs),0.6 m (2′00″),Dragon,,Bulletproof|Soundproof|Overcoat|
+0785,https://pokemondb.net/pokedex/tapu-koko,Tapu Koko,20.5 kg (45.2 lbs),1.8 m (5′11″),Electric,Fairy,Electric Surge|Telepathy|
+0779,https://pokemondb.net/pokedex/bruxish,Bruxish,19.0 kg (41.9 lbs),0.9 m (2′11″),Water,Psychic,Dazzling|Strong Jaw|Wonder Skin|
+0784,https://pokemondb.net/pokedex/kommo-o,Kommo-o,78.2 kg (172.4 lbs),1.6 m (5′03″),Dragon,Fighting,Bulletproof|Soundproof|Overcoat|
+0783,https://pokemondb.net/pokedex/hakamo-o,Hakamo-o,47.0 kg (103.6 lbs),1.2 m (3′11″),Dragon,Fighting,Bulletproof|Soundproof|Overcoat|
+0780,https://pokemondb.net/pokedex/drampa,Drampa,185.0 kg (407.9 lbs),3.0 m (9′10″),Normal,Dragon,Berserk|Sap Sipper|Cloud Nine|
+0778,https://pokemondb.net/pokedex/mimikyu,Mimikyu,0.7 kg (1.5 lbs),0.2 m (0′08″),Ghost,Fairy,Disguise|
+0777,https://pokemondb.net/pokedex/togedemaru,Togedemaru,3.3 kg (7.3 lbs),0.3 m (1′00″),Electric,Steel,Iron Barbs|Lightning Rod|Sturdy|
+0776,https://pokemondb.net/pokedex/turtonator,Turtonator,212.0 kg (467.4 lbs),2.0 m (6′07″),Fire,Dragon,Shell Armor|
+0773,https://pokemondb.net/pokedex/silvally,Silvally,100.5 kg (221.6 lbs),2.3 m (7′07″),Normal,,RKS System|
+0771,https://pokemondb.net/pokedex/pyukumuku,Pyukumuku,1.2 kg (2.6 lbs),0.3 m (1′00″),Water,,Innards Out|Unaware|
+0775,https://pokemondb.net/pokedex/komala,Komala,19.9 kg (43.9 lbs),0.4 m (1′04″),Normal,,Comatose|
+0772,https://pokemondb.net/pokedex/type-null,Type: Null,120.5 kg (265.7 lbs),1.9 m (6′03″),Normal,,Battle Armor|
+0774,https://pokemondb.net/pokedex/minior,Minior,40.0 kg (88.2 lbs),0.3 m (1′00″),Rock,Flying,Shields Down|Shields Down|
+0769,https://pokemondb.net/pokedex/sandygast,Sandygast,70.0 kg (154.3 lbs),0.5 m (1′08″),Ghost,Ground,Water Compaction|Sand Veil|
+0768,https://pokemondb.net/pokedex/golisopod,Golisopod,108.0 kg (238.1 lbs),2.0 m (6′07″),Bug,Water,Emergency Exit|
+0767,https://pokemondb.net/pokedex/wimpod,Wimpod,12.0 kg (26.5 lbs),0.5 m (1′08″),Bug,Water,Wimp Out|
+0766,https://pokemondb.net/pokedex/passimian,Passimian,82.8 kg (182.5 lbs),2.0 m (6′07″),Fighting,,Receiver|Defiant|
+0765,https://pokemondb.net/pokedex/oranguru,Oranguru,76.0 kg (167.6 lbs),1.5 m (4′11″),Normal,Psychic,Inner Focus|Telepathy|Symbiosis|
+0770,https://pokemondb.net/pokedex/palossand,Palossand,250.0 kg (551.2 lbs),1.3 m (4′03″),Ghost,Ground,Water Compaction|Sand Veil|
+0763,https://pokemondb.net/pokedex/tsareena,Tsareena,21.4 kg (47.2 lbs),1.2 m (3′11″),Grass,,Leaf Guard|Queenly Majesty|Sweet Veil|
+0764,https://pokemondb.net/pokedex/comfey,Comfey,0.3 kg (0.7 lbs),0.1 m (0′04″),Fairy,Poké Pelago,Flower Veil|Triage|Natural Cure|
+0761,https://pokemondb.net/pokedex/bounsweet,Bounsweet,3.2 kg (7.1 lbs),0.3 m (1′00″),Grass,,Leaf Guard|Oblivious|Sweet Veil|
+0760,https://pokemondb.net/pokedex/bewear,Bewear,135.0 kg (297.6 lbs),2.1 m (6′11″),Normal,Fighting,Fluffy|Klutz|Unnerve|
+0756,https://pokemondb.net/pokedex/shiinotic,Shiinotic,11.5 kg (25.4 lbs),1.0 m (3′03″),Grass,Fairy,Illuminate|Effect Spore|Rain Dish|
+0755,https://pokemondb.net/pokedex/morelull,Morelull,1.5 kg (3.3 lbs),0.2 m (0′08″),Grass,Fairy,Illuminate|Effect Spore|Rain Dish|
+0759,https://pokemondb.net/pokedex/stufful,Stufful,6.8 kg (15.0 lbs),0.5 m (1′08″),Normal,Fighting,Fluffy|Klutz|Cute Charm|
+0762,https://pokemondb.net/pokedex/steenee,Steenee,8.2 kg (18.1 lbs),0.7 m (2′04″),Grass,,Leaf Guard|Oblivious|Sweet Veil|
+0757,https://pokemondb.net/pokedex/salandit,Salandit,4.8 kg (10.6 lbs),0.6 m (2′00″),Poison,Fire,Corrosion|Oblivious|
+0758,https://pokemondb.net/pokedex/salazzle,Salazzle,22.2 kg (48.9 lbs),1.2 m (3′11″),Poison,Fire,Corrosion|Oblivious|
+0753,https://pokemondb.net/pokedex/fomantis,Fomantis,1.5 kg (3.3 lbs),0.3 m (1′00″),Grass,,Leaf Guard|Contrary|
+0750,https://pokemondb.net/pokedex/mudsdale,Mudsdale,920.0 kg (2028.3 lbs),2.5 m (8′02″),Ground,Blush Mountain,Own Tempo|Stamina|Inner Focus|
+0748,https://pokemondb.net/pokedex/toxapex,Toxapex,14.5 kg (32.0 lbs),0.7 m (2′04″),Poison,Water,Merciless|Limber|Regenerator|
+0751,https://pokemondb.net/pokedex/dewpider,Dewpider,4.0 kg (8.8 lbs),0.3 m (1′00″),Water,Bug,Water Bubble|Water Absorb|
+0749,https://pokemondb.net/pokedex/mudbray,Mudbray,110.0 kg (242.5 lbs),1.0 m (3′03″),Ground,,Own Tempo|Stamina|Inner Focus|
+0754,https://pokemondb.net/pokedex/lurantis,Lurantis,18.5 kg (40.8 lbs),0.9 m (2′11″),Grass,,Leaf Guard|Contrary|
+0752,https://pokemondb.net/pokedex/araquanid,Araquanid,82.0 kg (180.8 lbs),1.8 m (5′11″),Water,Bug,Water Bubble|Water Absorb|
+0747,https://pokemondb.net/pokedex/mareanie,Mareanie,8.0 kg (17.6 lbs),0.4 m (1′04″),Poison,Water,Merciless|Limber|Regenerator|
+0741,https://pokemondb.net/pokedex/oricorio,Oricorio,3.4 kg (7.5 lbs),0.6 m (2′00″),Fire,Flying,Dancer|Dancer|Dancer|Dancer|
+0746,https://pokemondb.net/pokedex/wishiwashi,Wishiwashi,0.3 kg (0.7 lbs),0.2 m (0′08″),Water,8,Schooling|Schooling|
+0745,https://pokemondb.net/pokedex/lycanroc,Lycanroc,25.0 kg (55.1 lbs),0.8 m (2′07″),Rock,,Keen Eye|Sand Rush|Steadfast|Keen Eye|Vital Spirit|No Guard|Tough Claws|
+0742,https://pokemondb.net/pokedex/cutiefly,Cutiefly,0.2 kg (0.4 lbs),0.1 m (0′04″),Bug,Fairy,Honey Gather|Shield Dust|Sweet Veil|
+0743,https://pokemondb.net/pokedex/ribombee,Ribombee,0.5 kg (1.1 lbs),0.2 m (0′08″),Bug,Fairy,Honey Gather|Shield Dust|Sweet Veil|
+0740,https://pokemondb.net/pokedex/crabominable,Crabominable,180.0 kg (396.8 lbs),1.7 m (5′07″),Fighting,Ice,Hyper Cutter|Iron Fist|Anger Point|
+0744,https://pokemondb.net/pokedex/rockruff,Rockruff,9.2 kg (20.3 lbs),0.5 m (1′08″),Rock,Ten Carat Hill,Keen Eye|Vital Spirit|Steadfast|Own Tempo|
+0738,https://pokemondb.net/pokedex/vikavolt,Vikavolt,45.0 kg (99.2 lbs),1.5 m (4′11″),Bug,Electric,Levitate|
+0737,https://pokemondb.net/pokedex/charjabug,Charjabug,10.5 kg (23.1 lbs),0.5 m (1′08″),Bug,Electric,Battery|
+0734,https://pokemondb.net/pokedex/yungoos,Yungoos,6.0 kg (13.2 lbs),0.4 m (1′04″),Normal,2,Strong Jaw|Stakeout|Adaptability|
+0736,https://pokemondb.net/pokedex/grubbin,Grubbin,4.4 kg (9.7 lbs),0.4 m (1′04″),Bug,4,Swarm|
+0735,https://pokemondb.net/pokedex/gumshoos,Gumshoos,14.2 kg (31.3 lbs),0.7 m (2′04″),Normal,10,Strong Jaw|Stakeout|Adaptability|
+0732,https://pokemondb.net/pokedex/trumbeak,Trumbeak,14.8 kg (32.6 lbs),0.6 m (2′00″),Normal,Flying,Keen Eye|Skill Link|Pickup|
+0731,https://pokemondb.net/pokedex/pikipek,Pikipek,1.2 kg (2.6 lbs),0.3 m (1′00″),Normal,Flying,Keen Eye|Skill Link|Pickup|
+0730,https://pokemondb.net/pokedex/primarina,Primarina,44.0 kg (97.0 lbs),1.8 m (5′11″),Water,Fairy,Torrent|Liquid Voice|
+0729,https://pokemondb.net/pokedex/brionne,Brionne,17.5 kg (38.6 lbs),0.6 m (2′00″),Water,,Torrent|Liquid Voice|
+0733,https://pokemondb.net/pokedex/toucannon,Toucannon,26.0 kg (57.3 lbs),1.1 m (3′07″),Normal,Flying,Keen Eye|Skill Link|Sheer Force|
+0726,https://pokemondb.net/pokedex/torracat,Torracat,25.0 kg (55.1 lbs),0.7 m (2′04″),Fire,,Blaze|Intimidate|
+0728,https://pokemondb.net/pokedex/popplio,Popplio,7.5 kg (16.5 lbs),0.4 m (1′04″),Water,,Torrent|Liquid Voice|
+0727,https://pokemondb.net/pokedex/incineroar,Incineroar,83.0 kg (183.0 lbs),1.8 m (5′11″),Fire,Dark,Blaze|Intimidate|
+0739,https://pokemondb.net/pokedex/crabrawler,Crabrawler,7.0 kg (15.4 lbs),0.6 m (2′00″),Fighting,3,Hyper Cutter|Iron Fist|Anger Point|
+0725,https://pokemondb.net/pokedex/litten,Litten,4.3 kg (9.5 lbs),0.4 m (1′04″),Fire,,Blaze|Intimidate|
+0724,https://pokemondb.net/pokedex/decidueye,Decidueye,36.6 kg (80.7 lbs),1.6 m (5′03″),Grass,Ghost,Overgrow|Long Reach|Overgrow|Scrappy|
+0723,https://pokemondb.net/pokedex/dartrix,Dartrix,16.0 kg (35.3 lbs),0.7 m (2′04″),Grass,Flying,Overgrow|Long Reach|
+0722,https://pokemondb.net/pokedex/rowlet,Rowlet,1.5 kg (3.3 lbs),0.3 m (1′00″),Grass,Flying,Overgrow|Long Reach|
+0721,https://pokemondb.net/pokedex/volcanion,Volcanion,195.0 kg (429.9 lbs),1.7 m (5′07″),Fire,Water,Water Absorb|
+0720,https://pokemondb.net/pokedex/hoopa,Hoopa,9.0 kg (19.8 lbs),0.5 m (1′08″),Psychic,Ghost,Magician|Magician|
+0719,https://pokemondb.net/pokedex/diancie,Diancie,8.8 kg (19.4 lbs),0.7 m (2′04″),Rock,Fairy,Clear Body|Magic Bounce|
+0718,https://pokemondb.net/pokedex/zygarde,Zygarde,305.0 kg (672.4 lbs),5.0 m (16′05″),Dragon,Ground,Aura Break|Power Construct|Aura Break|Power Construct|Power Construct|
+0717,https://pokemondb.net/pokedex/yveltal,Yveltal,203.0 kg (447.5 lbs),5.8 m (19′00″),Dark,Flying,Dark Aura|
+0716,https://pokemondb.net/pokedex/xerneas,Xerneas,215.0 kg (474.0 lbs),3.0 m (9′10″),Fairy,,Fairy Aura|
+0715,https://pokemondb.net/pokedex/noivern,Noivern,85.0 kg (187.4 lbs),1.5 m (4′11″),Flying,Dragon,Frisk|Infiltrator|Telepathy|
+0713,https://pokemondb.net/pokedex/avalugg,Avalugg,505.0 kg (1113.3 lbs),2.0 m (6′07″),Ice,Rock,Own Tempo|Ice Body|Sturdy|Strong Jaw|Ice Body|Sturdy|
+0712,https://pokemondb.net/pokedex/bergmite,Bergmite,99.5 kg (219.4 lbs),1.0 m (3′03″),Ice,,Own Tempo|Ice Body|Sturdy|
+0714,https://pokemondb.net/pokedex/noibat,Noibat,8.0 kg (17.6 lbs),0.5 m (1′08″),Flying,Dragon,Frisk|Infiltrator|Telepathy|
+0711,https://pokemondb.net/pokedex/gourgeist,Gourgeist,12.5 kg (27.6 lbs),0.9 m (2′11″),Ghost,Grass,Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|
+0710,https://pokemondb.net/pokedex/pumpkaboo,Pumpkaboo,5.0 kg (11.0 lbs),0.4 m (1′04″),Ghost,Grass,Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|Pickup|Frisk|Insomnia|
+0709,https://pokemondb.net/pokedex/trevenant,Trevenant,71.0 kg (156.5 lbs),1.5 m (4′11″),Ghost,Grass,Natural Cure|Frisk|Harvest|
+0708,https://pokemondb.net/pokedex/phantump,Phantump,7.0 kg (15.4 lbs),0.4 m (1′04″),Ghost,Grass,Natural Cure|Frisk|Harvest|
+0707,https://pokemondb.net/pokedex/klefki,Klefki,3.0 kg (6.6 lbs),0.2 m (0′08″),Steel,Fairy,Prankster|Magician|
+0706,https://pokemondb.net/pokedex/goodra,Goodra,150.5 kg (331.8 lbs),2.0 m (6′07″),Dragon,Dragon,Sap Sipper|Hydration|Gooey|Sap Sipper|Shell Armor|Gooey|
+0705,https://pokemondb.net/pokedex/sliggoo,Sliggoo,17.5 kg (38.6 lbs),0.8 m (2′07″),Dragon,Dragon,Sap Sipper|Hydration|Gooey|Sap Sipper|Shell Armor|Gooey|
+0704,https://pokemondb.net/pokedex/goomy,Goomy,2.8 kg (6.2 lbs),0.3 m (1′00″),Dragon,,Sap Sipper|Hydration|Gooey|
+0703,https://pokemondb.net/pokedex/carbink,Carbink,5.7 kg (12.6 lbs),0.3 m (1′00″),Rock,Fairy,Clear Body|Sturdy|
+0702,https://pokemondb.net/pokedex/dedenne,Dedenne,2.2 kg (4.9 lbs),0.2 m (0′08″),Electric,Fairy,Cheek Pouch|Pickup|Plus|
+0701,https://pokemondb.net/pokedex/hawlucha,Hawlucha,21.5 kg (47.4 lbs),0.8 m (2′07″),Fighting,Flying,Limber|Unburden|Mold Breaker|
+0700,https://pokemondb.net/pokedex/sylveon,Sylveon,23.5 kg (51.8 lbs),1.0 m (3′03″),Fairy,,Cute Charm|Pixilate|
+0691,https://pokemondb.net/pokedex/dragalge,Dragalge,81.5 kg (179.7 lbs),1.8 m (5′11″),Poison,Dragon,Poison Point|Poison Touch|Adaptability|
+0690,https://pokemondb.net/pokedex/skrelp,Skrelp,7.3 kg (16.1 lbs),0.5 m (1′08″),Poison,Water,Poison Point|Poison Touch|Adaptability|
+0689,https://pokemondb.net/pokedex/barbaracle,Barbaracle,96.0 kg (211.6 lbs),1.3 m (4′03″),Rock,Water,Sniper|Tough Claws|Pickpocket|
+0688,https://pokemondb.net/pokedex/binacle,Binacle,31.0 kg (68.3 lbs),0.5 m (1′08″),Rock,Water,Sniper|Tough Claws|Pickpocket|
+0687,https://pokemondb.net/pokedex/malamar,Malamar,47.0 kg (103.6 lbs),1.5 m (4′11″),Dark,Psychic,Contrary|Suction Cups|Infiltrator|
+0686,https://pokemondb.net/pokedex/inkay,Inkay,3.5 kg (7.7 lbs),0.4 m (1′04″),Dark,Psychic,Contrary|Suction Cups|Infiltrator|
+0685,https://pokemondb.net/pokedex/slurpuff,Slurpuff,5.0 kg (11.0 lbs),0.8 m (2′07″),Fairy,,Sweet Veil|Unburden|
+0680,https://pokemondb.net/pokedex/doublade,Doublade,4.5 kg (9.9 lbs),0.8 m (2′07″),Steel,Ghost,No Guard|
+0684,https://pokemondb.net/pokedex/swirlix,Swirlix,3.5 kg (7.7 lbs),0.4 m (1′04″),Fairy,,Sweet Veil|Unburden|
+0681,https://pokemondb.net/pokedex/aegislash,Aegislash,53.0 kg (116.8 lbs),1.7 m (5′07″),Steel,Ghost,Stance Change|Stance Change|
+0679,https://pokemondb.net/pokedex/honedge,Honedge,2.0 kg (4.4 lbs),0.8 m (2′07″),Steel,Ghost,No Guard|
+0683,https://pokemondb.net/pokedex/aromatisse,Aromatisse,15.5 kg (34.2 lbs),0.8 m (2′07″),Fairy,,Healer|Aroma Veil|
+0682,https://pokemondb.net/pokedex/spritzee,Spritzee,0.5 kg (1.1 lbs),0.2 m (0′08″),Fairy,,Healer|Aroma Veil|
+0678,https://pokemondb.net/pokedex/meowstic,Meowstic,8.5 kg (18.7 lbs),0.6 m (2′00″),Psychic,,Keen Eye|Infiltrator|Prankster|Keen Eye|Infiltrator|Competitive|
+0677,https://pokemondb.net/pokedex/espurr,Espurr,3.5 kg (7.7 lbs),0.3 m (1′00″),Psychic,,Keen Eye|Infiltrator|Own Tempo|
+0676,https://pokemondb.net/pokedex/furfrou,Furfrou,28.0 kg (61.7 lbs),1.2 m (3′11″),Normal,,Fur Coat|
+0672,https://pokemondb.net/pokedex/skiddo,Skiddo,31.0 kg (68.3 lbs),0.9 m (2′11″),Grass,,Sap Sipper|Grass Pelt|
+0671,https://pokemondb.net/pokedex/florges,Florges,10.0 kg (22.0 lbs),1.1 m (3′07″),Fairy,,Flower Veil|Symbiosis|
+0675,https://pokemondb.net/pokedex/pangoro,Pangoro,136.0 kg (299.8 lbs),2.1 m (6′11″),Fighting,Dark,Iron Fist|Mold Breaker|Scrappy|
+0674,https://pokemondb.net/pokedex/pancham,Pancham,8.0 kg (17.6 lbs),0.6 m (2′00″),Fighting,,Iron Fist|Mold Breaker|Scrappy|
+0673,https://pokemondb.net/pokedex/gogoat,Gogoat,91.0 kg (200.6 lbs),1.7 m (5′07″),Grass,,Sap Sipper|Grass Pelt|
+0670,https://pokemondb.net/pokedex/floette,Floette,0.9 kg (2.0 lbs),0.2 m (0′08″),Fairy,,Flower Veil|Symbiosis|
+0669,https://pokemondb.net/pokedex/flabebe,Flabébé,0.1 kg (0.2 lbs),0.1 m (0′04″),Fairy,,Flower Veil|Symbiosis|
+0668,https://pokemondb.net/pokedex/pyroar,Pyroar,81.5 kg (179.7 lbs),1.5 m (4′11″),Fire,Normal,Rivalry|Unnerve|Moxie|
+0665,https://pokemondb.net/pokedex/spewpa,Spewpa,8.4 kg (18.5 lbs),0.3 m (1′00″),Bug,,Shed Skin|Friend Guard|
+0663,https://pokemondb.net/pokedex/talonflame,Talonflame,24.5 kg (54.0 lbs),1.2 m (3′11″),Fire,Flying,Flame Body|Gale Wings|
+0664,https://pokemondb.net/pokedex/scatterbug,Scatterbug,2.5 kg (5.5 lbs),0.3 m (1′00″),Bug,,Shield Dust|Compound Eyes|Friend Guard|
+0666,https://pokemondb.net/pokedex/vivillon,Vivillon,17.0 kg (37.5 lbs),1.2 m (3′11″),Bug,Flying,Shield Dust|Compound Eyes|Friend Guard|
+0667,https://pokemondb.net/pokedex/litleo,Litleo,13.5 kg (29.8 lbs),0.6 m (2′00″),Fire,Normal,Rivalry|Unnerve|Moxie|
+0661,https://pokemondb.net/pokedex/fletchling,Fletchling,1.7 kg (3.7 lbs),0.3 m (1′00″),Normal,Flying,Big Pecks|Gale Wings|
+0660,https://pokemondb.net/pokedex/diggersby,Diggersby,42.4 kg (93.5 lbs),1.0 m (3′03″),Normal,Ground,Pickup|Cheek Pouch|Huge Power|
+0658,https://pokemondb.net/pokedex/greninja,Greninja,40.0 kg (88.2 lbs),1.5 m (4′11″),Water,Dark,Torrent|Protean|Battle Bond|
+0657,https://pokemondb.net/pokedex/frogadier,Frogadier,10.9 kg (24.0 lbs),0.6 m (2′00″),Water,,Torrent|Protean|
+0656,https://pokemondb.net/pokedex/froakie,Froakie,7.0 kg (15.4 lbs),0.3 m (1′00″),Water,,Torrent|Protean|
+0655,https://pokemondb.net/pokedex/delphox,Delphox,39.0 kg (86.0 lbs),1.5 m (4′11″),Fire,Psychic,Blaze|Magician|
+0654,https://pokemondb.net/pokedex/braixen,Braixen,14.5 kg (32.0 lbs),1.0 m (3′03″),Fire,,Blaze|Magician|
+0653,https://pokemondb.net/pokedex/fennekin,Fennekin,9.4 kg (20.7 lbs),0.4 m (1′04″),Fire,,Blaze|Magician|
+0659,https://pokemondb.net/pokedex/bunnelby,Bunnelby,5.0 kg (11.0 lbs),0.4 m (1′04″),Normal,,Pickup|Cheek Pouch|Huge Power|
+0652,https://pokemondb.net/pokedex/chesnaught,Chesnaught,90.0 kg (198.4 lbs),1.6 m (5′03″),Grass,Fighting,Overgrow|Bulletproof|
+0651,https://pokemondb.net/pokedex/quilladin,Quilladin,29.0 kg (63.9 lbs),0.7 m (2′04″),Grass,,Overgrow|Bulletproof|
+0649,https://pokemondb.net/pokedex/genesect,Genesect,82.5 kg (181.9 lbs),1.5 m (4′11″),Bug,Steel,Download|
+0650,https://pokemondb.net/pokedex/chespin,Chespin,9.0 kg (19.8 lbs),0.4 m (1′04″),Grass,,Overgrow|Bulletproof|
+0648,https://pokemondb.net/pokedex/meloetta,Meloetta,6.5 kg (14.3 lbs),0.6 m (2′00″),Normal,Psychic,Serene Grace|Serene Grace|
+0647,https://pokemondb.net/pokedex/keldeo,Keldeo,48.5 kg (106.9 lbs),1.4 m (4′07″),Water,Fighting,Justified|Justified|
+0646,https://pokemondb.net/pokedex/kyurem,Kyurem,325.0 kg (716.5 lbs),3.0 m (9′10″),Dragon,Ice,Pressure|Turboblaze|Teravolt|
+0645,https://pokemondb.net/pokedex/landorus,Landorus,68.0 kg (149.9 lbs),1.5 m (4′11″),Ground,Flying,Sand Force|Sheer Force|Intimidate|
+0643,https://pokemondb.net/pokedex/reshiram,Reshiram,330.0 kg (727.5 lbs),3.2 m (10′06″),Dragon,Fire,Turboblaze|
+0642,https://pokemondb.net/pokedex/thundurus,Thundurus,61.0 kg (134.5 lbs),1.5 m (4′11″),Electric,Flying,Prankster|Defiant|Volt Absorb|
+0644,https://pokemondb.net/pokedex/zekrom,Zekrom,345.0 kg (760.6 lbs),2.9 m (9′06″),Dragon,Electric,Teravolt|
+0662,https://pokemondb.net/pokedex/fletchinder,Fletchinder,16.0 kg (35.3 lbs),0.7 m (2′04″),Fire,Flying,Flame Body|Gale Wings|
+0640,https://pokemondb.net/pokedex/virizion,Virizion,200.0 kg (440.9 lbs),2.0 m (6′07″),Grass,Fighting,Justified|
+0639,https://pokemondb.net/pokedex/terrakion,Terrakion,260.0 kg (573.2 lbs),1.9 m (6′03″),Rock,Fighting,Justified|
+0638,https://pokemondb.net/pokedex/cobalion,Cobalion,250.0 kg (551.2 lbs),2.1 m (6′11″),Steel,Fighting,Justified|
+0637,https://pokemondb.net/pokedex/volcarona,Volcarona,46.0 kg (101.4 lbs),1.6 m (5′03″),Bug,Fire,Flame Body|Swarm|
+0636,https://pokemondb.net/pokedex/larvesta,Larvesta,28.8 kg (63.5 lbs),1.1 m (3′07″),Bug,Fire,Flame Body|Swarm|
+0635,https://pokemondb.net/pokedex/hydreigon,Hydreigon,160.0 kg (352.7 lbs),1.8 m (5′11″),Dark,Dragon,Levitate|
+0634,https://pokemondb.net/pokedex/zweilous,Zweilous,50.0 kg (110.2 lbs),1.4 m (4′07″),Dark,Dragon,Hustle|
+0633,https://pokemondb.net/pokedex/deino,Deino,17.3 kg (38.1 lbs),0.8 m (2′07″),Dark,Dragon,Hustle|
+0632,https://pokemondb.net/pokedex/durant,Durant,33.0 kg (72.8 lbs),0.3 m (1′00″),Bug,Steel,Swarm|Hustle|Truant|
+0631,https://pokemondb.net/pokedex/heatmor,Heatmor,58.0 kg (127.9 lbs),1.4 m (4′07″),Fire,,Gluttony|Flash Fire|White Smoke|
+0629,https://pokemondb.net/pokedex/vullaby,Vullaby,9.0 kg (19.8 lbs),0.5 m (1′08″),Dark,Flying,Big Pecks|Overcoat|Weak Armor|
+0628,https://pokemondb.net/pokedex/braviary,Braviary,41.0 kg (90.4 lbs),1.5 m (4′11″),Normal,Flying,Keen Eye|Sheer Force|Defiant|Keen Eye|Sheer Force|Tinted Lens|
+0627,https://pokemondb.net/pokedex/rufflet,Rufflet,10.5 kg (23.1 lbs),0.5 m (1′08″),Normal,Flying,Keen Eye|Sheer Force|Hustle|
+0630,https://pokemondb.net/pokedex/mandibuzz,Mandibuzz,39.5 kg (87.1 lbs),1.2 m (3′11″),Dark,Flying,Big Pecks|Overcoat|Weak Armor|
+0625,https://pokemondb.net/pokedex/bisharp,Bisharp,70.0 kg (154.3 lbs),1.6 m (5′03″),Dark,Steel,Defiant|Inner Focus|Pressure|
+0626,https://pokemondb.net/pokedex/bouffalant,Bouffalant,94.6 kg (208.6 lbs),1.6 m (5′03″),Normal,,Reckless|Sap Sipper|Soundproof|
+0624,https://pokemondb.net/pokedex/pawniard,Pawniard,10.2 kg (22.5 lbs),0.5 m (1′08″),Dark,Steel,Defiant|Inner Focus|Pressure|
+0620,https://pokemondb.net/pokedex/mienshao,Mienshao,35.5 kg (78.3 lbs),1.4 m (4′07″),Fighting,Dragonspiral Tower,Inner Focus|Regenerator|Reckless|
+0622,https://pokemondb.net/pokedex/golett,Golett,92.0 kg (202.8 lbs),1.0 m (3′03″),Ground,Ghost,Iron Fist|Klutz|No Guard|
+0621,https://pokemondb.net/pokedex/druddigon,Druddigon,139.0 kg (306.4 lbs),1.6 m (5′03″),Dragon,Victory Road,Rough Skin|Sheer Force|Mold Breaker|
+0623,https://pokemondb.net/pokedex/golurk,Golurk,330.0 kg (727.5 lbs),2.8 m (9′02″),Ground,Ghost,Iron Fist|Klutz|No Guard|
+0619,https://pokemondb.net/pokedex/mienfoo,Mienfoo,20.0 kg (44.1 lbs),0.9 m (2′11″),Fighting,22,Inner Focus|Regenerator|Reckless|
+0618,https://pokemondb.net/pokedex/stunfisk,Stunfisk,11.0 kg (24.3 lbs),0.7 m (2′04″),Ground,Electric,Static|Limber|Sand Veil|Mimicry|
+0617,https://pokemondb.net/pokedex/accelgor,Accelgor,25.3 kg (55.8 lbs),0.8 m (2′07″),Bug,,Hydration|Sticky Hold|Unburden|
+0616,https://pokemondb.net/pokedex/shelmet,Shelmet,7.7 kg (17.0 lbs),0.4 m (1′04″),Bug,8,Hydration|Shell Armor|Overcoat|
+0615,https://pokemondb.net/pokedex/cryogonal,Cryogonal,148.0 kg (326.3 lbs),1.1 m (3′07″),Ice,,Levitate|
+0614,https://pokemondb.net/pokedex/beartic,Beartic,260.0 kg (573.2 lbs),2.6 m (8′06″),Ice,Twist Mountain,Snow Cloak|Slush Rush|Swift Swim|
+0613,https://pokemondb.net/pokedex/cubchoo,Cubchoo,8.5 kg (18.7 lbs),0.5 m (1′08″),Ice,,Snow Cloak|Slush Rush|Rattled|
+0605,https://pokemondb.net/pokedex/elgyem,Elgyem,9.0 kg (19.8 lbs),0.5 m (1′08″),Psychic,,Telepathy|Synchronize|Analytic|
+0604,https://pokemondb.net/pokedex/eelektross,Eelektross,80.5 kg (177.5 lbs),2.1 m (6′11″),Electric,,Levitate|
+0603,https://pokemondb.net/pokedex/eelektrik,Eelektrik,22.0 kg (48.5 lbs),1.2 m (3′11″),Electric,,Levitate|
+0602,https://pokemondb.net/pokedex/tynamo,Tynamo,0.3 kg (0.7 lbs),0.2 m (0′08″),Electric,Seaside Cave,Levitate|
+0601,https://pokemondb.net/pokedex/klinklang,Klinklang,81.0 kg (178.6 lbs),0.6 m (2′00″),Steel,,Plus|Minus|Clear Body|
+0600,https://pokemondb.net/pokedex/klang,Klang,51.0 kg (112.4 lbs),0.6 m (2′00″),Steel,,Plus|Minus|Clear Body|
+0597,https://pokemondb.net/pokedex/ferroseed,Ferroseed,18.8 kg (41.4 lbs),0.6 m (2′00″),Grass,Steel,Iron Barbs|
+0596,https://pokemondb.net/pokedex/galvantula,Galvantula,14.3 kg (31.5 lbs),0.8 m (2′07″),Bug,Electric,Compound Eyes|Unnerve|Swarm|
+0595,https://pokemondb.net/pokedex/joltik,Joltik,0.6 kg (1.3 lbs),0.1 m (0′04″),Bug,Electric,Compound Eyes|Unnerve|Swarm|
+0598,https://pokemondb.net/pokedex/ferrothorn,Ferrothorn,110.0 kg (242.5 lbs),1.0 m (3′03″),Grass,Steel,Iron Barbs|Anticipation|
+0594,https://pokemondb.net/pokedex/alomomola,Alomomola,31.6 kg (69.7 lbs),1.2 m (3′11″),Water,17,Healer|Hydration|Regenerator|
+0590,https://pokemondb.net/pokedex/foongus,Foongus,1.0 kg (2.2 lbs),0.2 m (0′08″),Grass,Poison,Effect Spore|Regenerator|
+0593,https://pokemondb.net/pokedex/jellicent,Jellicent,135.0 kg (297.6 lbs),2.2 m (7′03″),Water,Ghost,Water Absorb|Cursed Body|Damp|
+0591,https://pokemondb.net/pokedex/amoonguss,Amoonguss,10.5 kg (23.1 lbs),0.6 m (2′00″),Grass,Poison,Effect Spore|Regenerator|
+0592,https://pokemondb.net/pokedex/frillish,Frillish,33.0 kg (72.8 lbs),1.2 m (3′11″),Water,Ghost,Water Absorb|Cursed Body|Damp|
+0589,https://pokemondb.net/pokedex/escavalier,Escavalier,33.0 kg (72.8 lbs),1.0 m (3′03″),Bug,Steel,Swarm|Shell Armor|Overcoat|
+0587,https://pokemondb.net/pokedex/emolga,Emolga,5.0 kg (11.0 lbs),0.4 m (1′04″),Electric,Flying,Static|Motor Drive|
+0584,https://pokemondb.net/pokedex/vanilluxe,Vanilluxe,57.5 kg (126.8 lbs),1.3 m (4′03″),Ice,Giant Chasm,Ice Body|Snow Warning|Weak Armor|
+0581,https://pokemondb.net/pokedex/swanna,Swanna,24.2 kg (53.4 lbs),1.3 m (4′03″),Water,Flying,Keen Eye|Big Pecks|Hydration|
+0582,https://pokemondb.net/pokedex/vanillite,Vanillite,5.7 kg (12.6 lbs),0.4 m (1′04″),Ice,,Ice Body|Snow Cloak|Weak Armor|
+0586,https://pokemondb.net/pokedex/sawsbuck,Sawsbuck,92.5 kg (203.9 lbs),1.9 m (6′03″),Normal,Grass,Chlorophyll|Sap Sipper|Serene Grace|
+0585,https://pokemondb.net/pokedex/deerling,Deerling,19.5 kg (43.0 lbs),0.6 m (2′00″),Normal,Grass,Chlorophyll|Sap Sipper|Serene Grace|
+0583,https://pokemondb.net/pokedex/vanillish,Vanillish,41.0 kg (90.4 lbs),1.1 m (3′07″),Ice,Giant Chasm,Ice Body|Snow Cloak|Weak Armor|
+0599,https://pokemondb.net/pokedex/klink,Klink,21.0 kg (46.3 lbs),0.3 m (1′00″),Steel,,Plus|Minus|Clear Body|
+0578,https://pokemondb.net/pokedex/duosion,Duosion,8.0 kg (17.6 lbs),0.6 m (2′00″),Psychic,,Overcoat|Magic Guard|Regenerator|
+0580,https://pokemondb.net/pokedex/ducklett,Ducklett,5.5 kg (12.1 lbs),0.5 m (1′08″),Water,Flying,Keen Eye|Big Pecks|Hydration|
+0577,https://pokemondb.net/pokedex/solosis,Solosis,1.0 kg (2.2 lbs),0.3 m (1′00″),Psychic,16,Overcoat|Magic Guard|Regenerator|
+0579,https://pokemondb.net/pokedex/reuniclus,Reuniclus,20.1 kg (44.3 lbs),1.0 m (3′03″),Psychic,,Overcoat|Magic Guard|Regenerator|
+0588,https://pokemondb.net/pokedex/karrablast,Karrablast,5.9 kg (13.0 lbs),0.5 m (1′08″),Bug,8,Swarm|Shed Skin|No Guard|
+0576,https://pokemondb.net/pokedex/gothitelle,Gothitelle,44.0 kg (97.0 lbs),1.5 m (4′11″),Psychic,,Frisk|Competitive|Shadow Tag|
+0572,https://pokemondb.net/pokedex/minccino,Minccino,5.8 kg (12.8 lbs),0.4 m (1′04″),Normal,9,Cute Charm|Technician|Skill Link|
+0571,https://pokemondb.net/pokedex/zoroark,Zoroark,81.1 kg (178.8 lbs),1.6 m (5′03″),Dark,Ghost,Illusion|Illusion|
+0570,https://pokemondb.net/pokedex/zorua,Zorua,12.5 kg (27.6 lbs),0.7 m (2′04″),Dark,Ghost,Illusion|Illusion|
+0574,https://pokemondb.net/pokedex/gothita,Gothita,5.8 kg (12.8 lbs),0.4 m (1′04″),Psychic,,Frisk|Competitive|Shadow Tag|
+0573,https://pokemondb.net/pokedex/cinccino,Cinccino,7.5 kg (16.5 lbs),0.5 m (1′08″),Normal,9,Cute Charm|Technician|Skill Link|
+0568,https://pokemondb.net/pokedex/trubbish,Trubbish,31.0 kg (68.3 lbs),0.6 m (2′00″),Poison,5,Stench|Sticky Hold|Aftermath|
+0575,https://pokemondb.net/pokedex/gothorita,Gothorita,18.0 kg (39.7 lbs),0.7 m (2′04″),Psychic,,Frisk|Competitive|Shadow Tag|
+0564,https://pokemondb.net/pokedex/tirtouga,Tirtouga,16.5 kg (36.4 lbs),0.7 m (2′04″),Water,Rock,Solid Rock|Sturdy|Swift Swim|
+0567,https://pokemondb.net/pokedex/archeops,Archeops,32.0 kg (70.5 lbs),1.4 m (4′07″),Rock,Flying,Defeatist|
+0563,https://pokemondb.net/pokedex/cofagrigus,Cofagrigus,76.5 kg (168.7 lbs),1.7 m (5′07″),Ghost,,Mummy|
+0566,https://pokemondb.net/pokedex/archen,Archen,9.5 kg (20.9 lbs),0.5 m (1′08″),Rock,Flying,Defeatist|
+0565,https://pokemondb.net/pokedex/carracosta,Carracosta,81.0 kg (178.6 lbs),1.2 m (3′11″),Water,Rock,Solid Rock|Sturdy|Swift Swim|
+0569,https://pokemondb.net/pokedex/garbodor,Garbodor,107.3 kg (236.6 lbs),1.9 m (6′03″),Poison,Pokémon Village,Stench|Weak Armor|Aftermath|
+0562,https://pokemondb.net/pokedex/yamask,Yamask,1.5 kg (3.3 lbs),0.5 m (1′08″),Ghost,Ghost,Mummy|Wandering Spirit|
+0559,https://pokemondb.net/pokedex/scraggy,Scraggy,11.8 kg (26.0 lbs),0.6 m (2′00″),Dark,Fighting,Shed Skin|Moxie|Intimidate|
+0561,https://pokemondb.net/pokedex/sigilyph,Sigilyph,14.0 kg (30.9 lbs),1.4 m (4′07″),Psychic,Flying,Wonder Skin|Magic Guard|Tinted Lens|
+0560,https://pokemondb.net/pokedex/scrafty,Scrafty,30.0 kg (66.1 lbs),1.1 m (3′07″),Dark,Fighting,Shed Skin|Moxie|Intimidate|
+0558,https://pokemondb.net/pokedex/crustle,Crustle,200.0 kg (440.9 lbs),1.4 m (4′07″),Bug,Rock,Sturdy|Shell Armor|Weak Armor|
+0555,https://pokemondb.net/pokedex/darmanitan,Darmanitan,92.9 kg (204.8 lbs),1.3 m (4′03″),Fire,Psychic,Sheer Force|Zen Mode|Sheer Force|Zen Mode|Gorilla Tactics|Zen Mode|Gorilla Tactics|Zen Mode|
+0557,https://pokemondb.net/pokedex/dwebble,Dwebble,14.5 kg (32.0 lbs),0.3 m (1′00″),Bug,Rock,Sturdy|Shell Armor|Weak Armor|
+0556,https://pokemondb.net/pokedex/maractus,Maractus,28.0 kg (61.7 lbs),1.0 m (3′03″),Grass,,Water Absorb|Chlorophyll|Storm Drain|
+0542,https://pokemondb.net/pokedex/leavanny,Leavanny,20.5 kg (45.2 lbs),1.2 m (3′11″),Bug,Grass,Swarm|Chlorophyll|Overcoat|
+0545,https://pokemondb.net/pokedex/scolipede,Scolipede,200.5 kg (442.0 lbs),2.5 m (8′02″),Bug,Poison,Poison Point|Swarm|Speed Boost|
+0540,https://pokemondb.net/pokedex/sewaddle,Sewaddle,2.5 kg (5.5 lbs),0.3 m (1′00″),Bug,Grass,Swarm|Chlorophyll|Overcoat|
+0539,https://pokemondb.net/pokedex/sawk,Sawk,51.0 kg (112.4 lbs),1.4 m (4′07″),Fighting,18,Sturdy|Inner Focus|Mold Breaker|
+0541,https://pokemondb.net/pokedex/swadloon,Swadloon,7.3 kg (16.1 lbs),0.5 m (1′08″),Bug,Grass,Leaf Guard|Chlorophyll|Overcoat|
+0544,https://pokemondb.net/pokedex/whirlipede,Whirlipede,58.5 kg (129.0 lbs),1.2 m (3′11″),Bug,Poison,Poison Point|Swarm|Speed Boost|
+0543,https://pokemondb.net/pokedex/venipede,Venipede,5.3 kg (11.7 lbs),0.4 m (1′04″),Bug,Poison,Poison Point|Swarm|Speed Boost|
+0546,https://pokemondb.net/pokedex/cottonee,Cottonee,0.6 kg (1.3 lbs),0.3 m (1′00″),Grass,Fairy,Prankster|Infiltrator|Chlorophyll|
+0531,https://pokemondb.net/pokedex/audino,Audino,31.0 kg (68.3 lbs),1.1 m (3′07″),Normal,Fairy,Healer|Regenerator|Klutz|Healer|
+0538,https://pokemondb.net/pokedex/throh,Throh,55.5 kg (122.4 lbs),1.3 m (4′03″),Fighting,18,Guts|Inner Focus|Mold Breaker|
+0533,https://pokemondb.net/pokedex/gurdurr,Gurdurr,40.0 kg (88.2 lbs),1.2 m (3′11″),Fighting,Victory Road,Guts|Sheer Force|Iron Fist|
+0532,https://pokemondb.net/pokedex/timburr,Timburr,12.5 kg (27.6 lbs),0.6 m (2′00″),Fighting,,Guts|Sheer Force|Iron Fist|
+0537,https://pokemondb.net/pokedex/seismitoad,Seismitoad,62.0 kg (136.7 lbs),1.5 m (4′11″),Water,Ground,Swift Swim|Poison Touch|Water Absorb|
+0536,https://pokemondb.net/pokedex/palpitoad,Palpitoad,17.0 kg (37.5 lbs),0.8 m (2′07″),Water,Ground,Swift Swim|Hydration|Water Absorb|
+0535,https://pokemondb.net/pokedex/tympole,Tympole,4.5 kg (9.9 lbs),0.5 m (1′08″),Water,,Swift Swim|Hydration|Water Absorb|
+0534,https://pokemondb.net/pokedex/conkeldurr,Conkeldurr,87.0 kg (191.8 lbs),1.4 m (4′07″),Fighting,,Guts|Sheer Force|Iron Fist|
+0528,https://pokemondb.net/pokedex/swoobat,Swoobat,10.5 kg (23.1 lbs),0.9 m (2′11″),Psychic,Flying,Unaware|Klutz|Simple|
+0526,https://pokemondb.net/pokedex/gigalith,Gigalith,260.0 kg (573.2 lbs),1.7 m (5′07″),Rock,,Sturdy|Sand Stream|Sand Force|
+0527,https://pokemondb.net/pokedex/woobat,Woobat,2.1 kg (4.6 lbs),0.4 m (1′04″),Psychic,Flying,Unaware|Klutz|Simple|
+0524,https://pokemondb.net/pokedex/roggenrola,Roggenrola,18.0 kg (39.7 lbs),0.4 m (1′04″),Rock,,Sturdy|Weak Armor|Sand Force|
+0525,https://pokemondb.net/pokedex/boldore,Boldore,102.0 kg (224.9 lbs),0.9 m (2′11″),Rock,Mistralton Cave,Sturdy|Weak Armor|Sand Force|
+0530,https://pokemondb.net/pokedex/excadrill,Excadrill,40.4 kg (89.1 lbs),0.7 m (2′04″),Ground,Steel,Sand Rush|Sand Force|Mold Breaker|
+0529,https://pokemondb.net/pokedex/drilbur,Drilbur,8.5 kg (18.7 lbs),0.3 m (1′00″),Ground,Mistralton Cave,Sand Rush|Sand Force|Mold Breaker|
+0523,https://pokemondb.net/pokedex/zebstrika,Zebstrika,79.5 kg (175.3 lbs),1.6 m (5′03″),Electric,7,Lightning Rod|Motor Drive|Sap Sipper|
+0517,https://pokemondb.net/pokedex/munna,Munna,23.3 kg (51.4 lbs),0.6 m (2′00″),Psychic,,Forewarn|Synchronize|Telepathy|
+0516,https://pokemondb.net/pokedex/simipour,Simipour,29.0 kg (63.9 lbs),1.0 m (3′03″),Water,,Gluttony|Torrent|
+0521,https://pokemondb.net/pokedex/unfezant,Unfezant,29.0 kg (63.9 lbs),1.2 m (3′11″),Normal,Flying,Big Pecks|Super Luck|Rivalry|
+0519,https://pokemondb.net/pokedex/pidove,Pidove,2.1 kg (4.6 lbs),0.3 m (1′00″),Normal,Flying,Big Pecks|Super Luck|Rivalry|
+0515,https://pokemondb.net/pokedex/panpour,Panpour,13.5 kg (29.8 lbs),0.6 m (2′00″),Water,Pinwheel Forest,Gluttony|Torrent|
+0522,https://pokemondb.net/pokedex/blitzle,Blitzle,29.8 kg (65.7 lbs),0.8 m (2′07″),Electric,,Lightning Rod|Motor Drive|Sap Sipper|
+0518,https://pokemondb.net/pokedex/musharna,Musharna,60.5 kg (133.4 lbs),1.1 m (3′07″),Psychic,,Forewarn|Synchronize|Telepathy|
+0520,https://pokemondb.net/pokedex/tranquill,Tranquill,15.0 kg (33.1 lbs),0.6 m (2′00″),Normal,Flying,Big Pecks|Super Luck|Rivalry|
+0514,https://pokemondb.net/pokedex/simisear,Simisear,28.0 kg (61.7 lbs),1.0 m (3′03″),Fire,,Gluttony|Blaze|
+0513,https://pokemondb.net/pokedex/pansear,Pansear,11.0 kg (24.3 lbs),0.6 m (2′00″),Fire,Pinwheel Forest,Gluttony|Blaze|
+0512,https://pokemondb.net/pokedex/simisage,Simisage,30.5 kg (67.2 lbs),1.1 m (3′07″),Grass,,Gluttony|Overgrow|
+0511,https://pokemondb.net/pokedex/pansage,Pansage,10.5 kg (23.1 lbs),0.6 m (2′00″),Grass,Pinwheel Forest,Gluttony|Overgrow|
+0510,https://pokemondb.net/pokedex/liepard,Liepard,37.5 kg (82.7 lbs),1.1 m (3′07″),Dark,5,Limber|Unburden|Prankster|
+0509,https://pokemondb.net/pokedex/purrloin,Purrloin,10.1 kg (22.3 lbs),0.4 m (1′04″),Dark,19,Limber|Unburden|Prankster|
+0508,https://pokemondb.net/pokedex/stoutland,Stoutland,61.0 kg (134.5 lbs),1.2 m (3′11″),Normal,2,Intimidate|Sand Rush|Scrappy|
+0506,https://pokemondb.net/pokedex/lillipup,Lillipup,4.1 kg (9.0 lbs),0.4 m (1′04″),Normal,,Vital Spirit|Pickup|Run Away|
+0505,https://pokemondb.net/pokedex/watchog,Watchog,27.0 kg (59.5 lbs),1.1 m (3′07″),Normal,2,Illuminate|Keen Eye|Analytic|
+0501,https://pokemondb.net/pokedex/oshawott,Oshawott,5.9 kg (13.0 lbs),0.5 m (1′08″),Water,,Torrent|Shell Armor|
+0500,https://pokemondb.net/pokedex/emboar,Emboar,150.0 kg (330.7 lbs),1.6 m (5′03″),Fire,Fighting,Blaze|Reckless|
+0504,https://pokemondb.net/pokedex/patrat,Patrat,11.6 kg (25.6 lbs),0.5 m (1′08″),Normal,20,Run Away|Keen Eye|Analytic|
+0503,https://pokemondb.net/pokedex/samurott,Samurott,94.6 kg (208.6 lbs),1.5 m (4′11″),Water,Dark,Torrent|Shell Armor|Torrent|Sharpness|
+0507,https://pokemondb.net/pokedex/herdier,Herdier,14.7 kg (32.4 lbs),0.9 m (2′11″),Normal,2,Intimidate|Sand Rush|Scrappy|
+0502,https://pokemondb.net/pokedex/dewott,Dewott,24.5 kg (54.0 lbs),0.8 m (2′07″),Water,,Torrent|Shell Armor|
+0499,https://pokemondb.net/pokedex/pignite,Pignite,55.5 kg (122.4 lbs),1.0 m (3′03″),Fire,Fighting,Blaze|Thick Fat|
+0497,https://pokemondb.net/pokedex/serperior,Serperior,63.0 kg (138.9 lbs),3.3 m (10′10″),Grass,,Overgrow|Contrary|
+0498,https://pokemondb.net/pokedex/tepig,Tepig,9.9 kg (21.8 lbs),0.5 m (1′08″),Fire,,Blaze|Thick Fat|
+0496,https://pokemondb.net/pokedex/servine,Servine,16.0 kg (35.3 lbs),0.8 m (2′07″),Grass,,Overgrow|Contrary|
+0493,https://pokemondb.net/pokedex/arceus,Arceus,320.0 kg (705.5 lbs),3.2 m (10′06″),Normal,,Multitype|
+0492,https://pokemondb.net/pokedex/shaymin,Shaymin,2.1 kg (4.6 lbs),0.2 m (0′08″),Grass,Flying,Natural Cure|Serene Grace|
+0495,https://pokemondb.net/pokedex/snivy,Snivy,8.1 kg (17.9 lbs),0.6 m (2′00″),Grass,,Overgrow|Contrary|
+0494,https://pokemondb.net/pokedex/victini,Victini,4.0 kg (8.8 lbs),0.4 m (1′04″),Psychic,Fire,Victory Star|
+0487,https://pokemondb.net/pokedex/giratina,Giratina,750.0 kg (1653.5 lbs),4.5 m (14′09″),Ghost,Dragon,Pressure|Telepathy|Levitate|
+0491,https://pokemondb.net/pokedex/darkrai,Darkrai,50.5 kg (111.3 lbs),1.5 m (4′11″),Dark,,Bad Dreams|
+0490,https://pokemondb.net/pokedex/manaphy,Manaphy,1.4 kg (3.1 lbs),0.3 m (1′00″),Water,,Hydration|
+0486,https://pokemondb.net/pokedex/regigigas,Regigigas,420.0 kg (925.9 lbs),3.7 m (12′02″),Normal,,Slow Start|
+0489,https://pokemondb.net/pokedex/phione,Phione,3.1 kg (6.8 lbs),0.4 m (1′04″),Water,,Hydration|
+0488,https://pokemondb.net/pokedex/cresselia,Cresselia,85.6 kg (188.7 lbs),1.5 m (4′11″),Psychic,,Levitate|
+0485,https://pokemondb.net/pokedex/heatran,Heatran,430.0 kg (948.0 lbs),1.7 m (5′07″),Fire,Steel,Flash Fire|Flame Body|
+0484,https://pokemondb.net/pokedex/palkia,Palkia,336.0 kg (740.8 lbs),4.2 m (13′09″),Water,Dragon,Pressure|Telepathy|Pressure|Telepathy|
+0483,https://pokemondb.net/pokedex/dialga,Dialga,683.0 kg (1505.8 lbs),5.4 m (17′09″),Steel,Dragon,Pressure|Telepathy|Pressure|Telepathy|
+0482,https://pokemondb.net/pokedex/azelf,Azelf,0.3 kg (0.7 lbs),0.3 m (1′00″),Psychic,,Levitate|
+0479,https://pokemondb.net/pokedex/rotom,Rotom,0.3 kg (0.7 lbs),0.3 m (1′00″),Electric,Ghost,Levitate|Levitate|Levitate|Levitate|Levitate|Levitate|
+0478,https://pokemondb.net/pokedex/froslass,Froslass,26.6 kg (58.6 lbs),1.3 m (4′03″),Ice,Ghost,Snow Cloak|Cursed Body|
+0481,https://pokemondb.net/pokedex/mesprit,Mesprit,0.3 kg (0.7 lbs),0.3 m (1′00″),Psychic,,Levitate|
+0477,https://pokemondb.net/pokedex/dusknoir,Dusknoir,106.6 kg (235.0 lbs),2.2 m (7′03″),Ghost,,Pressure|Frisk|
+0476,https://pokemondb.net/pokedex/probopass,Probopass,340.0 kg (749.6 lbs),1.4 m (4′07″),Rock,Steel,Sturdy|Magnet Pull|Sand Force|
+0480,https://pokemondb.net/pokedex/uxie,Uxie,0.3 kg (0.7 lbs),0.3 m (1′00″),Psychic,,Levitate|
+0475,https://pokemondb.net/pokedex/gallade,Gallade,52.0 kg (114.6 lbs),1.6 m (5′03″),Psychic,Fighting,Steadfast|Sharpness|Justified|Inner Focus|
+0474,https://pokemondb.net/pokedex/porygon-z,Porygon-Z,34.0 kg (75.0 lbs),0.9 m (2′11″),Normal,,Adaptability|Download|Analytic|
+0467,https://pokemondb.net/pokedex/magmortar,Magmortar,68.0 kg (149.9 lbs),1.6 m (5′03″),Fire,,Flame Body|Vital Spirit|
+0461,https://pokemondb.net/pokedex/weavile,Weavile,34.0 kg (75.0 lbs),1.1 m (3′07″),Dark,Ice,Pressure|Pickpocket|
+0466,https://pokemondb.net/pokedex/electivire,Electivire,138.6 kg (305.6 lbs),1.8 m (5′11″),Electric,,Motor Drive|Vital Spirit|
+0465,https://pokemondb.net/pokedex/tangrowth,Tangrowth,128.6 kg (283.5 lbs),2.0 m (6′07″),Grass,,Chlorophyll|Leaf Guard|Regenerator|
+0473,https://pokemondb.net/pokedex/mamoswine,Mamoswine,291.0 kg (641.5 lbs),2.5 m (8′02″),Ice,Ground,Oblivious|Snow Cloak|Thick Fat|
+0459,https://pokemondb.net/pokedex/snover,Snover,50.5 kg (111.3 lbs),1.0 m (3′03″),Grass,Ice,Snow Warning|Soundproof|
+0463,https://pokemondb.net/pokedex/lickilicky,Lickilicky,140.0 kg (308.6 lbs),1.7 m (5′07″),Normal,,Own Tempo|Oblivious|Cloud Nine|
+0462,https://pokemondb.net/pokedex/magnezone,Magnezone,180.0 kg (396.8 lbs),1.2 m (3′11″),Electric,Steel,Magnet Pull|Sturdy|Analytic|
+0460,https://pokemondb.net/pokedex/abomasnow,Abomasnow,135.5 kg (298.7 lbs),2.2 m (7′03″),Grass,Ice,Snow Warning|Soundproof|Snow Warning|
+0458,https://pokemondb.net/pokedex/mantyke,Mantyke,65.0 kg (143.3 lbs),1.0 m (3′03″),Water,Flying,Swift Swim|Water Absorb|Water Veil|
+0464,https://pokemondb.net/pokedex/rhyperior,Rhyperior,282.8 kg (623.5 lbs),2.4 m (7′10″),Ground,Rock,Lightning Rod|Solid Rock|Reckless|
+0468,https://pokemondb.net/pokedex/togekiss,Togekiss,38.0 kg (83.8 lbs),1.5 m (4′11″),Fairy,Flying,Hustle|Serene Grace|Super Luck|
+0455,https://pokemondb.net/pokedex/carnivine,Carnivine,27.0 kg (59.5 lbs),1.4 m (4′07″),Grass,Viridian Forest,Levitate|
+0454,https://pokemondb.net/pokedex/toxicroak,Toxicroak,44.4 kg (97.9 lbs),1.3 m (4′03″),Poison,Fighting,Anticipation|Dry Skin|Poison Touch|
+0451,https://pokemondb.net/pokedex/skorupi,Skorupi,12.0 kg (26.5 lbs),0.8 m (2′07″),Poison,Bug,Battle Armor|Sniper|Keen Eye|
+0450,https://pokemondb.net/pokedex/hippowdon,Hippowdon,300.0 kg (661.4 lbs),2.0 m (6′07″),Ground,,Sand Stream|Sand Force|
+0457,https://pokemondb.net/pokedex/lumineon,Lumineon,24.0 kg (52.9 lbs),1.2 m (3′11″),Water,,Swift Swim|Storm Drain|Water Veil|
+0453,https://pokemondb.net/pokedex/croagunk,Croagunk,23.0 kg (50.7 lbs),0.7 m (2′04″),Poison,Fighting,Anticipation|Dry Skin|Poison Touch|
+0456,https://pokemondb.net/pokedex/finneon,Finneon,7.0 kg (15.4 lbs),0.4 m (1′04″),Water,,Swift Swim|Storm Drain|Water Veil|
+0452,https://pokemondb.net/pokedex/drapion,Drapion,61.5 kg (135.6 lbs),1.3 m (4′03″),Poison,Dark,Battle Armor|Sniper|Keen Eye|
+0449,https://pokemondb.net/pokedex/hippopotas,Hippopotas,49.5 kg (109.1 lbs),0.8 m (2′07″),Ground,,Sand Stream|Sand Force|
+0448,https://pokemondb.net/pokedex/lucario,Lucario,54.0 kg (119.0 lbs),1.2 m (3′11″),Fighting,Steel,Steadfast|Inner Focus|Justified|Adaptability|
+0445,https://pokemondb.net/pokedex/garchomp,Garchomp,95.0 kg (209.4 lbs),1.9 m (6′03″),Dragon,Ground,Sand Veil|Rough Skin|Sand Force|
+0447,https://pokemondb.net/pokedex/riolu,Riolu,20.2 kg (44.5 lbs),0.7 m (2′04″),Fighting,,Steadfast|Inner Focus|Prankster|
+0446,https://pokemondb.net/pokedex/munchlax,Munchlax,105.0 kg (231.5 lbs),0.6 m (2′00″),Normal,,Pickup|Thick Fat|Gluttony|
+0443,https://pokemondb.net/pokedex/gible,Gible,20.5 kg (45.2 lbs),0.7 m (2′04″),Dragon,Ground,Sand Veil|Rough Skin|
+0444,https://pokemondb.net/pokedex/gabite,Gabite,56.0 kg (123.5 lbs),1.4 m (4′07″),Dragon,Ground,Sand Veil|Rough Skin|
+0439,https://pokemondb.net/pokedex/mime-jr,Mime Jr.,13.0 kg (28.7 lbs),0.6 m (2′00″),Psychic,Fairy,Soundproof|Filter|Technician|
+0438,https://pokemondb.net/pokedex/bonsly,Bonsly,15.0 kg (33.1 lbs),0.5 m (1′08″),Rock,210,Sturdy|Rock Head|Rattled|
+0437,https://pokemondb.net/pokedex/bronzong,Bronzong,187.0 kg (412.3 lbs),1.3 m (4′03″),Steel,Psychic,Levitate|Heatproof|Heavy Metal|
+0434,https://pokemondb.net/pokedex/stunky,Stunky,19.2 kg (42.3 lbs),0.4 m (1′04″),Poison,Dark,Stench|Aftermath|Keen Eye|
+0433,https://pokemondb.net/pokedex/chingling,Chingling,0.6 kg (1.3 lbs),0.2 m (0′08″),Psychic,Mt. Coronet,Levitate|
+0432,https://pokemondb.net/pokedex/purugly,Purugly,43.8 kg (96.6 lbs),1.0 m (3′03″),Normal,229,Thick Fat|Own Tempo|Defiant|
+0436,https://pokemondb.net/pokedex/bronzor,Bronzor,60.5 kg (133.4 lbs),0.5 m (1′08″),Steel,Psychic,Levitate|Heatproof|Heavy Metal|
+0435,https://pokemondb.net/pokedex/skuntank,Skuntank,38.0 kg (83.8 lbs),1.0 m (3′03″),Poison,Dark,Stench|Aftermath|Keen Eye|
+0431,https://pokemondb.net/pokedex/glameow,Glameow,3.9 kg (8.6 lbs),0.5 m (1′08″),Normal,222,Limber|Own Tempo|Keen Eye|
+0430,https://pokemondb.net/pokedex/honchkrow,Honchkrow,27.3 kg (60.2 lbs),0.9 m (2′11″),Dark,Flying,Insomnia|Super Luck|Moxie|
+0429,https://pokemondb.net/pokedex/mismagius,Mismagius,4.4 kg (9.7 lbs),0.9 m (2′11″),Ghost,,Levitate|
+0428,https://pokemondb.net/pokedex/lopunny,Lopunny,33.3 kg (73.4 lbs),1.2 m (3′11″),Normal,Fighting,Cute Charm|Klutz|Limber|Scrappy|
+0427,https://pokemondb.net/pokedex/buneary,Buneary,5.5 kg (12.1 lbs),0.4 m (1′04″),Normal,,Run Away|Klutz|Limber|
+0426,https://pokemondb.net/pokedex/drifblim,Drifblim,15.0 kg (33.1 lbs),1.2 m (3′11″),Ghost,Flying,Aftermath|Unburden|Flare Boost|
+0425,https://pokemondb.net/pokedex/drifloon,Drifloon,1.2 kg (2.6 lbs),0.4 m (1′04″),Ghost,Flying,Aftermath|Unburden|Flare Boost|
+0424,https://pokemondb.net/pokedex/ambipom,Ambipom,20.3 kg (44.8 lbs),1.2 m (3′11″),Normal,,Technician|Pickup|Skill Link|
+0422,https://pokemondb.net/pokedex/shellos,Shellos,6.3 kg (13.9 lbs),0.3 m (1′00″),Water,212,Sticky Hold|Storm Drain|Sand Force|
+0421,https://pokemondb.net/pokedex/cherrim,Cherrim,9.3 kg (20.5 lbs),0.5 m (1′08″),Grass,,Flower Gift|
+0416,https://pokemondb.net/pokedex/vespiquen,Vespiquen,38.5 kg (84.9 lbs),1.2 m (3′11″),Bug,Flying,Pressure|Unnerve|
+0417,https://pokemondb.net/pokedex/pachirisu,Pachirisu,3.9 kg (8.6 lbs),0.4 m (1′04″),Electric,Valley Windworks,Run Away|Pickup|Volt Absorb|
+0419,https://pokemondb.net/pokedex/floatzel,Floatzel,33.5 kg (73.9 lbs),1.1 m (3′07″),Water,221,Swift Swim|Water Veil|
+0420,https://pokemondb.net/pokedex/cherubi,Cherubi,3.3 kg (7.3 lbs),0.4 m (1′04″),Grass,,Chlorophyll|
+0418,https://pokemondb.net/pokedex/buizel,Buizel,29.5 kg (65.0 lbs),0.7 m (2′04″),Water,212,Swift Swim|Water Veil|
+0423,https://pokemondb.net/pokedex/gastrodon,Gastrodon,29.9 kg (65.9 lbs),0.9 m (2′11″),Water,Ground,Sticky Hold|Storm Drain|Sand Force|
+0415,https://pokemondb.net/pokedex/combee,Combee,5.5 kg (12.1 lbs),0.3 m (1′00″),Bug,Flying,Honey Gather|Hustle|
+0414,https://pokemondb.net/pokedex/mothim,Mothim,23.3 kg (51.4 lbs),0.9 m (2′11″),Bug,Flying,Swarm|Tinted Lens|
+0409,https://pokemondb.net/pokedex/rampardos,Rampardos,102.5 kg (226.0 lbs),1.6 m (5′03″),Rock,,Mold Breaker|Sheer Force|
+0408,https://pokemondb.net/pokedex/cranidos,Cranidos,31.5 kg (69.4 lbs),0.9 m (2′11″),Rock,,Mold Breaker|Sheer Force|
+0407,https://pokemondb.net/pokedex/roserade,Roserade,14.5 kg (32.0 lbs),0.9 m (2′11″),Grass,Poison,Natural Cure|Poison Point|Technician|
+0413,https://pokemondb.net/pokedex/wormadam,Wormadam,6.5 kg (14.3 lbs),0.5 m (1′08″),Bug,Grass,Anticipation|Overcoat|Anticipation|Overcoat|Anticipation|Overcoat|
+0410,https://pokemondb.net/pokedex/shieldon,Shieldon,57.0 kg (125.7 lbs),0.5 m (1′08″),Rock,Steel,Sturdy|Soundproof|
+0406,https://pokemondb.net/pokedex/budew,Budew,1.2 kg (2.6 lbs),0.2 m (0′08″),Grass,Poison,Natural Cure|Poison Point|Leaf Guard|
+0405,https://pokemondb.net/pokedex/luxray,Luxray,42.0 kg (92.6 lbs),1.4 m (4′07″),Electric,,Rivalry|Intimidate|Guts|
+0404,https://pokemondb.net/pokedex/luxio,Luxio,30.5 kg (67.2 lbs),0.9 m (2′11″),Electric,,Rivalry|Intimidate|Guts|
+0400,https://pokemondb.net/pokedex/bibarel,Bibarel,31.5 kg (69.4 lbs),1.0 m (3′03″),Normal,Water,Simple|Unaware|Moody|
+0399,https://pokemondb.net/pokedex/bidoof,Bidoof,20.0 kg (44.1 lbs),0.5 m (1′08″),Normal,202,Simple|Unaware|Moody|
+0402,https://pokemondb.net/pokedex/kricketune,Kricketune,25.5 kg (56.2 lbs),1.0 m (3′03″),Bug,Trophy Garden,Swarm|Technician|
+0403,https://pokemondb.net/pokedex/shinx,Shinx,9.5 kg (20.9 lbs),0.5 m (1′08″),Electric,203,Rivalry|Intimidate|Guts|
+0401,https://pokemondb.net/pokedex/kricketot,Kricketot,2.2 kg (4.9 lbs),0.3 m (1′00″),Bug,202,Shed Skin|Run Away|
+0398,https://pokemondb.net/pokedex/staraptor,Staraptor,24.9 kg (54.9 lbs),1.2 m (3′11″),Normal,Flying,Intimidate|Reckless|
+0393,https://pokemondb.net/pokedex/piplup,Piplup,5.2 kg (11.5 lbs),0.4 m (1′04″),Water,,Torrent|Defiant|
+0396,https://pokemondb.net/pokedex/starly,Starly,2.0 kg (4.4 lbs),0.3 m (1′00″),Normal,Flying,Keen Eye|Reckless|
+0397,https://pokemondb.net/pokedex/staravia,Staravia,15.5 kg (34.2 lbs),0.6 m (2′00″),Normal,Flying,Intimidate|Reckless|
+0395,https://pokemondb.net/pokedex/empoleon,Empoleon,84.5 kg (186.3 lbs),1.7 m (5′07″),Water,Steel,Torrent|Defiant|
+0392,https://pokemondb.net/pokedex/infernape,Infernape,55.0 kg (121.3 lbs),1.2 m (3′11″),Fire,Fighting,Blaze|Iron Fist|
+0391,https://pokemondb.net/pokedex/monferno,Monferno,22.0 kg (48.5 lbs),0.9 m (2′11″),Fire,Fighting,Blaze|Iron Fist|
+0388,https://pokemondb.net/pokedex/grotle,Grotle,97.0 kg (213.8 lbs),1.1 m (3′07″),Grass,,Overgrow|Shell Armor|
+0394,https://pokemondb.net/pokedex/prinplup,Prinplup,23.0 kg (50.7 lbs),0.8 m (2′07″),Water,,Torrent|Defiant|
+0389,https://pokemondb.net/pokedex/torterra,Torterra,310.0 kg (683.4 lbs),2.2 m (7′03″),Grass,Ground,Overgrow|Shell Armor|
+0385,https://pokemondb.net/pokedex/jirachi,Jirachi,1.1 kg (2.4 lbs),0.3 m (1′00″),Steel,Psychic,Serene Grace|
+0383,https://pokemondb.net/pokedex/groudon,Groudon,950.0 kg (2094.4 lbs),3.5 m (11′06″),Ground,Fire,Drought|Desolate Land|
+0381,https://pokemondb.net/pokedex/latios,Latios,60.0 kg (132.3 lbs),2.0 m (6′07″),Dragon,Psychic,Levitate|Levitate|
+0387,https://pokemondb.net/pokedex/turtwig,Turtwig,10.2 kg (22.5 lbs),0.4 m (1′04″),Grass,,Overgrow|Shell Armor|
+0379,https://pokemondb.net/pokedex/registeel,Registeel,205.0 kg (451.9 lbs),1.9 m (6′03″),Steel,,Clear Body|Light Metal|
+0384,https://pokemondb.net/pokedex/rayquaza,Rayquaza,206.5 kg (455.3 lbs),7.0 m (23′00″),Dragon,Flying,Air Lock|Delta Stream|
+0375,https://pokemondb.net/pokedex/metang,Metang,202.5 kg (446.4 lbs),1.2 m (3′11″),Steel,Psychic,Clear Body|Light Metal|
+0377,https://pokemondb.net/pokedex/regirock,Regirock,230.0 kg (507.1 lbs),1.7 m (5′07″),Rock,,Clear Body|Sturdy|
+0390,https://pokemondb.net/pokedex/chimchar,Chimchar,6.2 kg (13.7 lbs),0.5 m (1′08″),Fire,,Blaze|Iron Fist|
+0374,https://pokemondb.net/pokedex/beldum,Beldum,95.2 kg (209.9 lbs),0.6 m (2′00″),Steel,Psychic,Clear Body|Light Metal|
+0382,https://pokemondb.net/pokedex/kyogre,Kyogre,352.0 kg (776.0 lbs),4.5 m (14′09″),Water,,Drizzle|Primordial Sea|
+0378,https://pokemondb.net/pokedex/regice,Regice,175.0 kg (385.8 lbs),1.8 m (5′11″),Ice,,Clear Body|Ice Body|
+0380,https://pokemondb.net/pokedex/latias,Latias,40.0 kg (88.2 lbs),1.4 m (4′07″),Dragon,Psychic,Levitate|Levitate|
+0376,https://pokemondb.net/pokedex/metagross,Metagross,550.0 kg (1212.5 lbs),1.6 m (5′03″),Steel,Psychic,Clear Body|Light Metal|Tough Claws|
+0371,https://pokemondb.net/pokedex/bagon,Bagon,42.1 kg (92.8 lbs),0.6 m (2′00″),Dragon,,Rock Head|Sheer Force|
+0373,https://pokemondb.net/pokedex/salamence,Salamence,102.6 kg (226.2 lbs),1.5 m (4′11″),Dragon,Flying,Intimidate|Moxie|Aerilate|
+0367,https://pokemondb.net/pokedex/huntail,Huntail,27.0 kg (59.5 lbs),1.7 m (5′07″),Water,,Swift Swim|Water Veil|
+0366,https://pokemondb.net/pokedex/clamperl,Clamperl,52.5 kg (115.7 lbs),0.4 m (1′04″),Water,,Shell Armor|Rattled|
+0372,https://pokemondb.net/pokedex/shelgon,Shelgon,110.5 kg (243.6 lbs),1.1 m (3′07″),Dragon,,Rock Head|Overcoat|
+0370,https://pokemondb.net/pokedex/luvdisc,Luvdisc,8.7 kg (19.2 lbs),0.6 m (2′00″),Water,,Swift Swim|Hydration|
+0369,https://pokemondb.net/pokedex/relicanth,Relicanth,23.4 kg (51.6 lbs),1.0 m (3′03″),Water,Rock,Swift Swim|Rock Head|Sturdy|
+0365,https://pokemondb.net/pokedex/walrein,Walrein,150.6 kg (332.0 lbs),1.4 m (4′07″),Ice,Water,Thick Fat|Ice Body|Oblivious|
+0368,https://pokemondb.net/pokedex/gorebyss,Gorebyss,22.6 kg (49.8 lbs),1.8 m (5′11″),Water,,Swift Swim|Hydration|
+0364,https://pokemondb.net/pokedex/sealeo,Sealeo,87.6 kg (193.1 lbs),1.1 m (3′07″),Ice,Water,Thick Fat|Ice Body|Oblivious|
+0358,https://pokemondb.net/pokedex/chimecho,Chimecho,1.0 kg (2.2 lbs),0.6 m (2′00″),Psychic,,Levitate|
+0357,https://pokemondb.net/pokedex/tropius,Tropius,100.0 kg (220.5 lbs),2.0 m (6′07″),Grass,Flying,Chlorophyll|Solar Power|Harvest|
+0356,https://pokemondb.net/pokedex/dusclops,Dusclops,30.6 kg (67.5 lbs),1.6 m (5′03″),Ghost,,Pressure|Frisk|
+0354,https://pokemondb.net/pokedex/banette,Banette,12.5 kg (27.6 lbs),1.1 m (3′07″),Ghost,,Insomnia|Frisk|Cursed Body|Prankster|
+0353,https://pokemondb.net/pokedex/shuppet,Shuppet,2.3 kg (5.1 lbs),0.6 m (2′00″),Ghost,123,Insomnia|Frisk|Cursed Body|
+0355,https://pokemondb.net/pokedex/duskull,Duskull,15.0 kg (33.1 lbs),0.8 m (2′07″),Ghost,,Levitate|Frisk|
+0351,https://pokemondb.net/pokedex/castform,Castform,0.8 kg (1.8 lbs),0.3 m (1′00″),Normal,,Forecast|Forecast|Forecast|Forecast|
+0350,https://pokemondb.net/pokedex/milotic,Milotic,162.0 kg (357.1 lbs),6.2 m (20′04″),Water,,Marvel Scale|Competitive|Cute Charm|
+0349,https://pokemondb.net/pokedex/feebas,Feebas,7.4 kg (16.3 lbs),0.6 m (2′00″),Water,,Swift Swim|Oblivious|Adaptability|
+0348,https://pokemondb.net/pokedex/armaldo,Armaldo,68.2 kg (150.4 lbs),1.5 m (4′11″),Rock,Bug,Battle Armor|Swift Swim|
+0345,https://pokemondb.net/pokedex/lileep,Lileep,23.8 kg (52.5 lbs),1.0 m (3′03″),Rock,Grass,Suction Cups|Storm Drain|
+0347,https://pokemondb.net/pokedex/anorith,Anorith,12.5 kg (27.6 lbs),0.7 m (2′04″),Rock,Bug,Battle Armor|Swift Swim|
+0346,https://pokemondb.net/pokedex/cradily,Cradily,60.4 kg (133.2 lbs),1.5 m (4′11″),Rock,Grass,Suction Cups|Storm Drain|
+0344,https://pokemondb.net/pokedex/claydol,Claydol,108.0 kg (238.1 lbs),1.5 m (4′11″),Ground,Psychic,Levitate|
+0343,https://pokemondb.net/pokedex/baltoy,Baltoy,21.5 kg (47.4 lbs),0.5 m (1′08″),Ground,Psychic,Levitate|
+0342,https://pokemondb.net/pokedex/crawdaunt,Crawdaunt,32.8 kg (72.3 lbs),1.1 m (3′07″),Water,Dark,Hyper Cutter|Shell Armor|Adaptability|
+0341,https://pokemondb.net/pokedex/corphish,Corphish,11.5 kg (25.4 lbs),0.6 m (2′00″),Water,,Hyper Cutter|Shell Armor|Adaptability|
+0340,https://pokemondb.net/pokedex/whiscash,Whiscash,23.6 kg (52.0 lbs),0.9 m (2′11″),Water,Ground,Oblivious|Anticipation|Hydration|
+0338,https://pokemondb.net/pokedex/solrock,Solrock,154.0 kg (339.5 lbs),1.2 m (3′11″),Rock,Psychic,Levitate|
+0352,https://pokemondb.net/pokedex/kecleon,Kecleon,22.0 kg (48.5 lbs),1.0 m (3′03″),Normal,,Color Change|Protean|
+0337,https://pokemondb.net/pokedex/lunatone,Lunatone,168.0 kg (370.4 lbs),1.0 m (3′03″),Rock,Psychic,Levitate|
+0334,https://pokemondb.net/pokedex/altaria,Altaria,20.6 kg (45.4 lbs),1.1 m (3′07″),Dragon,Flying,Natural Cure|Cloud Nine|Pixilate|
+0330,https://pokemondb.net/pokedex/flygon,Flygon,82.0 kg (180.8 lbs),2.0 m (6′07″),Ground,Dragon,Levitate|
+0329,https://pokemondb.net/pokedex/vibrava,Vibrava,15.3 kg (33.7 lbs),1.1 m (3′07″),Ground,Dragon,Levitate|
+0333,https://pokemondb.net/pokedex/swablu,Swablu,1.2 kg (2.6 lbs),0.4 m (1′04″),Normal,Flying,Natural Cure|Cloud Nine|
+0332,https://pokemondb.net/pokedex/cacturne,Cacturne,77.4 kg (170.6 lbs),1.3 m (4′03″),Grass,Dark,Sand Veil|Water Absorb|
+0331,https://pokemondb.net/pokedex/cacnea,Cacnea,51.3 kg (113.1 lbs),0.4 m (1′04″),Grass,,Sand Veil|Water Absorb|
+0339,https://pokemondb.net/pokedex/barboach,Barboach,1.9 kg (4.2 lbs),0.4 m (1′04″),Water,Ground,Oblivious|Anticipation|Hydration|
+0328,https://pokemondb.net/pokedex/trapinch,Trapinch,15.0 kg (33.1 lbs),0.7 m (2′04″),Ground,,Hyper Cutter|Arena Trap|Sheer Force|
+0324,https://pokemondb.net/pokedex/torkoal,Torkoal,80.4 kg (177.3 lbs),0.5 m (1′08″),Fire,,White Smoke|Drought|Shell Armor|
+0326,https://pokemondb.net/pokedex/grumpig,Grumpig,71.5 kg (157.6 lbs),0.9 m (2′11″),Psychic,,Thick Fat|Own Tempo|Gluttony|
+0323,https://pokemondb.net/pokedex/camerupt,Camerupt,220.0 kg (485.0 lbs),1.9 m (6′03″),Fire,Ground,Magma Armor|Solid Rock|Anger Point|Sheer Force|
+0325,https://pokemondb.net/pokedex/spoink,Spoink,30.6 kg (67.5 lbs),0.7 m (2′04″),Psychic,,Thick Fat|Own Tempo|Gluttony|
+0321,https://pokemondb.net/pokedex/wailord,Wailord,398.0 kg (877.4 lbs),14.5 m (47′07″),Water,,Water Veil|Oblivious|Pressure|
+0317,https://pokemondb.net/pokedex/swalot,Swalot,80.0 kg (176.4 lbs),1.7 m (5′07″),Poison,,Liquid Ooze|Sticky Hold|Gluttony|
+0320,https://pokemondb.net/pokedex/wailmer,Wailmer,130.0 kg (286.6 lbs),2.0 m (6′07″),Water,,Water Veil|Oblivious|Pressure|
+0315,https://pokemondb.net/pokedex/roselia,Roselia,2.0 kg (4.4 lbs),0.3 m (1′00″),Grass,Poison,Natural Cure|Poison Point|Leaf Guard|
+0318,https://pokemondb.net/pokedex/carvanha,Carvanha,20.8 kg (45.9 lbs),0.8 m (2′07″),Water,Dark,Rough Skin|Speed Boost|
+0316,https://pokemondb.net/pokedex/gulpin,Gulpin,10.3 kg (22.7 lbs),0.4 m (1′04″),Poison,,Liquid Ooze|Sticky Hold|Gluttony|
+0314,https://pokemondb.net/pokedex/illumise,Illumise,17.7 kg (39.0 lbs),0.6 m (2′00″),Bug,,Oblivious|Tinted Lens|Prankster|
+0319,https://pokemondb.net/pokedex/sharpedo,Sharpedo,88.8 kg (195.8 lbs),1.8 m (5′11″),Water,Dark,Rough Skin|Speed Boost|Strong Jaw|
+0313,https://pokemondb.net/pokedex/volbeat,Volbeat,17.7 kg (39.0 lbs),0.7 m (2′04″),Bug,,Illuminate|Swarm|Prankster|
+0322,https://pokemondb.net/pokedex/numel,Numel,24.0 kg (52.9 lbs),0.7 m (2′04″),Fire,Ground,Oblivious|Simple|Own Tempo|
+0312,https://pokemondb.net/pokedex/minun,Minun,4.2 kg (9.3 lbs),0.4 m (1′04″),Electric,,Minus|Volt Absorb|
+0311,https://pokemondb.net/pokedex/plusle,Plusle,4.2 kg (9.3 lbs),0.4 m (1′04″),Electric,,Plus|Lightning Rod|
+0310,https://pokemondb.net/pokedex/manectric,Manectric,40.2 kg (88.6 lbs),1.5 m (4′11″),Electric,,Static|Lightning Rod|Minus|Intimidate|
+0309,https://pokemondb.net/pokedex/electrike,Electrike,15.2 kg (33.5 lbs),0.6 m (2′00″),Electric,,Static|Lightning Rod|Minus|
+0327,https://pokemondb.net/pokedex/spinda,Spinda,5.0 kg (11.0 lbs),1.1 m (3′07″),Normal,,Own Tempo|Tangled Feet|Contrary|
+0304,https://pokemondb.net/pokedex/aron,Aron,60.0 kg (132.3 lbs),0.4 m (1′04″),Steel,Rock,Sturdy|Rock Head|Heavy Metal|
+0303,https://pokemondb.net/pokedex/mawile,Mawile,11.5 kg (25.4 lbs),0.6 m (2′00″),Steel,Fairy,Hyper Cutter|Intimidate|Sheer Force|Huge Power|
+0308,https://pokemondb.net/pokedex/medicham,Medicham,31.5 kg (69.4 lbs),1.3 m (4′03″),Fighting,Psychic,Pure Power|Telepathy|Pure Power|
+0307,https://pokemondb.net/pokedex/meditite,Meditite,11.2 kg (24.7 lbs),0.6 m (2′00″),Fighting,Psychic,Pure Power|Telepathy|
+0306,https://pokemondb.net/pokedex/aggron,Aggron,360.0 kg (793.7 lbs),2.1 m (6′11″),Steel,Rock,Sturdy|Rock Head|Heavy Metal|Filter|
+0305,https://pokemondb.net/pokedex/lairon,Lairon,120.0 kg (264.6 lbs),0.9 m (2′11″),Steel,Rock,Sturdy|Rock Head|Heavy Metal|
+0302,https://pokemondb.net/pokedex/sableye,Sableye,11.0 kg (24.3 lbs),0.5 m (1′08″),Dark,Ghost,Keen Eye|Stall|Prankster|Magic Bounce|
+0301,https://pokemondb.net/pokedex/delcatty,Delcatty,32.6 kg (71.9 lbs),1.1 m (3′07″),Normal,,Cute Charm|Normalize|Wonder Skin|
+0300,https://pokemondb.net/pokedex/skitty,Skitty,11.0 kg (24.3 lbs),0.6 m (2′00″),Normal,,Cute Charm|Normalize|Wonder Skin|
+0299,https://pokemondb.net/pokedex/nosepass,Nosepass,97.0 kg (213.8 lbs),1.0 m (3′03″),Rock,,Sturdy|Magnet Pull|Sand Force|
+0298,https://pokemondb.net/pokedex/azurill,Azurill,2.0 kg (4.4 lbs),0.2 m (0′08″),Normal,Fairy,Thick Fat|Huge Power|Sap Sipper|
+0297,https://pokemondb.net/pokedex/hariyama,Hariyama,253.8 kg (559.5 lbs),2.3 m (7′07″),Fighting,,Thick Fat|Guts|Sheer Force|
+0295,https://pokemondb.net/pokedex/exploud,Exploud,84.0 kg (185.2 lbs),1.5 m (4′11″),Normal,,Soundproof|Scrappy|
+0296,https://pokemondb.net/pokedex/makuhita,Makuhita,86.4 kg (190.5 lbs),1.0 m (3′03″),Fighting,,Thick Fat|Guts|Sheer Force|
+0293,https://pokemondb.net/pokedex/whismur,Whismur,16.3 kg (35.9 lbs),0.6 m (2′00″),Normal,,Soundproof|Rattled|
+0294,https://pokemondb.net/pokedex/loudred,Loudred,40.5 kg (89.3 lbs),1.0 m (3′03″),Normal,,Soundproof|Scrappy|
+0289,https://pokemondb.net/pokedex/slaking,Slaking,130.5 kg (287.7 lbs),2.0 m (6′07″),Normal,,Truant|
+0288,https://pokemondb.net/pokedex/vigoroth,Vigoroth,46.5 kg (102.5 lbs),1.4 m (4′07″),Normal,,Vital Spirit|
+0290,https://pokemondb.net/pokedex/nincada,Nincada,5.5 kg (12.1 lbs),0.5 m (1′08″),Bug,Ground,Compound Eyes|Run Away|
+0292,https://pokemondb.net/pokedex/shedinja,Shedinja,1.2 kg (2.6 lbs),0.8 m (2′07″),Bug,Ghost,Wonder Guard|
+0291,https://pokemondb.net/pokedex/ninjask,Ninjask,12.0 kg (26.5 lbs),0.8 m (2′07″),Bug,Flying,Speed Boost|Infiltrator|
+0287,https://pokemondb.net/pokedex/slakoth,Slakoth,24.0 kg (52.9 lbs),0.8 m (2′07″),Normal,,Truant|
+0286,https://pokemondb.net/pokedex/breloom,Breloom,39.2 kg (86.4 lbs),1.2 m (3′11″),Grass,Fighting,Effect Spore|Poison Heal|Technician|
+0285,https://pokemondb.net/pokedex/shroomish,Shroomish,4.5 kg (9.9 lbs),0.4 m (1′04″),Grass,,Effect Spore|Poison Heal|Quick Feet|
+0281,https://pokemondb.net/pokedex/kirlia,Kirlia,20.2 kg (44.5 lbs),0.8 m (2′07″),Psychic,Fairy,Synchronize|Trace|Telepathy|
+0280,https://pokemondb.net/pokedex/ralts,Ralts,6.6 kg (14.6 lbs),0.4 m (1′04″),Psychic,Fairy,Synchronize|Trace|Telepathy|
+0284,https://pokemondb.net/pokedex/masquerain,Masquerain,3.6 kg (7.9 lbs),0.8 m (2′07″),Bug,Flying,Intimidate|Unnerve|
+0283,https://pokemondb.net/pokedex/surskit,Surskit,1.7 kg (3.7 lbs),0.5 m (1′08″),Bug,Water,Swift Swim|Rain Dish|
+0282,https://pokemondb.net/pokedex/gardevoir,Gardevoir,48.4 kg (106.7 lbs),1.6 m (5′03″),Psychic,Fairy,Synchronize|Trace|Telepathy|Pixilate|
+0279,https://pokemondb.net/pokedex/pelipper,Pelipper,28.0 kg (61.7 lbs),1.2 m (3′11″),Water,Flying,Keen Eye|Drizzle|Rain Dish|
+0273,https://pokemondb.net/pokedex/seedot,Seedot,4.0 kg (8.8 lbs),0.5 m (1′08″),Grass,,Chlorophyll|Early Bird|Pickpocket|
+0274,https://pokemondb.net/pokedex/nuzleaf,Nuzleaf,28.0 kg (61.7 lbs),1.0 m (3′03″),Grass,Dark,Chlorophyll|Early Bird|Pickpocket|
+0277,https://pokemondb.net/pokedex/swellow,Swellow,19.8 kg (43.7 lbs),0.7 m (2′04″),Normal,Flying,Guts|Scrappy|
+0272,https://pokemondb.net/pokedex/ludicolo,Ludicolo,55.0 kg (121.3 lbs),1.5 m (4′11″),Water,Grass,Swift Swim|Rain Dish|Own Tempo|
+0276,https://pokemondb.net/pokedex/taillow,Taillow,2.3 kg (5.1 lbs),0.3 m (1′00″),Normal,Flying,Guts|Scrappy|
+0278,https://pokemondb.net/pokedex/wingull,Wingull,9.5 kg (20.9 lbs),0.6 m (2′00″),Water,Flying,Keen Eye|Hydration|Rain Dish|
+0270,https://pokemondb.net/pokedex/lotad,Lotad,2.6 kg (5.7 lbs),0.5 m (1′08″),Water,Grass,Swift Swim|Rain Dish|Own Tempo|
+0275,https://pokemondb.net/pokedex/shiftry,Shiftry,59.6 kg (131.4 lbs),1.3 m (4′03″),Grass,Dark,Chlorophyll|Early Bird|Pickpocket|
+0271,https://pokemondb.net/pokedex/lombre,Lombre,32.5 kg (71.7 lbs),1.2 m (3′11″),Water,Grass,Swift Swim|Rain Dish|Own Tempo|
+0269,https://pokemondb.net/pokedex/dustox,Dustox,31.6 kg (69.7 lbs),1.2 m (3′11″),Bug,Poison,Shield Dust|Compound Eyes|
+0266,https://pokemondb.net/pokedex/silcoon,Silcoon,10.0 kg (22.0 lbs),0.6 m (2′00″),Bug,,Shed Skin|
+0263,https://pokemondb.net/pokedex/zigzagoon,Zigzagoon,17.5 kg (38.6 lbs),0.4 m (1′04″),Normal,Normal,Pickup|Gluttony|Quick Feet|Pickup|Gluttony|Quick Feet|
+0264,https://pokemondb.net/pokedex/linoone,Linoone,32.5 kg (71.7 lbs),0.5 m (1′08″),Normal,Normal,Pickup|Gluttony|Quick Feet|Pickup|Gluttony|Quick Feet|
+0265,https://pokemondb.net/pokedex/wurmple,Wurmple,3.6 kg (7.9 lbs),0.3 m (1′00″),Bug,,Shield Dust|Run Away|
+0260,https://pokemondb.net/pokedex/swampert,Swampert,81.9 kg (180.6 lbs),1.5 m (4′11″),Water,Ground,Torrent|Damp|Swift Swim|
+0262,https://pokemondb.net/pokedex/mightyena,Mightyena,37.0 kg (81.6 lbs),1.0 m (3′03″),Dark,,Intimidate|Quick Feet|Moxie|
+0258,https://pokemondb.net/pokedex/mudkip,Mudkip,7.6 kg (16.8 lbs),0.4 m (1′04″),Water,,Torrent|Damp|
+0257,https://pokemondb.net/pokedex/blaziken,Blaziken,52.0 kg (114.6 lbs),1.9 m (6′03″),Fire,Fighting,Blaze|Speed Boost|Speed Boost|
+0261,https://pokemondb.net/pokedex/poochyena,Poochyena,13.6 kg (30.0 lbs),0.5 m (1′08″),Dark,,Run Away|Quick Feet|Rattled|
+0267,https://pokemondb.net/pokedex/beautifly,Beautifly,28.4 kg (62.6 lbs),1.0 m (3′03″),Bug,Flying,Swarm|Rivalry|
+0268,https://pokemondb.net/pokedex/cascoon,Cascoon,11.5 kg (25.4 lbs),0.7 m (2′04″),Bug,,Shed Skin|
+0259,https://pokemondb.net/pokedex/marshtomp,Marshtomp,28.0 kg (61.7 lbs),0.7 m (2′04″),Water,Ground,Torrent|Damp|
+0256,https://pokemondb.net/pokedex/combusken,Combusken,19.5 kg (43.0 lbs),0.9 m (2′11″),Fire,Fighting,Blaze|Speed Boost|
+0255,https://pokemondb.net/pokedex/torchic,Torchic,2.5 kg (5.5 lbs),0.4 m (1′04″),Fire,,Blaze|Speed Boost|
+0252,https://pokemondb.net/pokedex/treecko,Treecko,5.0 kg (11.0 lbs),0.5 m (1′08″),Grass,,Overgrow|Unburden|
+0254,https://pokemondb.net/pokedex/sceptile,Sceptile,52.2 kg (115.1 lbs),1.7 m (5′07″),Grass,Dragon,Overgrow|Unburden|Lightning Rod|
+0251,https://pokemondb.net/pokedex/celebi,Celebi,5.0 kg (11.0 lbs),0.6 m (2′00″),Psychic,Grass,Natural Cure|
+0250,https://pokemondb.net/pokedex/ho-oh,Ho-oh,199.0 kg (438.7 lbs),3.8 m (12′06″),Fire,Flying,Pressure|Regenerator|
+0253,https://pokemondb.net/pokedex/grovyle,Grovyle,21.6 kg (47.6 lbs),0.9 m (2′11″),Grass,,Overgrow|Unburden|
+0249,https://pokemondb.net/pokedex/lugia,Lugia,216.0 kg (476.2 lbs),5.2 m (17′01″),Psychic,Flying,Pressure|Multiscale|
+0248,https://pokemondb.net/pokedex/tyranitar,Tyranitar,202.0 kg (445.3 lbs),2.0 m (6′07″),Rock,Dark,Sand Stream|Unnerve|Sand Stream|
+0247,https://pokemondb.net/pokedex/pupitar,Pupitar,152.0 kg (335.1 lbs),1.2 m (3′11″),Rock,Ground,Shed Skin|
+0243,https://pokemondb.net/pokedex/raikou,Raikou,178.0 kg (392.4 lbs),1.9 m (6′03″),Electric,,Pressure|Inner Focus|
+0242,https://pokemondb.net/pokedex/blissey,Blissey,46.8 kg (103.2 lbs),1.5 m (4′11″),Normal,,Natural Cure|Serene Grace|Healer|
+0246,https://pokemondb.net/pokedex/larvitar,Larvitar,72.0 kg (158.7 lbs),0.6 m (2′00″),Rock,Ground,Guts|Sand Veil|
+0245,https://pokemondb.net/pokedex/suicune,Suicune,187.0 kg (412.3 lbs),2.0 m (6′07″),Water,,Pressure|Inner Focus|
+0244,https://pokemondb.net/pokedex/entei,Entei,198.0 kg (436.5 lbs),2.1 m (6′11″),Fire,,Pressure|Inner Focus|
+0241,https://pokemondb.net/pokedex/miltank,Miltank,75.5 kg (166.4 lbs),1.2 m (3′11″),Normal,,Thick Fat|Scrappy|Sap Sipper|
+0235,https://pokemondb.net/pokedex/smeargle,Smeargle,58.0 kg (127.9 lbs),1.2 m (3′11″),Normal,,Own Tempo|Technician|Moody|
+0240,https://pokemondb.net/pokedex/magby,Magby,21.4 kg (47.2 lbs),0.7 m (2′04″),Fire,,Flame Body|Vital Spirit|
+0236,https://pokemondb.net/pokedex/tyrogue,Tyrogue,21.0 kg (46.3 lbs),0.7 m (2′04″),Fighting,Mt. Mortar,Guts|Steadfast|Vital Spirit|
+0239,https://pokemondb.net/pokedex/elekid,Elekid,23.5 kg (51.8 lbs),0.6 m (2′00″),Electric,,Static|Vital Spirit|
+0237,https://pokemondb.net/pokedex/hitmontop,Hitmontop,48.0 kg (105.8 lbs),1.4 m (4′07″),Fighting,,Intimidate|Technician|Steadfast|
+0238,https://pokemondb.net/pokedex/smoochum,Smoochum,6.0 kg (13.2 lbs),0.4 m (1′04″),Ice,Psychic,Oblivious|Forewarn|Hydration|
+0232,https://pokemondb.net/pokedex/donphan,Donphan,120.0 kg (264.6 lbs),1.1 m (3′07″),Ground,Mt. Silver,Sturdy|Sand Veil|
+0234,https://pokemondb.net/pokedex/stantler,Stantler,71.2 kg (157.0 lbs),1.4 m (4′07″),Normal,,Intimidate|Frisk|Sap Sipper|
+0231,https://pokemondb.net/pokedex/phanpy,Phanpy,33.5 kg (73.9 lbs),0.5 m (1′08″),Ground,,Pickup|Sand Veil|
+0230,https://pokemondb.net/pokedex/kingdra,Kingdra,152.0 kg (335.1 lbs),1.8 m (5′11″),Water,Dragon,Swift Swim|Sniper|Damp|
+0226,https://pokemondb.net/pokedex/mantine,Mantine,220.0 kg (485.0 lbs),2.1 m (6′11″),Water,Flying,Swift Swim|Water Absorb|Water Veil|
+0227,https://pokemondb.net/pokedex/skarmory,Skarmory,50.5 kg (111.3 lbs),1.7 m (5′07″),Steel,Flying,Keen Eye|Sturdy|Weak Armor|
+0229,https://pokemondb.net/pokedex/houndoom,Houndoom,35.0 kg (77.2 lbs),1.4 m (4′07″),Dark,Fire,Early Bird|Flash Fire|Unnerve|Solar Power|
+0225,https://pokemondb.net/pokedex/delibird,Delibird,16.0 kg (35.3 lbs),0.9 m (2′11″),Ice,Flying,Vital Spirit|Hustle|Insomnia|
+0228,https://pokemondb.net/pokedex/houndour,Houndour,10.8 kg (23.8 lbs),0.6 m (2′00″),Dark,Fire,Early Bird|Flash Fire|Unnerve|
+0233,https://pokemondb.net/pokedex/porygon2,Porygon2,32.5 kg (71.7 lbs),0.6 m (2′00″),Normal,,Trace|Download|Analytic|
+0224,https://pokemondb.net/pokedex/octillery,Octillery,28.5 kg (62.8 lbs),0.9 m (2′11″),Water,,Suction Cups|Sniper|Moody|
+0223,https://pokemondb.net/pokedex/remoraid,Remoraid,12.0 kg (26.5 lbs),0.6 m (2′00″),Water,,Hustle|Sniper|Moody|
+0222,https://pokemondb.net/pokedex/corsola,Corsola,5.0 kg (11.0 lbs),0.6 m (2′00″),Water,Rock,Hustle|Natural Cure|Regenerator|Weak Armor|Cursed Body|
+0221,https://pokemondb.net/pokedex/piloswine,Piloswine,55.8 kg (123.0 lbs),1.1 m (3′07″),Ice,Ground,Oblivious|Snow Cloak|Thick Fat|
+0220,https://pokemondb.net/pokedex/swinub,Swinub,6.5 kg (14.3 lbs),0.4 m (1′04″),Ice,Ground,Oblivious|Snow Cloak|Thick Fat|
+0219,https://pokemondb.net/pokedex/magcargo,Magcargo,55.0 kg (121.3 lbs),0.8 m (2′07″),Fire,Rock,Magma Armor|Flame Body|Weak Armor|
+0218,https://pokemondb.net/pokedex/slugma,Slugma,35.0 kg (77.2 lbs),0.7 m (2′04″),Fire,,Magma Armor|Flame Body|Weak Armor|
+0217,https://pokemondb.net/pokedex/ursaring,Ursaring,125.8 kg (277.3 lbs),1.8 m (5′11″),Normal,,Guts|Quick Feet|Unnerve|
+0216,https://pokemondb.net/pokedex/teddiursa,Teddiursa,8.8 kg (19.4 lbs),0.6 m (2′00″),Normal,,Pickup|Quick Feet|Honey Gather|
+0215,https://pokemondb.net/pokedex/sneasel,Sneasel,28.0 kg (61.7 lbs),0.9 m (2′11″),Dark,Ice,Inner Focus|Keen Eye|Pickpocket|Inner Focus|Keen Eye|Pickpocket|
+0214,https://pokemondb.net/pokedex/heracross,Heracross,54.0 kg (119.0 lbs),1.5 m (4′11″),Bug,Fighting,Swarm|Guts|Moxie|Skill Link|
+0213,https://pokemondb.net/pokedex/shuckle,Shuckle,20.5 kg (45.2 lbs),0.6 m (2′00″),Bug,Rock,Sturdy|Gluttony|Contrary|
+0211,https://pokemondb.net/pokedex/qwilfish,Qwilfish,3.9 kg (8.6 lbs),0.5 m (1′08″),Water,Poison,Poison Point|Swift Swim|Intimidate|Poison Point|Swift Swim|Intimidate|
+0212,https://pokemondb.net/pokedex/scizor,Scizor,118.0 kg (260.1 lbs),1.8 m (5′11″),Bug,Steel,Swarm|Technician|Light Metal|Technician|
+0209,https://pokemondb.net/pokedex/snubbull,Snubbull,7.8 kg (17.2 lbs),0.6 m (2′00″),Fairy,7,Intimidate|Run Away|Rattled|
+0210,https://pokemondb.net/pokedex/granbull,Granbull,48.7 kg (107.4 lbs),1.4 m (4′07″),Fairy,6,Intimidate|Quick Feet|Rattled|
+0208,https://pokemondb.net/pokedex/steelix,Steelix,400.0 kg (881.8 lbs),9.2 m (30′02″),Steel,Ground,Rock Head|Sturdy|Sheer Force|Sand Force|
+0207,https://pokemondb.net/pokedex/gligar,Gligar,64.8 kg (142.9 lbs),1.1 m (3′07″),Ground,Flying,Hyper Cutter|Sand Veil|Immunity|
+0203,https://pokemondb.net/pokedex/girafarig,Girafarig,41.5 kg (91.5 lbs),1.5 m (4′11″),Normal,Psychic,Inner Focus|Early Bird|Sap Sipper|
+0202,https://pokemondb.net/pokedex/wobbuffet,Wobbuffet,28.5 kg (62.8 lbs),1.3 m (4′03″),Psychic,Goldenrod City,Shadow Tag|Telepathy|
+0201,https://pokemondb.net/pokedex/unown,Unown,5.0 kg (11.0 lbs),0.5 m (1′08″),Psychic,,Levitate|
+0205,https://pokemondb.net/pokedex/forretress,Forretress,125.8 kg (277.3 lbs),1.2 m (3′11″),Bug,Steel,Sturdy|Overcoat|
+0204,https://pokemondb.net/pokedex/pineco,Pineco,7.2 kg (15.9 lbs),0.6 m (2′00″),Bug,27,Sturdy|Overcoat|
+0199,https://pokemondb.net/pokedex/slowking,Slowking,79.5 kg (175.3 lbs),2.0 m (6′07″),Water,Psychic,Oblivious|Own Tempo|Regenerator|Curious Medicine|Own Tempo|Regenerator|
+0198,https://pokemondb.net/pokedex/murkrow,Murkrow,2.1 kg (4.6 lbs),0.5 m (1′08″),Dark,Flying,Insomnia|Super Luck|Prankster|
+0197,https://pokemondb.net/pokedex/umbreon,Umbreon,27.0 kg (59.5 lbs),1.0 m (3′03″),Dark,,Synchronize|Inner Focus|
+0196,https://pokemondb.net/pokedex/espeon,Espeon,26.5 kg (58.4 lbs),0.9 m (2′11″),Psychic,,Synchronize|Magic Bounce|
+0195,https://pokemondb.net/pokedex/quagsire,Quagsire,75.0 kg (165.3 lbs),1.4 m (4′07″),Water,Ground,Damp|Water Absorb|Unaware|
+0194,https://pokemondb.net/pokedex/wooper,Wooper,8.5 kg (18.7 lbs),0.4 m (1′04″),Water,Ground,Damp|Water Absorb|Unaware|Poison Point|Water Absorb|Unaware|
+0193,https://pokemondb.net/pokedex/yanma,Yanma,38.0 kg (83.8 lbs),1.2 m (3′11″),Bug,Flying,Speed Boost|Compound Eyes|Frisk|
+0192,https://pokemondb.net/pokedex/sunflora,Sunflora,8.5 kg (18.7 lbs),0.8 m (2′07″),Grass,,Chlorophyll|Solar Power|Early Bird|
+0191,https://pokemondb.net/pokedex/sunkern,Sunkern,1.8 kg (4.0 lbs),0.3 m (1′00″),Grass,,Chlorophyll|Solar Power|Early Bird|
+0187,https://pokemondb.net/pokedex/hoppip,Hoppip,0.5 kg (1.1 lbs),0.4 m (1′04″),Grass,Flying,Chlorophyll|Leaf Guard|Infiltrator|
+0186,https://pokemondb.net/pokedex/politoed,Politoed,33.9 kg (74.7 lbs),1.1 m (3′07″),Water,,Water Absorb|Damp|Drizzle|
+0189,https://pokemondb.net/pokedex/jumpluff,Jumpluff,3.0 kg (6.6 lbs),0.8 m (2′07″),Grass,Flying,Chlorophyll|Leaf Guard|Infiltrator|
+0188,https://pokemondb.net/pokedex/skiploom,Skiploom,1.0 kg (2.2 lbs),0.6 m (2′00″),Grass,Flying,Chlorophyll|Leaf Guard|Infiltrator|
+0190,https://pokemondb.net/pokedex/aipom,Aipom,11.5 kg (25.4 lbs),0.8 m (2′07″),Normal,42,Run Away|Pickup|Skill Link|
+0200,https://pokemondb.net/pokedex/misdreavus,Misdreavus,1.0 kg (2.2 lbs),0.7 m (2′04″),Ghost,,Levitate|
+0185,https://pokemondb.net/pokedex/sudowoodo,Sudowoodo,38.0 kg (83.8 lbs),1.2 m (3′11″),Rock,,Sturdy|Rock Head|Rattled|
+0184,https://pokemondb.net/pokedex/azumarill,Azumarill,28.5 kg (62.8 lbs),0.8 m (2′07″),Water,Fairy,Thick Fat|Huge Power|Sap Sipper|
+0181,https://pokemondb.net/pokedex/ampharos,Ampharos,61.5 kg (135.6 lbs),1.4 m (4′07″),Electric,Dragon,Static|Plus|Mold Breaker|
+0180,https://pokemondb.net/pokedex/flaaffy,Flaaffy,13.3 kg (29.3 lbs),0.8 m (2′07″),Electric,,Static|Plus|
+0179,https://pokemondb.net/pokedex/mareep,Mareep,7.8 kg (17.2 lbs),0.6 m (2′00″),Electric,,Static|Plus|
+0183,https://pokemondb.net/pokedex/marill,Marill,8.5 kg (18.7 lbs),0.4 m (1′04″),Water,Fairy,Thick Fat|Huge Power|Sap Sipper|
+0182,https://pokemondb.net/pokedex/bellossom,Bellossom,5.8 kg (12.8 lbs),0.4 m (1′04″),Grass,,Chlorophyll|Healer|
+0175,https://pokemondb.net/pokedex/togepi,Togepi,1.5 kg (3.3 lbs),0.3 m (1′00″),Fairy,,Hustle|Serene Grace|Super Luck|
+0177,https://pokemondb.net/pokedex/natu,Natu,2.0 kg (4.4 lbs),0.2 m (0′08″),Psychic,Flying,Synchronize|Early Bird|Magic Bounce|
+0176,https://pokemondb.net/pokedex/togetic,Togetic,3.2 kg (7.1 lbs),0.6 m (2′00″),Fairy,Flying,Hustle|Serene Grace|Super Luck|
+0173,https://pokemondb.net/pokedex/cleffa,Cleffa,3.0 kg (6.6 lbs),0.3 m (1′00″),Fairy,,Cute Charm|Magic Guard|Friend Guard|
+0172,https://pokemondb.net/pokedex/pichu,Pichu,2.0 kg (4.4 lbs),0.3 m (1′00″),Electric,,Static|Lightning Rod|
+0174,https://pokemondb.net/pokedex/igglybuff,Igglybuff,1.0 kg (2.2 lbs),0.3 m (1′00″),Normal,Fairy,Cute Charm|Competitive|Friend Guard|
+0171,https://pokemondb.net/pokedex/lanturn,Lanturn,22.5 kg (49.6 lbs),1.2 m (3′11″),Water,Electric,Volt Absorb|Illuminate|Water Absorb|
+0178,https://pokemondb.net/pokedex/xatu,Xatu,15.0 kg (33.1 lbs),1.5 m (4′11″),Psychic,Flying,Synchronize|Early Bird|Magic Bounce|
+0170,https://pokemondb.net/pokedex/chinchou,Chinchou,12.0 kg (26.5 lbs),0.5 m (1′08″),Water,Electric,Volt Absorb|Illuminate|Water Absorb|
+0169,https://pokemondb.net/pokedex/crobat,Crobat,75.0 kg (165.3 lbs),1.8 m (5′11″),Poison,Flying,Inner Focus|Infiltrator|
+0168,https://pokemondb.net/pokedex/ariados,Ariados,33.5 kg (73.9 lbs),1.1 m (3′07″),Bug,Poison,Swarm|Insomnia|Sniper|
+0167,https://pokemondb.net/pokedex/spinarak,Spinarak,8.5 kg (18.7 lbs),0.5 m (1′08″),Bug,Poison,Swarm|Insomnia|Sniper|
+0165,https://pokemondb.net/pokedex/ledyba,Ledyba,10.8 kg (23.8 lbs),1.0 m (3′03″),Bug,Flying,Swarm|Early Bird|Rattled|
+0164,https://pokemondb.net/pokedex/noctowl,Noctowl,40.8 kg (89.9 lbs),1.6 m (5′03″),Normal,Flying,Insomnia|Keen Eye|Tinted Lens|
+0162,https://pokemondb.net/pokedex/furret,Furret,32.5 kg (71.7 lbs),1.8 m (5′11″),Normal,43,Run Away|Keen Eye|Frisk|
+0161,https://pokemondb.net/pokedex/sentret,Sentret,6.0 kg (13.2 lbs),0.8 m (2′07″),Normal,29,Run Away|Keen Eye|Frisk|
+0159,https://pokemondb.net/pokedex/croconaw,Croconaw,25.0 kg (55.1 lbs),1.1 m (3′07″),Water,,Torrent|Sheer Force|
+0163,https://pokemondb.net/pokedex/hoothoot,Hoothoot,21.2 kg (46.7 lbs),0.7 m (2′04″),Normal,Flying,Insomnia|Keen Eye|Tinted Lens|
+0158,https://pokemondb.net/pokedex/totodile,Totodile,9.5 kg (20.9 lbs),0.6 m (2′00″),Water,,Torrent|Sheer Force|
+0157,https://pokemondb.net/pokedex/typhlosion,Typhlosion,79.5 kg (175.3 lbs),1.7 m (5′07″),Fire,Ghost,Blaze|Flash Fire|Blaze|Frisk|
+0160,https://pokemondb.net/pokedex/feraligatr,Feraligatr,88.8 kg (195.8 lbs),2.3 m (7′07″),Water,,Torrent|Sheer Force|
+0156,https://pokemondb.net/pokedex/quilava,Quilava,19.0 kg (41.9 lbs),0.9 m (2′11″),Fire,,Blaze|Flash Fire|
+0155,https://pokemondb.net/pokedex/cyndaquil,Cyndaquil,7.9 kg (17.4 lbs),0.5 m (1′08″),Fire,,Blaze|Flash Fire|
+0154,https://pokemondb.net/pokedex/meganium,Meganium,100.5 kg (221.6 lbs),1.8 m (5′11″),Grass,,Overgrow|Leaf Guard|
+0150,https://pokemondb.net/pokedex/mewtwo,Mewtwo,122.0 kg (269.0 lbs),2.0 m (6′07″),Psychic,Fighting,Pressure|Unnerve|Steadfast|Insomnia|
+0152,https://pokemondb.net/pokedex/chikorita,Chikorita,6.4 kg (14.1 lbs),0.9 m (2′11″),Grass,,Overgrow|Leaf Guard|
+0149,https://pokemondb.net/pokedex/dragonite,Dragonite,210.0 kg (463.0 lbs),2.2 m (7′03″),Dragon,Flying,Inner Focus|Multiscale|
+0148,https://pokemondb.net/pokedex/dragonair,Dragonair,16.5 kg (36.4 lbs),4.0 m (13′01″),Dragon,,Shed Skin|Marvel Scale|
+0151,https://pokemondb.net/pokedex/mew,Mew,4.0 kg (8.8 lbs),0.4 m (1′04″),Psychic,,Synchronize|
+0166,https://pokemondb.net/pokedex/ledian,Ledian,35.6 kg (78.5 lbs),1.4 m (4′07″),Bug,Flying,Swarm|Early Bird|Iron Fist|
+0147,https://pokemondb.net/pokedex/dratini,Dratini,3.3 kg (7.3 lbs),1.8 m (5′11″),Dragon,,Shed Skin|Marvel Scale|
+0153,https://pokemondb.net/pokedex/bayleef,Bayleef,15.8 kg (34.8 lbs),1.2 m (3′11″),Grass,,Overgrow|Leaf Guard|
+0143,https://pokemondb.net/pokedex/snorlax,Snorlax,460.0 kg (1014.1 lbs),2.1 m (6′11″),Normal,,Immunity|Thick Fat|Gluttony|
+0146,https://pokemondb.net/pokedex/moltres,Moltres,60.0 kg (132.3 lbs),2.0 m (6′07″),Fire,Flying,Pressure|Flame Body|Berserk|
+0145,https://pokemondb.net/pokedex/zapdos,Zapdos,52.6 kg (116.0 lbs),1.6 m (5′03″),Electric,Flying,Pressure|Static|Defiant|
+0144,https://pokemondb.net/pokedex/articuno,Articuno,55.4 kg (122.1 lbs),1.7 m (5′07″),Ice,Flying,Pressure|Snow Cloak|Competitive|
+0142,https://pokemondb.net/pokedex/aerodactyl,Aerodactyl,59.0 kg (130.1 lbs),1.8 m (5′11″),Rock,Flying,Rock Head|Pressure|Unnerve|Tough Claws|
+0141,https://pokemondb.net/pokedex/kabutops,Kabutops,40.5 kg (89.3 lbs),1.3 m (4′03″),Rock,Water,Swift Swim|Battle Armor|Weak Armor|
+0140,https://pokemondb.net/pokedex/kabuto,Kabuto,11.5 kg (25.4 lbs),0.5 m (1′08″),Rock,Water,Swift Swim|Battle Armor|Weak Armor|
+0139,https://pokemondb.net/pokedex/omastar,Omastar,35.0 kg (77.2 lbs),1.0 m (3′03″),Rock,Water,Swift Swim|Shell Armor|Weak Armor|
+0138,https://pokemondb.net/pokedex/omanyte,Omanyte,7.5 kg (16.5 lbs),0.4 m (1′04″),Rock,Water,Swift Swim|Shell Armor|Weak Armor|
+0137,https://pokemondb.net/pokedex/porygon,Porygon,36.5 kg (80.5 lbs),0.8 m (2′07″),Normal,,Trace|Download|Analytic|
+0136,https://pokemondb.net/pokedex/flareon,Flareon,25.0 kg (55.1 lbs),0.9 m (2′11″),Fire,,Flash Fire|Guts|
+0135,https://pokemondb.net/pokedex/jolteon,Jolteon,24.5 kg (54.0 lbs),0.8 m (2′07″),Electric,,Volt Absorb|Quick Feet|
+0133,https://pokemondb.net/pokedex/eevee,Eevee,6.5 kg (14.3 lbs),0.3 m (1′00″),Normal,Goldenrod City,Run Away|Adaptability|Anticipation|
+0134,https://pokemondb.net/pokedex/vaporeon,Vaporeon,29.0 kg (63.9 lbs),1.0 m (3′03″),Water,,Water Absorb|Hydration|
+0132,https://pokemondb.net/pokedex/ditto,Ditto,4.0 kg (8.8 lbs),0.3 m (1′00″),Normal,Pokémon Mansion,Limber|Imposter|
+0131,https://pokemondb.net/pokedex/lapras,Lapras,220.0 kg (485.0 lbs),2.5 m (8′02″),Water,Ice,Water Absorb|Shell Armor|Hydration|
+0130,https://pokemondb.net/pokedex/gyarados,Gyarados,235.0 kg (518.1 lbs),6.5 m (21′04″),Water,Flying,Intimidate|Moxie|Mold Breaker|
+0128,https://pokemondb.net/pokedex/tauros,Tauros,88.4 kg (194.9 lbs),1.4 m (4′07″),Normal,Fire,Intimidate|Anger Point|Sheer Force|Intimidate|Anger Point|Cud Chew|Intimidate|Anger Point|Cud Chew|Intimidate|Anger Point|Cud Chew|
+0127,https://pokemondb.net/pokedex/pinsir,Pinsir,55.0 kg (121.3 lbs),1.5 m (4′11″),Bug,Flying,Hyper Cutter|Mold Breaker|Moxie|Aerilate|
+0129,https://pokemondb.net/pokedex/magikarp,Magikarp,10.0 kg (22.0 lbs),0.9 m (2′11″),Water,9,Swift Swim|Rattled|
+0126,https://pokemondb.net/pokedex/magmar,Magmar,44.5 kg (98.1 lbs),1.3 m (4′03″),Fire,,Flame Body|Vital Spirit|
+0124,https://pokemondb.net/pokedex/jynx,Jynx,40.6 kg (89.5 lbs),1.4 m (4′07″),Ice,Psychic,Oblivious|Forewarn|Dry Skin|
+0120,https://pokemondb.net/pokedex/staryu,Staryu,34.5 kg (76.1 lbs),0.8 m (2′07″),Water,20,Illuminate|Natural Cure|Analytic|
+0119,https://pokemondb.net/pokedex/seaking,Seaking,39.0 kg (86.0 lbs),1.3 m (4′03″),Water,Cerulean Cave,Swift Swim|Water Veil|Lightning Rod|
+0122,https://pokemondb.net/pokedex/mr-mime,Mr. Mime,54.5 kg (120.2 lbs),1.3 m (4′03″),Psychic,Fairy,Soundproof|Filter|Technician|Vital Spirit|Screen Cleaner|Ice Body|
+0123,https://pokemondb.net/pokedex/scyther,Scyther,56.0 kg (123.5 lbs),1.5 m (4′11″),Bug,Flying,Swarm|Technician|Steadfast|
+0125,https://pokemondb.net/pokedex/electabuzz,Electabuzz,30.0 kg (66.1 lbs),1.1 m (3′07″),Electric,,Static|Vital Spirit|
+0121,https://pokemondb.net/pokedex/starmie,Starmie,80.0 kg (176.4 lbs),1.1 m (3′07″),Water,Psychic,Illuminate|Natural Cure|Analytic|
+0117,https://pokemondb.net/pokedex/seadra,Seadra,25.0 kg (55.1 lbs),1.2 m (3′11″),Water,Cerulean Cave,Poison Point|Sniper|Damp|
+0114,https://pokemondb.net/pokedex/tangela,Tangela,35.0 kg (77.2 lbs),1.0 m (3′03″),Grass,,Chlorophyll|Leaf Guard|Regenerator|
+0113,https://pokemondb.net/pokedex/chansey,Chansey,34.6 kg (76.3 lbs),1.1 m (3′07″),Normal,14,Natural Cure|Serene Grace|Healer|
+0112,https://pokemondb.net/pokedex/rhydon,Rhydon,120.0 kg (264.6 lbs),1.9 m (6′03″),Ground,Rock,Lightning Rod|Rock Head|Reckless|
+0111,https://pokemondb.net/pokedex/rhyhorn,Rhyhorn,115.0 kg (253.5 lbs),1.0 m (3′03″),Ground,Rock,Lightning Rod|Rock Head|Reckless|
+0115,https://pokemondb.net/pokedex/kangaskhan,Kangaskhan,80.0 kg (176.4 lbs),2.2 m (7′03″),Normal,,Early Bird|Scrappy|Inner Focus|Parental Bond|
+0116,https://pokemondb.net/pokedex/horsea,Horsea,8.0 kg (17.6 lbs),0.4 m (1′04″),Water,11,Swift Swim|Sniper|Damp|
+0118,https://pokemondb.net/pokedex/goldeen,Goldeen,15.0 kg (33.1 lbs),0.6 m (2′00″),Water,9,Swift Swim|Water Veil|Lightning Rod|
+0103,https://pokemondb.net/pokedex/exeggutor,Exeggutor,120.0 kg (264.6 lbs),2.0 m (6′07″),Grass,Psychic,Chlorophyll|Harvest|Frisk|Harvest|
+0110,https://pokemondb.net/pokedex/weezing,Weezing,9.5 kg (20.9 lbs),1.2 m (3′11″),Poison,Fairy,Levitate|Neutralizing Gas|Stench|Levitate|Neutralizing Gas|Misty Surge|
+0105,https://pokemondb.net/pokedex/marowak,Marowak,45.0 kg (99.2 lbs),1.0 m (3′03″),Ground,Ghost,Rock Head|Lightning Rod|Battle Armor|Cursed Body|Lightning Rod|Rock Head|
+0104,https://pokemondb.net/pokedex/cubone,Cubone,6.5 kg (14.3 lbs),0.4 m (1′04″),Ground,Safari Zone,Rock Head|Lightning Rod|Battle Armor|
+0109,https://pokemondb.net/pokedex/koffing,Koffing,1.0 kg (2.2 lbs),0.6 m (2′00″),Poison,,Levitate|Neutralizing Gas|Stench|
+0108,https://pokemondb.net/pokedex/lickitung,Lickitung,65.5 kg (144.4 lbs),1.2 m (3′11″),Normal,,Own Tempo|Oblivious|Cloud Nine|
+0107,https://pokemondb.net/pokedex/hitmonchan,Hitmonchan,50.2 kg (110.7 lbs),1.4 m (4′07″),Fighting,,Keen Eye|Iron Fist|Inner Focus|
+0106,https://pokemondb.net/pokedex/hitmonlee,Hitmonlee,49.8 kg (109.8 lbs),1.5 m (4′11″),Fighting,,Limber|Reckless|Unburden|
+0098,https://pokemondb.net/pokedex/krabby,Krabby,6.5 kg (14.3 lbs),0.4 m (1′04″),Water,11,Hyper Cutter|Shell Armor|Sheer Force|
+0100,https://pokemondb.net/pokedex/voltorb,Voltorb,10.4 kg (22.9 lbs),0.5 m (1′08″),Electric,Grass,Soundproof|Static|Aftermath|Soundproof|Static|Aftermath|
+0101,https://pokemondb.net/pokedex/electrode,Electrode,66.6 kg (146.8 lbs),1.2 m (3′11″),Electric,Grass,Soundproof|Static|Aftermath|Soundproof|Static|Aftermath|
+0096,https://pokemondb.net/pokedex/drowzee,Drowzee,32.4 kg (71.4 lbs),1.0 m (3′03″),Psychic,34,Insomnia|Forewarn|Inner Focus|
+0099,https://pokemondb.net/pokedex/kingler,Kingler,60.0 kg (132.3 lbs),1.3 m (4′03″),Water,Cerulean Cave,Hyper Cutter|Shell Armor|Sheer Force|
+0102,https://pokemondb.net/pokedex/exeggcute,Exeggcute,2.5 kg (5.5 lbs),0.4 m (1′04″),Grass,Psychic,Chlorophyll|Harvest|
+0097,https://pokemondb.net/pokedex/hypno,Hypno,75.6 kg (166.7 lbs),1.6 m (5′03″),Psychic,,Insomnia|Forewarn|Inner Focus|
+0091,https://pokemondb.net/pokedex/cloyster,Cloyster,132.5 kg (292.1 lbs),1.5 m (4′11″),Water,Ice,Shell Armor|Skill Link|Overcoat|
+0094,https://pokemondb.net/pokedex/gengar,Gengar,40.5 kg (89.3 lbs),1.5 m (4′11″),Ghost,Poison,Cursed Body|Shadow Tag|
+0092,https://pokemondb.net/pokedex/gastly,Gastly,0.1 kg (0.2 lbs),1.3 m (4′03″),Ghost,Poison,Levitate|
+0088,https://pokemondb.net/pokedex/grimer,Grimer,30.0 kg (66.1 lbs),0.9 m (2′11″),Poison,Dark,Stench|Sticky Hold|Poison Touch|Poison Touch|Gluttony|Power of Alchemy|
+0093,https://pokemondb.net/pokedex/haunter,Haunter,0.1 kg (0.2 lbs),1.6 m (5′03″),Ghost,Poison,Levitate|
+0090,https://pokemondb.net/pokedex/shellder,Shellder,4.0 kg (8.8 lbs),0.3 m (1′00″),Water,18,Shell Armor|Skill Link|Overcoat|
+0089,https://pokemondb.net/pokedex/muk,Muk,30.0 kg (66.1 lbs),1.2 m (3′11″),Poison,Dark,Stench|Sticky Hold|Poison Touch|Poison Touch|Gluttony|Power of Alchemy|
+0095,https://pokemondb.net/pokedex/onix,Onix,210.0 kg (463.0 lbs),8.8 m (28′10″),Rock,Ground,Rock Head|Sturdy|Weak Armor|
+0087,https://pokemondb.net/pokedex/dewgong,Dewgong,120.0 kg (264.6 lbs),1.7 m (5′07″),Water,Ice,Thick Fat|Hydration|Ice Body|
+0086,https://pokemondb.net/pokedex/seel,Seel,90.0 kg (198.4 lbs),1.1 m (3′07″),Water,,Thick Fat|Hydration|Ice Body|
+0085,https://pokemondb.net/pokedex/dodrio,Dodrio,85.2 kg (187.8 lbs),1.8 m (5′11″),Normal,Flying,Run Away|Early Bird|Tangled Feet|
+0083,https://pokemondb.net/pokedex/farfetchd,Farfetch'd,15.0 kg (33.1 lbs),0.8 m (2′07″),Normal,Flying,Keen Eye|Inner Focus|Defiant|Steadfast|Scrappy|
+0082,https://pokemondb.net/pokedex/magneton,Magneton,60.0 kg (132.3 lbs),1.0 m (3′03″),Electric,Steel,Magnet Pull|Sturdy|Analytic|
+0084,https://pokemondb.net/pokedex/doduo,Doduo,39.2 kg (86.4 lbs),1.4 m (4′07″),Normal,Flying,Run Away|Early Bird|Tangled Feet|
+0081,https://pokemondb.net/pokedex/magnemite,Magnemite,6.0 kg (13.2 lbs),0.3 m (1′00″),Electric,Steel,Magnet Pull|Sturdy|Analytic|
+0080,https://pokemondb.net/pokedex/slowbro,Slowbro,78.5 kg (173.1 lbs),1.6 m (5′03″),Water,Psychic,Oblivious|Own Tempo|Regenerator|Shell Armor|Quick Draw|Own Tempo|Regenerator|
+0079,https://pokemondb.net/pokedex/slowpoke,Slowpoke,36.0 kg (79.4 lbs),1.2 m (3′11″),Water,Psychic,Oblivious|Own Tempo|Regenerator|Gluttony|Own Tempo|Regenerator|
+0078,https://pokemondb.net/pokedex/rapidash,Rapidash,95.0 kg (209.4 lbs),1.7 m (5′07″),Fire,Fairy,Run Away|Flash Fire|Flame Body|Run Away|Pastel Veil|Anticipation|
+0077,https://pokemondb.net/pokedex/ponyta,Ponyta,30.0 kg (66.1 lbs),1.0 m (3′03″),Fire,,Run Away|Flash Fire|Flame Body|Run Away|Pastel Veil|Anticipation|
+0075,https://pokemondb.net/pokedex/graveler,Graveler,105.0 kg (231.5 lbs),1.0 m (3′03″),Rock,Ground,Rock Head|Sturdy|Sand Veil|Magnet Pull|Sturdy|Galvanize|
+0074,https://pokemondb.net/pokedex/geodude,Geodude,20.0 kg (44.1 lbs),0.4 m (1′04″),Rock,Ground,Rock Head|Sturdy|Sand Veil|Magnet Pull|Sturdy|Galvanize|
+0076,https://pokemondb.net/pokedex/golem,Golem,300.0 kg (661.4 lbs),1.4 m (4′07″),Rock,Ground,Rock Head|Sturdy|Sand Veil|Magnet Pull|Sturdy|Galvanize|
+0073,https://pokemondb.net/pokedex/tentacruel,Tentacruel,55.0 kg (121.3 lbs),1.6 m (5′03″),Water,Poison,Clear Body|Liquid Ooze|Rain Dish|
+0072,https://pokemondb.net/pokedex/tentacool,Tentacool,45.5 kg (100.3 lbs),0.9 m (2′11″),Water,Poison,Clear Body|Liquid Ooze|Rain Dish|
+0071,https://pokemondb.net/pokedex/victreebel,Victreebel,15.5 kg (34.2 lbs),1.7 m (5′07″),Grass,Poison,Chlorophyll|Gluttony|
+0070,https://pokemondb.net/pokedex/weepinbell,Weepinbell,6.4 kg (14.1 lbs),1.0 m (3′03″),Grass,Poison,Chlorophyll|Gluttony|
+0069,https://pokemondb.net/pokedex/bellsprout,Bellsprout,4.0 kg (8.8 lbs),0.7 m (2′04″),Grass,Poison,Chlorophyll|Gluttony|
+0068,https://pokemondb.net/pokedex/machamp,Machamp,130.0 kg (286.6 lbs),1.6 m (5′03″),Fighting,,Guts|No Guard|Steadfast|
+0067,https://pokemondb.net/pokedex/machoke,Machoke,70.5 kg (155.4 lbs),1.5 m (4′11″),Fighting,Underground Path 5-6,Guts|No Guard|Steadfast|
+0066,https://pokemondb.net/pokedex/machop,Machop,19.5 kg (43.0 lbs),0.8 m (2′07″),Fighting,Rock Tunnel,Guts|No Guard|Steadfast|
+0065,https://pokemondb.net/pokedex/alakazam,Alakazam,48.0 kg (105.8 lbs),1.5 m (4′11″),Psychic,,Synchronize|Inner Focus|Magic Guard|Trace|
+0064,https://pokemondb.net/pokedex/kadabra,Kadabra,56.5 kg (124.6 lbs),1.3 m (4′03″),Psychic,,Synchronize|Inner Focus|Magic Guard|
+0063,https://pokemondb.net/pokedex/abra,Abra,19.5 kg (43.0 lbs),0.9 m (2′11″),Psychic,6,Synchronize|Inner Focus|Magic Guard|
+0062,https://pokemondb.net/pokedex/poliwrath,Poliwrath,54.0 kg (119.0 lbs),1.3 m (4′03″),Water,Fighting,Water Absorb|Damp|Swift Swim|
+0061,https://pokemondb.net/pokedex/poliwhirl,Poliwhirl,20.0 kg (44.1 lbs),1.0 m (3′03″),Water,23,Water Absorb|Damp|Swift Swim|
+0060,https://pokemondb.net/pokedex/poliwag,Poliwag,12.4 kg (27.3 lbs),0.6 m (2′00″),Water,22,Water Absorb|Damp|Swift Swim|
+0059,https://pokemondb.net/pokedex/arcanine,Arcanine,155.0 kg (341.7 lbs),1.9 m (6′03″),Fire,Rock,Intimidate|Flash Fire|Justified|Intimidate|Flash Fire|Rock Head|
+0058,https://pokemondb.net/pokedex/growlithe,Growlithe,19.0 kg (41.9 lbs),0.7 m (2′04″),Fire,Rock,Intimidate|Flash Fire|Justified|Intimidate|Flash Fire|Rock Head|
+0057,https://pokemondb.net/pokedex/primeape,Primeape,32.0 kg (70.5 lbs),1.0 m (3′03″),Fighting,,Vital Spirit|Anger Point|Defiant|
+0055,https://pokemondb.net/pokedex/golduck,Golduck,76.6 kg (168.9 lbs),1.7 m (5′07″),Water,,Damp|Cloud Nine|Swift Swim|
+0056,https://pokemondb.net/pokedex/mankey,Mankey,28.0 kg (61.7 lbs),0.5 m (1′08″),Fighting,,Vital Spirit|Anger Point|Defiant|
+0053,https://pokemondb.net/pokedex/persian,Persian,32.0 kg (70.5 lbs),1.0 m (3′03″),Normal,,Limber|Technician|Unnerve|Fur Coat|Technician|Rattled|
+0054,https://pokemondb.net/pokedex/psyduck,Psyduck,19.6 kg (43.2 lbs),0.8 m (2′07″),Water,,Damp|Cloud Nine|Swift Swim|
+0051,https://pokemondb.net/pokedex/dugtrio,Dugtrio,33.3 kg (73.4 lbs),0.7 m (2′04″),Ground,Steel,Sand Veil|Arena Trap|Sand Force|Sand Veil|Tangling Hair|Sand Force|
+0052,https://pokemondb.net/pokedex/meowth,Meowth,4.2 kg (9.3 lbs),0.4 m (1′04″),Normal,6,Pickup|Technician|Unnerve|Pickup|Technician|Rattled|Pickup|Tough Claws|Unnerve|
+0050,https://pokemondb.net/pokedex/diglett,Diglett,0.8 kg (1.8 lbs),0.2 m (0′08″),Ground,Steel,Sand Veil|Arena Trap|Sand Force|Sand Veil|Tangling Hair|Sand Force|
+0049,https://pokemondb.net/pokedex/venomoth,Venomoth,12.5 kg (27.6 lbs),1.5 m (4′11″),Bug,Poison,Shield Dust|Tinted Lens|Wonder Skin|
+0048,https://pokemondb.net/pokedex/venonat,Venonat,30.0 kg (66.1 lbs),1.0 m (3′03″),Bug,Poison,Compound Eyes|Tinted Lens|Run Away|
+0047,https://pokemondb.net/pokedex/parasect,Parasect,29.5 kg (65.0 lbs),1.0 m (3′03″),Bug,Grass,Effect Spore|Dry Skin|Damp|
+0046,https://pokemondb.net/pokedex/paras,Paras,5.4 kg (11.9 lbs),0.3 m (1′00″),Bug,Grass,Effect Spore|Dry Skin|Damp|
+0045,https://pokemondb.net/pokedex/vileplume,Vileplume,18.6 kg (41.0 lbs),1.2 m (3′11″),Grass,Poison,Chlorophyll|Effect Spore|
+0044,https://pokemondb.net/pokedex/gloom,Gloom,8.6 kg (19.0 lbs),0.8 m (2′07″),Grass,Poison,Chlorophyll|Stench|
+0043,https://pokemondb.net/pokedex/oddish,Oddish,5.4 kg (11.9 lbs),0.5 m (1′08″),Grass,Poison,Chlorophyll|Run Away|
+0042,https://pokemondb.net/pokedex/golbat,Golbat,55.0 kg (121.3 lbs),1.6 m (5′03″),Poison,Flying,Inner Focus|Infiltrator|
+0040,https://pokemondb.net/pokedex/wigglytuff,Wigglytuff,12.0 kg (26.5 lbs),1.0 m (3′03″),Normal,Fairy,Cute Charm|Competitive|Frisk|
+0041,https://pokemondb.net/pokedex/zubat,Zubat,7.5 kg (16.5 lbs),0.8 m (2′07″),Poison,Flying,Inner Focus|Infiltrator|
+0039,https://pokemondb.net/pokedex/jigglypuff,Jigglypuff,5.5 kg (12.1 lbs),0.5 m (1′08″),Normal,Fairy,Cute Charm|Competitive|Friend Guard|
+0038,https://pokemondb.net/pokedex/ninetales,Ninetales,19.9 kg (43.9 lbs),1.1 m (3′07″),Fire,Fairy,Flash Fire|Drought|Snow Cloak|Snow Warning|
+0037,https://pokemondb.net/pokedex/vulpix,Vulpix,9.9 kg (21.8 lbs),0.6 m (2′00″),Fire,8,Flash Fire|Drought|Snow Cloak|Snow Warning|
+0036,https://pokemondb.net/pokedex/clefable,Clefable,40.0 kg (88.2 lbs),1.3 m (4′03″),Fairy,,Cute Charm|Magic Guard|Unaware|
+0035,https://pokemondb.net/pokedex/clefairy,Clefairy,7.5 kg (16.5 lbs),0.6 m (2′00″),Fairy,,Cute Charm|Magic Guard|Friend Guard|
+0034,https://pokemondb.net/pokedex/nidoking,Nidoking,62.0 kg (136.7 lbs),1.4 m (4′07″),Poison,Ground,Poison Point|Rivalry|Sheer Force|
+0033,https://pokemondb.net/pokedex/nidorino,Nidorino,19.5 kg (43.0 lbs),0.9 m (2′11″),Poison,Safari Zone,Poison Point|Rivalry|Hustle|
+0032,https://pokemondb.net/pokedex/nidoran-m,Nidoran♂ (male),9.0 kg (19.8 lbs),0.5 m (1′08″),Poison,9,Poison Point|Rivalry|Hustle|
+0010,https://pokemondb.net/pokedex/caterpie,Caterpie,2.9 kg (6.4 lbs),0.3 m (1′00″),Bug,24,Shield Dust|Run Away|
+0029,https://pokemondb.net/pokedex/nidoran-f,Nidoran♀ (female),7.0 kg (15.4 lbs),0.4 m (1′04″),Poison,9,Poison Point|Rivalry|Hustle|
+0031,https://pokemondb.net/pokedex/nidoqueen,Nidoqueen,60.0 kg (132.3 lbs),1.3 m (4′03″),Poison,Ground,Poison Point|Rivalry|Sheer Force|
+0012,https://pokemondb.net/pokedex/butterfree,Butterfree,32.0 kg (70.5 lbs),1.1 m (3′07″),Bug,Flying,Compound Eyes|Tinted Lens|
+0028,https://pokemondb.net/pokedex/sandslash,Sandslash,29.5 kg (65.0 lbs),1.0 m (3′03″),Ground,Steel,Sand Veil|Sand Rush|Snow Cloak|Slush Rush|
+0009,https://pokemondb.net/pokedex/blastoise,Blastoise,85.5 kg (188.5 lbs),1.6 m (5′03″),Water,,Torrent|Rain Dish|Mega Launcher|
+0030,https://pokemondb.net/pokedex/nidorina,Nidorina,20.0 kg (44.1 lbs),0.8 m (2′07″),Poison,Safari Zone,Poison Point|Rivalry|Hustle|
+0008,https://pokemondb.net/pokedex/wartortle,Wartortle,22.5 kg (49.6 lbs),1.0 m (3′03″),Water,,Torrent|Rain Dish|
+0006,https://pokemondb.net/pokedex/charizard,Charizard,90.5 kg (199.5 lbs),1.7 m (5′07″),Fire,Flying,Blaze|Solar Power|Tough Claws|Drought|
+0004,https://pokemondb.net/pokedex/charmander,Charmander,8.5 kg (18.7 lbs),0.6 m (2′00″),Fire,,Blaze|Solar Power|
+0002,https://pokemondb.net/pokedex/ivysaur,Ivysaur,13.0 kg (28.7 lbs),1.0 m (3′03″),Grass,Poison,Overgrow|Chlorophyll|
+0005,https://pokemondb.net/pokedex/charmeleon,Charmeleon,19.0 kg (41.9 lbs),1.1 m (3′07″),Fire,,Blaze|Solar Power|
+0007,https://pokemondb.net/pokedex/squirtle,Squirtle,9.0 kg (19.8 lbs),0.5 m (1′08″),Water,,Torrent|Rain Dish|
+0003,https://pokemondb.net/pokedex/venusaur,Venusaur,100.0 kg (220.5 lbs),2.0 m (6′07″),Grass,Poison,Overgrow|Chlorophyll|Thick Fat|
+0011,https://pokemondb.net/pokedex/metapod,Metapod,9.9 kg (21.8 lbs),0.7 m (2′04″),Bug,25,Shed Skin|
