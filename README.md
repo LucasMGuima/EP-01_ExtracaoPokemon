@@ -3,4 +3,3 @@
 Extração feita do site: https://pokemondb.net/pokedex/all
 
 ---
-
