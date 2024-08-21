@@ -24,7 +24,7 @@ class PokemonScrapper(scrapy.Spider):
             'altura': response.css('.vitals-table > tbody > tr:nth-child(4) > td::text').get(),
             'tipo 1': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(1)::text').get(),
             'tipo 2': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(2)::text').get(),
-            'abilities': self.get_abilities(response.css('.vitals-table > tbody > tr:nth-child(6)'))
+            'abilities': self.get_abilities(response.css('.vitals-table > tbody > tr:nth-child(6)')),
         }
 
     def get_abilities(self, response) -> str:
