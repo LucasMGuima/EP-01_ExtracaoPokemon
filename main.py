@@ -1,41 +1,39 @@
 import pandas as pd
+import tools.tratador as tratador
 
-def remove_conchetes(str: str) -> str:
-    return str.split('(')[0]
+tratamento = tratador.Tratador()
 
-def count_abilities(str: str) -> int:
-    count = str.count('|')
-    return count
-
-def tratar_repeticao(str: str) -> str:
-    palavras = str.split('|')[0:-1]
-    tratado = []
-    while len(palavras) > 0:
-        temp = palavras.pop()
-        if temp not in tratado: 
-            tratado.append(temp)
-
-    resp = ""
-    for palavra in tratado:
-        resp += palavra + "|"
-    return resp
-    
-
-
-df_pokemons = pd.read_csv('./dados/file.csv', index_col="pokemon_id")
+df_pokemons = pd.read_csv('./dados/pokemons.csv', index_col="pokemon_id")
 df_abilities = pd.read_csv('./dados/abilities.csv')
 
 #Remove a parte entre parenteses dos valores nas colunas de peso e altura
-df_pokemons['peso'] = df_pokemons['peso'].apply(remove_conchetes)
-df_pokemons['altura'] = df_pokemons['altura'].apply(remove_conchetes)
+df_pokemons['peso'] = df_pokemons['peso'].apply(tratamento.remove_conchetes)
+df_pokemons['altura'] = df_pokemons['altura'].apply(tratamento.remove_conchetes)
 
 #Tratar abilidades repetidas
 abilidades = df_pokemons['abilities']
-abilidades = abilidades.apply(tratar_repeticao)
+abilidades = abilidades.apply(tratamento.tratar_repeticao)
 df_pokemons['abilities'] = abilidades
 
-abilities_count = df_pokemons.loc[df_pokemons['abilities'].apply(count_abilities).idxmax()]
-print(abilities_count)
+#Verifica quem tem mais abilidades
+abilities_count = df_pokemons.loc[df_pokemons['abilities'].apply(tratamento.count_abilities).idxmax()]
 
-#print(df_pokemons.head())
+#Cria X colunas novas, onde X é a quantidade de abilidades de quem tem mais abilidades
+qtd = abilities_count['abilities'].count('|')
+for num in range(qtd):
+    new_columName = f"abilitie {num+1}"
+    df_pokemons[new_columName] = ""
+
+#Coloca as abilidades nas novas colunas
+for id, pokemon in df_pokemons.iterrows():
+    list_abilidade = pokemon['abilities'].split('|')[0:-1]
+    count = 1
+    for abilitie in list_abilidade:
+        pokemon[f'abilitie {count}'] = abilitie
+        count += 1
+    df_pokemons.loc[id] = pokemon
+
+#Remove a coluna original de abilidades
+df_pokemons = df_pokemons.drop('abilities', axis='columns')
+print(df_pokemons.head())
 #print(df_abilities.head())
