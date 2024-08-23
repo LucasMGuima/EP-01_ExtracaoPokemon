@@ -3,6 +3,45 @@ import tools.tratador as tratador
 
 tratamento = tratador.Tratador()
 
+def explode_colunas(df: pd.DataFrame, nome_coluna: str, nome_novas_colunas: str) -> pd.DataFrame:
+    """
+        Explode uma coluna expecifica em varias novas colunas.
+
+        Keyword arguments: \n
+        **df** -> DataFrame do pandas que sera operado. \n
+        **nome_coluna** -> Nome da coluna a ser explodida. \n
+        **nome_novas_colunas** -> Nome que será dado as novas colunas. \n
+
+        Return: \n
+        Retorna um DataFrame pandas com as novas colunas e sem a coluna explodida
+    """
+    #Tratar dados repetidas
+    coluna = df[nome_coluna]
+    coluna = coluna.apply(tratamento.tratar_repeticao)
+    df[nome_coluna] = coluna
+
+    #Verifica quem tem mais entradas na coluna [nome_coluna]
+    elemento = df.loc[df[nome_coluna].apply(tratamento.count_abilities).idxmax()]
+
+    #Cria X colunas novas, onde X é a quantidade de abilidades de quem tem mais abilidades
+    qtd = elemento[nome_coluna].count('|')
+    for num in range(qtd):
+        new_columName = f"{nome_novas_colunas} {num+1}"
+        df[new_columName] = ""
+
+    #Coloca as abilidades nas novas colunas
+    for id, elemento in df.iterrows():
+        list = elemento[nome_coluna].split('|')[0:-1]
+        count = 1
+        for i in list:
+            elemento[f'{nome_novas_colunas} {count}'] = i
+            count += 1
+        df.loc[id] = elemento
+
+    #Remove a coluna original
+    df = df.drop(nome_coluna, axis='columns')
+    return df
+
 df_pokemons = pd.read_csv('./dados/pokemons.csv', index_col="pokemon_id")
 df_abilities = pd.read_csv('./dados/abilities.csv')
 
@@ -10,30 +49,11 @@ df_abilities = pd.read_csv('./dados/abilities.csv')
 df_pokemons['peso'] = df_pokemons['peso'].apply(tratamento.remove_conchetes)
 df_pokemons['altura'] = df_pokemons['altura'].apply(tratamento.remove_conchetes)
 
-#Tratar abilidades repetidas
-abilidades = df_pokemons['abilities']
-abilidades = abilidades.apply(tratamento.tratar_repeticao)
-df_pokemons['abilities'] = abilidades
+#Explode a coluna de evolucao, colocando cada evolucao em uma coluna separada
+df_pokemons = explode_colunas(df_pokemons, 'evolutions', 'evolucao')
+#Faz o mesmo com as abilidade
+df_pokemons = explode_colunas(df_pokemons, 'abilities', 'abilidade')
 
-#Verifica quem tem mais abilidades
-abilities_count = df_pokemons.loc[df_pokemons['abilities'].apply(tratamento.count_abilities).idxmax()]
-
-#Cria X colunas novas, onde X é a quantidade de abilidades de quem tem mais abilidades
-qtd = abilities_count['abilities'].count('|')
-for num in range(qtd):
-    new_columName = f"abilitie {num+1}"
-    df_pokemons[new_columName] = ""
-
-#Coloca as abilidades nas novas colunas
-for id, pokemon in df_pokemons.iterrows():
-    list_abilidade = pokemon['abilities'].split('|')[0:-1]
-    count = 1
-    for abilitie in list_abilidade:
-        pokemon[f'abilitie {count}'] = abilitie
-        count += 1
-    df_pokemons.loc[id] = pokemon
-
-#Remove a coluna original de abilidades
-df_pokemons = df_pokemons.drop('abilities', axis='columns')
-print(df_pokemons.head())
+#Sobre escreve os dados tratados em um arquivo .csv
+df_pokemons.to_csv("saida.csv", mode= "w+")
 #print(df_abilities.head())

@@ -1,3 +1,5 @@
+import math
+
 class Tratador():
     def __init__(self, separador_elemento: str = '|') -> None:
         """
@@ -15,8 +17,9 @@ class Tratador():
         count = str.count(self.separador_elemento)
         return count
 
-    def tratar_repeticao(self, str: str) -> str:
-        palavras = str.split(self.separador_elemento)[0:-1]
+    def tratar_repeticao(self, string: str) -> str:
+        if type(string) != str: return ""
+        palavras = string.split(self.separador_elemento)[0:-1]
         tratado = []
         while len(palavras) > 0:
             temp = palavras.pop()
