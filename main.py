@@ -34,6 +34,10 @@ def explode_colunas(df: pd.DataFrame, nome_coluna: str, nome_novas_colunas: str)
         list = elemento[nome_coluna].split('|')[0:-1]
         count = 1
         for i in list:
+            if '#' in i:
+                nome = str(i).split('-')[1]
+                if nome == elemento['pokemon_name']:
+                    continue
             elemento[f'{nome_novas_colunas} {count}'] = i
             count += 1
         df.loc[id] = elemento
@@ -54,6 +58,11 @@ df_pokemons = explode_colunas(df_pokemons, 'evolutions', 'evolucao')
 #Faz o mesmo com as abilidade
 df_pokemons = explode_colunas(df_pokemons, 'abilities', 'abilidade')
 
-#Sobre escreve os dados tratados em um arquivo .csv
-df_pokemons.to_csv("saida.csv", mode= "w+")
-#print(df_abilities.head())
+df_juncao: pd.DataFrame = pd.DataFrame()
+
+for colum_name in df_pokemons.columns:
+    if 'abilidade' in colum_name:
+        df_temp = pd.merge(df_pokemons, df_abilities, left_on=colum_name, right_on='nome')
+        df_juncao = pd.concat([df_juncao, df_temp])
+
+df_juncao.to_json('pokemons.json', 'records')
